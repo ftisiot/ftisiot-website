@@ -1,0 +1,73 @@
+theme = "story"
+baseURL = "https://ftisiot.net/"
+title = "Francesco Tisiot"
+languagecode = "en"
+defaultcontentlanguage = "en"
+
+paginate = 20
+
+pygmentsstyle = "bw"
+pygmentscodefences = true
+pygmentscodefencesguesssyntax = true
+
+disqusShortname = "ftisiot"
+disableComments = true
+
+[params]
+  author = "Francesco Tisiot"
+  info = "Developer Advocate ad Aiven"
+  description = "Francesco Tisiot's personal website"
+  keywords = "aiven,kafka,influxdb,elasticsearch,oracle,blog,developer,personal"
+  avatarurl = "images/ftisiot.png"
+  #gravatar = "john.doe@example.com"
+
+  favicon_32 = "images/ftisiot-32x32.png"
+  favicon_16 = "images/ftisiot-16x16.png"
+
+  footercontent = "Written by ftisiot"
+  hideFooter = true
+  hideCredits = true
+  hideCopyright = false
+  since = 2019
+
+  enableTwemoji = true
+
+  colorsheme = "auto"
+  hidecolorschemetoggle = true
+
+#  customCSS = ["css/custom.css"]
+#  customSCSS = ["scss/custom.scss"]
+#  customJS = ["js/custom.js"]
+
+[taxonomies]
+  category = "categories"
+  series = "series"
+  tag = "tags"
+  author = "authors"
+
+# Social links
+[[params.social]]
+  name = "Github"
+  icon = "fa fa-github fa-2x"
+  weight = 1
+  url = "https://github.com/FrancescoTisiot/"
+[[params.social]]
+  name = "Twitter"
+  icon = "fa fa-twitter fa-2x"
+  weight = 3
+  url = "https://twitter.com/ftisiot/"
+[[params.social]]
+  name = "Linkedin"
+  icon = "fa fa-linkedin fa-2x"
+  weight = 3
+  url = "https://www.linkedin.com/in/francescotisiot/"
+
+# Menu links
+[[menu.main]]
+  name = "Blog"
+  weight = 1
+  url  = "posts/"
+[[menu.main]]
+  name = "Who?"
+  weight = 2
+  url = "whothehell/"

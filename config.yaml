@@ -1,0 +1,68 @@
+theme: "story"
+baseURL: "https://ftisiot.net"
+languageCode : "en-us"
+title: "ftisiot ideas about food and life"
+googleAnalytics: "test"
+paginate: 20
+pygmentsStyle: pygments
+
+params:
+  AuthorName: Francesco Tisiot
+  GitHubUser: "ftisiot"
+  image: "images/ftisiot.png"
+permalinks:
+  post: /:year/:month/:day/:title/
+
+taxonomies:
+  category: categories
+  tag: tag
+
+outputs:
+   home:
+      - HTML
+      - JSON
+      - RSS
+   page:
+      - HTML
+   section:
+      - HTML
+      - RSS
+   taxonomy:
+      - HTML
+      - RSS
+   taxonomyTerm:
+      - HTML
+      - RSS
+
+menu:
+  main:
+  - name: who
+    title: who
+    url: whothehell
+    weight: -10
+  - name: talks
+    title: talks
+    url: talks
+    weight: -9
+  social:
+  - name: github
+    title: "fab fa-github-square"
+    url: https://github.com/FrancescoTisiot/
+    weight: -6
+  - name: youtube
+    title: "fab fa-youtube-square"
+    url: https://www.youtube.com/c/ftisiot
+    weight: -8
+  - name: twitter
+    title: "fab fa-twitter-square"
+    url: https://twitter.com/ftisiot/
+    weight: -7
+  - name: linkedin
+    title: "fab fa-linkedin"
+    url: https://www.linkedin.com/in/francescotisiot/
+    weight: -5
+
+markup:
+  asciidocExt:
+    attributes: {allow-uri-read}
+    safeMode: unsafe

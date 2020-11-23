@@ -1,0 +1,15 @@
+[submodule "hugo-geekblog"]
+	path = hugo-geekblog
+	url = https://github.com/thegeeklab/hugo-geekblog.git
+[submodule "themes/ananke"]
+	path = themes/ananke
+	url = https://github.com/budparr/gohugo-theme-ananke.git
+[submodule "themes/geekblog"]
+	path = themes/geekblog
+	url = https://github.com/thegeeklab/hugo-geekblog.git
+[submodule "themes/hugo-coder"]
+	path = themes/hugo-coder
+	url = https://github.com/luizdepra/hugo-coder.git
+[submodule "themes/story"]
+	path = themes/story
+	url = https://github.com/xaprb/story.git
