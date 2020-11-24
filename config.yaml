@@ -6,11 +6,12 @@ googleAnalytics: "UA-183917003-1"
 paginate: 10
 pygmentsStyle: pygments
 
+
 params:
   AuthorName: Francesco Tisiot
   GitHubUser: "ftisiot"
   image: "images/ftisiot.png"
-  
+
 permalinks:
   post: /:year/:month/:day/:title/
 
