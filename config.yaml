@@ -38,7 +38,7 @@ menu:
   main:
   - name: who
     title: who
-    url: /whothehell
+    url: /who
     weight: -10
   - name: talks
     title: talks

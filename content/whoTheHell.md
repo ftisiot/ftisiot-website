@@ -1,6 +1,6 @@
 ---
-slug : "whothehell"
-title: "Who The Hell is Francesco Tisiot?"
+slug : "who"
+title: "Who is Francesco Tisiot?"
 #categories: ["whoamI", "ftisiot", "FrancescoTisiot"]
 date: 2016-09-28T20:00:20Z
 description: ""
