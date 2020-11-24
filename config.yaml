@@ -3,7 +3,7 @@ baseURL: "https://ftisiot.github.io"
 languageCode : "en-us"
 title: "ftisiot ideas about food and life"
 googleAnalytics: "UA-183917003-1"
-paginate: 20
+paginate: 10
 pygmentsStyle: pygments
 
 params:
