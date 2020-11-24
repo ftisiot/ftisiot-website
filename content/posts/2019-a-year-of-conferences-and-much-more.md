@@ -32,15 +32,17 @@ Now, let's see with a bit of detail what happened in the year we're about to clo
 
 January for me is a very busy month, I'm part of the fantastic [Italian Oracle User Group Board](https://itoug.it/organizzazione/) preparing the yearly conference named Tech Days. Since few years the event has a double location Milan and Rome. I presented, joined by Christian Berg about "[Starting an Oracle Analytics Journey from 0](https://itoug.it/wp-content/uploads/2019/02/Francesco-Tisiot-OAC-From-A-to-Z.pdf)" covering the basics of what OAC is capable of.
 
-https://twitter.com/ElffarAnalytics/status/1091282096679800832?ref_src=twsrc%5Etfw
+
+{{< tweet 1091282096679800832 >}}
 
 The ITOUG community is growing, with [Tech Days 2020](https://itoug.it/eventi/tech-days-2020/) coming next January, last year the event was a success and I believe we made both attendees and speakers happy. For the latter we organised a guided tour in Rome including a visit of the Colosseum!
 
-https://twitter.com/IT_OUG/status/1090970197547200512?ref_src=twsrc%5Etfw
+
+{{< tweet 1090970197547200512 >}}
 
 Last but not least, it's always nice to keep the traditions live, like Mr Berg not being able to fly back straight after the Rome event (2nd year in a row), this time joined by Mr Gianni Ceresa (look for #TheBergEffect for more details).
 
-https://twitter.com/FTisiot/status/1091384372660449281?ref_src=twsrc%5Etfw
+{{< tweet 1091384372660449281 >}}
 
 Read more about ITOUG Tech Days 2019 in [Heli's article in OraWorld](http://www.oraworld.org/fileadmin/documents/14-ORAWORLD.pdf)!
 
@@ -50,7 +52,7 @@ Read more about ITOUG Tech Days 2019 in [Heli's article in OraWorld](http://www.
 
 March has been a busy month conference wise, with both the [Analytics & Data Summit](https://analyticsanddatasummit.org/schedule/) and the [Oracle User Group Norway](https://ougn2020.com) happening almost side by side! I had several talks in both of them mainly related to the figure of the Data Scientist and how [Oracle Analytics Cloud allows to start your path into data science and machine learning](https://speakerdeck.com/ftisiot/become-a-data-scientist). One of the most popular talks merged two of my favourite topics: Wine and data science! the "[Is it Corked : Wine Machine Learning Predictions with OAC](https://speakerdeck.com/ftisiot/is-it-corked-wine-machine-learning-predictions-with-oac-474fe035-e821-4531-9cf4-62e3224cd622)" was presented in several conferences over the year!
 
-https://twitter.com/FTisiot/status/1102906415151222785?ref_src=twsrc%5Etfw
+{{< tweet 1102906415151222785 >}}
 
 The talks were based on a series of blog posts about [Democratising Data Science with OAC](https://www.rittmanmead.com/blog/2019/04/democratize-data-science-with-oracle-analytics-cloud/).
 
@@ -75,7 +77,7 @@ Using Python to write a Consumer/Producer that reads from Kafka, calls the Googl
 
 The Iaas and PaaS forum event hosted in Rome aimed at strengthening the relationship between Oracle and their partners. During the event I presented a quick 15 min talk about "[Data Science Best Practices with OAC](https://speakerdeck.com/ftisiot/data-science-with-oac-best-practises)".
 
-https://twitter.com/FTisiot/status/1125808611387674624?ref_src=twsrc%5Etfw
+{{< tweet 1125808611387674624 >}}
 
 
 ## June - Kscope
@@ -83,11 +85,11 @@ https://twitter.com/FTisiot/status/1125808611387674624?ref_src=twsrc%5Etfw
 
 As mentioned above June was for me a big hit! I was nominated ACE Director during the opening Keynote of Kscope19! Kscope is an amazing conference with huge takeaways in terms of content and people, I'm sad next year I won't be able to attend for personal impediments! At Kscope19 I had two talks: the "[Is it Corked: Wine ML predictions with OAC](https://speakerdeck.com/ftisiot/is-it-corked-wine-machine-learning-predictions-with-oac-474fe035-e821-4531-9cf4-62e3224cd622)" and a new one "[Become an Equilibrista: find the right balance in the analytics Tech Ecosystem](https://speakerdeck.com/ftisiot/become-an-equilibrista-find-the-right-balance-in-the-analytics-tech-ecosystem-dad5788b-363f-4d39-9819-2edb16acd2bb)" talking about how to efficiently mix Centralized BI and Self Service analytics.
 
-https://twitter.com/FTisiot/status/1143627681579319296?ref_src=twsrc%5Etfw
+{{< tweet 1125808611387674624 >}}
 
 Kscope is also nice since I always get the chance to see a lot of familiar faces from Europe and US!
 
-https://twitter.com/rmoff/status/1143314891744223233?ref_src=twsrc%5Etfw
+{{< tweet 1143314891744223233 >}}
 
 
 ## July - Confluent Blog Post and Spatial Studio
@@ -123,7 +125,7 @@ August is traditionally a holiday season without a lot of conferences around. I 
 
 I was honoured to be selected to speak at OOW19. My "[Become a Data Scientist](https://speakerdeck.com/ftisiot/become-a-data-scientist)" talk was accepted and over 100 people joined it!
 
-https://twitter.com/FTisiot/status/1173956828029497346?ref_src=twsrc%5Etfw
+{{< tweet 1173956828029497346 >}}
 
 I published a review of [OOW announcements](https://www.rittmanmead.com/blog/2019/09/oow-2019-review-general/) with a dedicated [deep dive for Oracle Analytics](https://www.rittmanmead.com/blog/2019/09/oow19-review-oracle-analytics-deep-dive/). This was followed by a later post about an enhancement in OAC which provides details about the [Maps Data Quality in the visualisations](https://www.rittmanmead.com/blog/2019/10/oac_v105_4_map_data_quality/).
 
@@ -137,7 +139,7 @@ UKOUG is always the conference closing the year, this time it was in my company 
 
 I was there with two talks: the "[Is it Corked: Wine ML predictions with OAC](https://speakerdeck.com/ftisiot/is-it-corked-wine-machine-learning-predictions-with-oac-474fe035-e821-4531-9cf4-62e3224cd622)" and the "[Become an Equilibrista: find the right balance in the analytics Tech Ecosystem](https://speakerdeck.com/ftisiot/become-an-equilibrista-find-the-right-balance-in-the-analytics-tech-ecosystem-dad5788b-363f-4d39-9819-2edb16acd2bb)" plus I did an appearance in Charlie Berger's Wine session too which included Oracle Autonomous Datawarehouse, Oracle Machine Learning and Oracle Analytics Cloud!
 
-https://twitter.com/CharlieDataMine/status/1202016548703129601?ref_src=twsrc%5Etfw
+{{< tweet 1202016548703129601 >}}
 
 
 ## A Great Year is Almost Over
@@ -147,10 +149,12 @@ As you could imagine, 2019 was a busy year, lots of conferences and the daily wo
 
 However the biggest highlights are something not mentioned in the above list but is related to what I find when I come back: my older boss
 
-https://twitter.com/FTisiot/status/1175306523431624705?ref_src=twsrc%5Etfw
+
+{{< tweet 1175306523431624705 >}}
 
 And my younger boss
 
-https://twitter.com/FTisiot/status/1186970528873144320?ref_src=twsrc%5Etfw
+
+{{< tweet 1186970528873144320 >}}
 
 Hope your 2019 was good as mine and wish you an even better 2020! (And you're still in time to register for [ITOUG Tech Days 2020](https://itoug.it/eventi/tech-days-2020/)!)
