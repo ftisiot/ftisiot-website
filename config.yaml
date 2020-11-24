@@ -10,7 +10,7 @@ params:
   AuthorName: Francesco Tisiot
   GitHubUser: "ftisiot"
   image: "images/ftisiot.png"
-  favicon: "images/favicon.ico"
+  
 permalinks:
   post: /:year/:month/:day/:title/
 
