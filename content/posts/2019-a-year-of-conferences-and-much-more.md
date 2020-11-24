@@ -20,7 +20,7 @@ classes:
 
 The 2019 end-of-year holiday period is approaching, before closing the laptop for few days it's good to look back how the year went. It has been very busy working wise: client work, conference preparation and talks, blog posts and videos kept my time well occupied. I also had an amazing news in June, when, during [Kscope 19](https://kscope19.odtug.com), I was invited on the stage and announced as [Oracle ACE Director](https://www.oracle.com/technetwork/community/oracle-ace/index.html)
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Congratulations to new Oracle ACE Directors <a href="https://twitter.com/FTisiot?ref_src=twsrc%5Etfw">@ftisiot</a> <a href="https://twitter.com/thtechnology?ref_src=twsrc%5Etfw">@thtechnology</a> <a href="https://twitter.com/fdmeeguru?ref_src=twsrc%5Etfw">@fdmeeguru</a>!! <a href="https://twitter.com/hashtag/Kscope19?src=hash&amp;ref_src=twsrc%5Etfw">#Kscope19</a> <a href="https://t.co/ASUgNbZZfr">pic.twitter.com/ASUgNbZZfr</a></p>&mdash; Oracle ACE Program (@oracleace) <a href="https://twitter.com/oracleace/status/1143242212114722816?ref_src=twsrc%5Etfw">June 24, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+{{< tweet 1143242212114722816 >}}
 
 The ACE community is an amazing group of people willing to donate part of their time for the community, and I feel lucky being part of it!
 
