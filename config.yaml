@@ -2,7 +2,7 @@ theme: "story"
 baseURL: "https://ftisiot.github.io"
 languageCode : "en-us"
 title: "ftisiot ideas about food and life"
-googleAnalytics: "G-2DNEGHBKNC"
+googleAnalytics: "UA-183917003-1"
 paginate: 20
 pygmentsStyle: pygments
 
