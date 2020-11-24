@@ -38,20 +38,20 @@ menu:
   main:
   - name: who
     title: who
-    url: whothehell
+    url: /whothehell
     weight: -10
   - name: talks
     title: talks
-    url: talks
+    url: /speaking-activities
     weight: -9
   social:
   - name: github
     title: "fab fa-github-square"
-    url: https://github.com/FrancescoTisiot/
+    url: https://github.com/ftisiot/
     weight: -6
   - name: youtube
     title: "fab fa-youtube-square"
-    url: https://www.youtube.com/c/ftisiot
+    url: https://www.youtube.com/channel/UCTJ4oA3-T3RdmM2OJ7d8cJg
     weight: -8
   - name: twitter
     title: "fab fa-twitter-square"

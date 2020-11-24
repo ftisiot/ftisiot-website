@@ -3,16 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://ftisiot.net/speaking-activities/</loc>
-    <lastmod>2020-11-23T15:58:39+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ftisiot.net/ttt/</loc>
-    <lastmod>2020-11-23T15:41:14+01:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://ftisiot.net/</loc>
     <lastmod>2020-11-23T14:39:49+01:00</lastmod>
   </url>
@@ -28,15 +18,57 @@
   </url>
   
   <url>
-    <loc>https://ftisiot.net/categories/</loc>
+    <loc>https://ftisiot.net/analytics-everywhere-webinar/</loc>
+    <lastmod>2020-09-02T12:49:47+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ftisiot.net/tag/presentation/</loc>
+    <lastmod>2016-09-28T20:01:20+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ftisiot.net/speaking-activities/</loc>
+    <lastmod>2016-09-28T20:01:20+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ftisiot.net/tag/speaking-activities/</loc>
+    <lastmod>2016-09-28T20:01:20+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://ftisiot.net/tag/</loc>
+    <lastmod>2016-09-28T20:01:20+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ftisiot.net/tag/talks/</loc>
+    <lastmod>2016-09-28T20:01:20+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ftisiot.net/tag/francescotisiot/</loc>
+    <lastmod>2016-09-28T20:00:20+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ftisiot.net/tag/ftisiot/</loc>
+    <lastmod>2016-09-28T20:00:20+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://ftisiot.net/whothehell/</loc>
+    <lastmod>2016-09-28T20:00:20+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ftisiot.net/tag/whoami/</loc>
+    <lastmod>2016-09-28T20:00:20+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ftisiot.net/categories/</loc>
   </url>
   
 </urlset>
