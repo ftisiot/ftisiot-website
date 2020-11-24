@@ -14,6 +14,10 @@ tags:
 - Oracle
 - Oracle Analytics Cloud
 - Oracle Machine Learning
+classes:
+- feature-tweetquote
+- feature-nosubtitle
+- feature-nohdr
 ---
 
 The 2019 end-of-year holiday period is approaching, before closing the laptop for few days it's good to look back how the year went. It has been very busy working wise: client work, conference preparation and talks, blog posts and videos kept my time well occupied. I also had an amazing news in June, when, during [Kscope 19](https://kscope19.odtug.com), I was invited on the stage and announced as [Oracle ACE Director](https://www.oracle.com/technetwork/community/oracle-ace/index.html)
