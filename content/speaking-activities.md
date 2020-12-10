@@ -14,7 +14,6 @@ Check out Past and Future Speaking Activities!
 # Planned Speaking Activities
 |Event|Date|Talk|
 |---|---|---|
-|UKOUG Virtual Conference|1st Dec|[Governed vs Self-Service Analytics Round Table](https://ukoug.org/page/ukougconfanalyticsroundtable)|
 |Sangam 2020|12th Dec|[Rapid Fire: Machine Learning](https://www.aioug.org/sangam20-sessions?session_id=177)|
 |Sangam 2020|12th Dec|[Predicting Good Wines in the Database with Oracle Machine Learning](https://www.aioug.org/sangam20-sessions?session_id=170)|
 
@@ -22,6 +21,7 @@ Check out Past and Future Speaking Activities!
 
 |Event|Date|Talk|
 |---|---|---|
+|UKOUG Virtual Conference|1st Dec|[Governed vs Self-Service Analytics Round Table](https://ukoug.org/page/ukougconfanalyticsroundtable)|
 |AUSOUG Virtual Connect 2020|11th Nov|[Predicting Good Wines in the Database with Oracle Machine Learning and Oracle analytics Cloud](https://ausoug.org.au/news/virtual-connect-2020/)|
 |OGB APAC Tour|26th Oct|[Upgrade to OAS:Why and How?](https://oracle-groundbreakers-apac-virtual-tour-2020.heysummit.com/speakers/francesco-tisiot/)|
 |OGB APAC Tour|20th Oct|[Become a Data Scientist with OAC](https://oracle-groundbreakers-apac-virtual-tour-2020.heysummit.com/speakers/francesco-tisiot/)|
