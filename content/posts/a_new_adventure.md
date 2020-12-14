@@ -34,7 +34,11 @@ But...on the bright side, being an Italian in an almost 100% English company was
 
 The first set of years passed by really quickly: I was learning tons of new stuff, putting my hands on complex projects in very different environments, facing a variety of clients coming from a multitude of different cultures which enriched me technically and as a person. My colleagues had tons of experience and helped me a lot along the way.
 
-One of Rittman Mead's missions was, and is nowadays, the public sharing🎤. RM website is the source of an incredible amount of technical blogs explaining and giving examples of a number of different technologies. I was initially afraid of writing, mainly due to myself being a non-native english speaker, but was encouraged and helped to do so by a lot of colleagues.
+I've been an atypical consultant, I spent nearly 80% my time in Rittman Mead following various project run by a unique client in the Netherlands. I really enjoyed working with the client, facing complex problems, gaining a really deep understanding of the business and its datasets. I worked with several RM colleagues in the process, with the main two being Mark and Mike. We were a great team and, when Mike left us a couple of years back, we felt we lost an incredible man and very good friend.
+
+![Mark and Mike](/images/2020/12/mark_mike.jpeg)
+
+One of Rittman Mead's missions was, and is nowadays, the public sharing🎤. RM website is the source of an incredible amount of technical blogs explaining and giving examples of a number of different technologies. I was initially afraid of writing, mainly due to myself being a non-native english speaker, but was encouraged and helped to do so by a lot of colleagues (Hi Robin, Becky, Andrew and Waveney!).
 
 I then started [blogging](http://ritt.md/FT)🖌, about solutions to problems I was facing and about the news that were happening in the Oracle Analytic space. I immediately discovered that blogging wasn't only useful for the readers, but was also an activity that I enjoyed performing and that was improving my understanding of topics and my writing skills!
 
@@ -60,7 +64,7 @@ Rittman Mead has been great in supporting me on this level too. Giving me the ti
 
 Speaking is only part of the deal. I loved conferences also for other aspects... I was going there to give my talk, but also to listen other's people one! Grab new ideas, new aspects or points-of-view about known topics and learn completely new tech from people experiencing it on the day-to-day job.
 
-The #1️⃣&nbsp; items in my conference-❤️&nbsp; list, however, are **Networking** and **People**! Being able to talk 1-1 or in small groups about topics, over a beer or a meal, until late at night. Discuss about technical solutions, having direct honest feedback about your work from people, colleagues, friends... even if they are competitors (hi Stewart!) meant, and means today, a lot for me.
+The #1️⃣&nbsp; items in my conference-❤️&nbsp; list, however, are **Networking** and **People**! Being able to talk 1-1 or in small groups about topics, over a beer or a meal, until late at night. Discuss about technical solutions, having direct honest feedback about your work from people, colleagues, friends... even if they are competitors (hi Stewart, Gianni, Christian!) meant, and means today, a lot for me.
 
 ![kscope18](/images/2020/12/kscope18.jpeg)
 
