@@ -11,6 +11,7 @@ params:
   AuthorName: Francesco Tisiot
   GitHubUser: "ftisiot"
   image: "images/ftisiot.png"
+  enableEmoji: true
 
 permalinks:
   post: /:year/:month/:day/:title/
@@ -68,3 +69,4 @@ markup:
   asciidocExt:
     attributes: {allow-uri-read}
     safeMode: unsafe
+    enableEmoji: true
