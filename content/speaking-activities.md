@@ -14,7 +14,7 @@ Check out Past and Future Speaking Activities!
 # Planned Speaking Activities
 |Event|Date|Talk|
 |---|---|---|
-|Event Name|Date|[Title|
+| | | |
 
 
 # Previous Speaking Activities
