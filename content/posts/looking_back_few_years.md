@@ -4,7 +4,7 @@ date: 2020-12-23 10:00:00+00:00
 draft: false
 title: Looking Back
 type: post
-url: /2020/11/26/looking_back/
+url: /2020/12/23/looking_back/
 image: "/images/2020/12/journey.jpeg"
 thumbnail: "/images/2020/12/journey.jpeg"
 credit: "https://twitter.com/ftisiot/"
