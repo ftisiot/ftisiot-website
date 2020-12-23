@@ -1,10 +1,10 @@
 ---
 author: ftisiot
-date: 2020-12-09 10:00:00+00:00
-draft: true
-title: The End of a Long Journey... The Start of a New One!
+date: 2020-12-23 10:00:00+00:00
+draft: false
+title: Looking Back
 type: post
-url: /2020/11/26/the-end-of-a-long-journey-the-start-of-a-new-one/
+url: /2020/11/26/looking_back/
 image: "/images/2020/12/journey.jpeg"
 thumbnail: "/images/2020/12/journey.jpeg"
 credit: "https://twitter.com/ftisiot/"
@@ -15,6 +15,8 @@ tags:
 - profession
 - adventure
 - Rittman Mead
+- Analytics
+- Look Back
 ---
 
 It was February 2012 when I was meant to take a flight from a foggy Treviso Airport direction London Stansted. The fog created several problems, all passengers were taken by bus to Venice and we had to wait 3 hours before boarding on the plane. The flight 🛬 &nbsp; landed with an overall 4h of delay, not great if the scheduled arrival time was 8PM! I then caught a bus to Liverpool street and finally got lost while trying to reach my hotel. I finally managed to arrive in bed at 3.30AM.
@@ -34,7 +36,7 @@ But...on the bright side, being an Italian in an almost 100% English company was
 
 The first set of years passed by really quickly: I was learning tons of new stuff, putting my hands on complex projects in very different environments, facing a variety of clients coming from a multitude of different cultures which enriched me technically and as a person. My colleagues had tons of experience and helped me a lot along the way.
 
-I've been an atypical consultant, I spent nearly 80% my time in Rittman Mead following various project run by a unique client in the Netherlands. I really enjoyed working with the client, facing complex problems, gaining a really deep understanding of the business and its datasets. I worked with several RM colleagues in the process, with the main two being Mark and Mike. We were a great team and, when Mike left us a couple of years back, we felt we lost an incredible man and very good friend.
+I've been an atypical consultant, I spent nearly 80% my time in Rittman Mead following various project run by a unique client in the Netherlands. I really enjoyed working with the client, facing complex problems, gaining a really deep understanding of the business and its datasets. I worked with several RM colleagues in the process, with the main two being Mark and Mike. We were a great team and, when Mike left us few years back, we felt we lost an incredible man and very good friend.
 
 ![Mark and Mike](/images/2020/12/mark_mike.jpeg)
 
