@@ -27,6 +27,6 @@ This is my personal blog! Stay tuned for ideas, tests and opinions related to my
 
 ## Personal BIO
 
-Francesco is the Analytics Tech Lead at Rittman Mead, Oracle ACE Director and Data Enthusiast. Helping companies understand, organise, expose their data and gain insight for more than 10 years.
+Francesco is a Developer Advocate at Aiven, Oracle ACE Director and Data Enthusiast. Helping companies understand, organise, expose their data and gain insight for more than 10 years.
 
 Speaker in all the major Oracle Conferences he shares his love for Data & Analytics while fighting a battle against bad Italian food!
