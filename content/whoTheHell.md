@@ -27,6 +27,4 @@ This is my personal blog! Stay tuned for ideas, tests and opinions related to my
 
 ## Personal BIO
 
-Francesco is a Developer Advocate at Aiven, Oracle ACE Director and Data Enthusiast. Helping companies understand, organise, expose their data and gain insight for more than 10 years.
-
-Speaker in all the major Oracle Conferences he shares his love for Data & Analytics while fighting a battle against bad Italian food!
+Francesco comes from Verona, Italy and works as a Developer Advocate at Aiven. With his many years of experience as a data analyst, he has stories to tell and advice for data-wranglers everywhere. Francesco loves sharing knowledge with others as a speaker and writer, and is on a mission to defend the world from bad Italian food!
