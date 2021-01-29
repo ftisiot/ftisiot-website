@@ -1,6 +1,6 @@
 ---
 author: ftisiot
-date: 2021-01-29 10:30:00+00:00
+date: 2021-01-29 09:30:00+00:00
 draft: true
 title: A Month in Aiven.io
 type: false
@@ -17,7 +17,7 @@ tags:
 
 A month has already gone since my start at [Aiven.io](https://aiven.io/) and it's time for a first, and brief, look back at my experience so far together with few suggestions (even if nobody asks) for anyone that will follow my steps.
 
-**TL;DR**: The journey has been great, met several amazing people and learnt lots using cool tech! A bit shocked about food choices... but that's life 🤌&nbsp;! 
+**TL;DR**: The journey has been great, met several amazing people and learnt lots using cool tech! A bit shocked about food choices... but that's life 🤌&nbsp;!
 
 
 <!--more-->
