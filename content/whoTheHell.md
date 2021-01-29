@@ -21,7 +21,7 @@ Some more resources:
 
 * My previous and next Speaking activities in the [dedicated page](/speaking-activities)
 * The slides of my previous speaking engagements on [SpeakerDeck](https://speakerdeck.com/ftisiot)  
-* My current company (Rittman Mead) related articles in Rittman Mead’s [blog](http://ritt.md/FT)
+* My previous company (Rittman Mead) related articles in Rittman Mead’s [blog](http://ritt.md/FT)
 
 This is my personal blog! Stay tuned for ideas, tests and opinions related to my work. All the content written here is my own and don’t necessary reflect my company vision.
 
