@@ -1,9 +1,9 @@
 ---
 author: ftisiot
-date: 2021-01-27 08:30:00+00:00
+date: 2021-01-29 10:30:00+00:00
 draft: true
 title: A Month in Aiven.io
-type: post
+type: false
 url: /2021/01/27/a_month_in_aiven/
 image: "/images/2021/01/aiven_m.png"
 thumbnail: "/images/2021/01/aiven_s.png"
