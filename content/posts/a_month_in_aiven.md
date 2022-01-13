@@ -22,7 +22,7 @@ A month has already gone since my start at [Aiven.io](https://aiven.io/) and it'
 
 <!--more-->
 
-{{< tweet 1349314172979458049 >}}
+{{< tweet user="ftisiot" id="1349314172979458049" >}}
 
 
 ## Role‍ and Company 👨‍💻+🥑
