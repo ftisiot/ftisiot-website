@@ -14,7 +14,9 @@ Check out Past and Future Speaking Activities!
 # Planned Speaking Activities
 |Event|Date|Talk|
 |---|---|---|
-| | | |
+|FOSDEM 2022|5th Feb|[Build an Open Source Streaming Data Pipeline](https://fosdem.org/2022/schedule/event/batch_proc_data_streaming/)|
+|FOSDEM 2022|6th Feb|[Get to know Apache Kafka with Jupyter Notebooks](https://fosdem.org/2022/schedule/event/python_kafka/)|
+|FOSDEM 2022|6th Feb|[Solving the knapsack problem with recursive queries and PostgreSQL](https://fosdem.org/2022/schedule/event/postgresql_solving_the_knapsack_problem_with_recursive_queries_and_postgresql/)|
 
 
 # Previous Speaking Activities
