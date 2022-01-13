@@ -25,7 +25,7 @@ A month has already gone since my start at [Aiven.io](https://aiven.io/) and it'
 {{< tweet user="ftisiot" id="1349314172979458049" >}}
 
 
-## Role‍ and Company 👨‍💻+🥑
+## Role and Company 👨‍💻+🥑
 
 First time for me being a Developer Advocate, first time not a pure IT position, first time working within the Marketing department. Lots of changes but also a new refreshing experience! I feel I'm doing quite a jump in the way companies nowadays work, collaborate and produce content.
 The role is a glue between Aiven and external developers, but also an internal glue between product, engineering and marketing! Excited to start working on it!
