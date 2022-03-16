@@ -1,2 +1,0 @@
-- ENHANCEMENT
-  - disable user selection on nav control button
