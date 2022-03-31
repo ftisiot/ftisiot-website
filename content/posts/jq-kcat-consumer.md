@@ -16,6 +16,8 @@ categories:
 
 I was working on some demos recently on the Apache Kafka source connectors (hi #KafkaSummit!), and trying to display the stream of changes in the resulting Apache Kafka topic.
 
+<!--more-->
+
 My standard approach is to vertically divide the terminal and have on the left the database connection where I can issue commands and on the right the output of [kcat](https://docs.confluent.io/platform/current/app-development/kafkacat-usage.html). This setup works really well for simple messages, but when using it with a [Debezium source connector](https://developer.aiven.io/docs/products/kafka/kafka-connect/howto/debezium-source-connector-pg.html), the amount of fields pushed in a single message makes it hardly parsable by a live audience watching a screen.
 
 ![Unparsable JSON](/images/2022/unparsable_json.jpg)
