@@ -2,8 +2,6 @@
 title: "I Don't Want to Miss a Thing - Track Database Changes with Apache Kafka"
 date: "2022-02-22T12:22:35+01:00"
 url: "/talks/track-database-changes/"
-event: "Nordic PG Day 2022"
-site: "https://2022.nordicpgday.org/"
 video: ""
 slides: "/slides/track-database-changes/track-database-changes.pdf"
 thumbnail: "/slides/track-database-changes/thumbnail.jpg"
@@ -21,4 +19,5 @@ tag: ["apache-kafka", "debezium", "cdc"]
 * [How to Debezium in Aiven docs](https://developer.aiven.io/docs/products/kafka/kafka-connect/howto/debezium-source-connector-pg.html)
 * [JDBC source connector example](https://aiven.io/blog/using-kafka-connect-jdbc-source-a-postgresql-example)
 * [Debezium source connector example](https://aiven.io/blog/db-technology-migration-with-apache-kafka-and-kafka-connect)
+* [JDBC Source Connector: what could go wrong?](https://www.kafka-summit.org/sessions/jdbc-source-connector-what-could-go-wrong)
 * [Aiven for PostgreSQL](https://landing.aiven.io/en/aiven-for-postgresql/)
