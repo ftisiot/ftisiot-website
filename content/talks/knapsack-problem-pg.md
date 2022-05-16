@@ -2,7 +2,7 @@
 title: 'Solving the Knapsack Problem with Recursive Queries and PostgreSQL'
 date: "2022-05-02T14:54:29+02:00"
 url: "/talks/knapsack-problem-pg/"
-event: ""
+event: "Multiple"
 location: ""
 site: ""
 video: ""
