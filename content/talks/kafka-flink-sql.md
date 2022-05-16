@@ -2,7 +2,7 @@
 title: 'Apache Kafka and Flink: Stateful Streaming Data Pipelines made easy with SQL'
 date: "2022-03-15T16:12:47+01:00"
 url: "/talks/kafka-flink-sql/"
-event: ""
+event: "Multiple"
 location: ""
 site: ""
 video: ""

@@ -7,7 +7,7 @@ location: "Florence"
 site: ""
 video: ""
 slides: "/slides/flask-kafka/flask-kafka.pdf"
-thumbnail: "≈"
+thumbnail: "/slides/flask-kafka/thumbnail.jpg"
 image: "/slides/flask-kafka/cover.jpg"
 description: "Talk about creating an application with Flask and ApacheKafka"
 tag: ["apache-kafka", "flask", "event-driven-applications"]
