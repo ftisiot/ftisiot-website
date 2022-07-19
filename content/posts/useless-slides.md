@@ -14,7 +14,7 @@ categories:
 - Slides
 ---
 
-Every time someone talks about slides design a great debate is generated. People have opinions and, guess what? Specifically in the area of public speaking, they seem to be quite vocal about them. 
+Every time someone talks about slides design a great debate is generated. People have opinions and, guess what? Specifically in the area of public speaking, they seem to be quite vocal about them 🤣. 
 
 <!--more-->
 
