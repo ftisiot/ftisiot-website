@@ -34,7 +34,7 @@ tags:
 
 
 
-![](/images/2020/10/4jvegt.jpg?w=300)
+![Content everywhere](/images/2020/10/4jvegt.jpg?w=300)
 
 
 
@@ -134,7 +134,7 @@ This post is about taking the best out of a situation which doesn't seem great l
 
 
 
-![](/images/2020/10/talking.png?w=300)
+![Talking](/images/2020/10/talking.png?w=300)
 
 
 
@@ -159,7 +159,7 @@ Most conferences record your talk, check it out to see how you performed in a "r
 
 
 
-![](/images/2020/10/growth.png?w=300)
+![Growth](/images/2020/10/growth.png?w=300)
 
 
 
@@ -182,7 +182,7 @@ Take those chances to show yourself and start your path into public speaking! Th
 
 
 
-![](/images/2020/10/checks.png?w=300)
+![Checks](/images/2020/10/checks.png?w=300)
 
 
 
@@ -232,7 +232,7 @@ Don't just tell yourself "you suck"... but try understanding why it didn't work 
 
 
 
-![](/images/2020/10/feedback.png?w=693)
+![Feedback](/images/2020/10/feedback.png?w=693)
 
 
 
@@ -262,7 +262,7 @@ Questions and after session feedback allows also to improve your talk/slides fol
 
 
 
-![](/images/2020/10/audience.png?w=300)
+![Audience](/images/2020/10/audience.png?w=300)
 
 
 
@@ -287,7 +287,7 @@ For online conferences you also need to factor in the registration, the real aud
 
 
 
-![](/images/2020/10/google.png?w=300)
+![Google](/images/2020/10/google.png?w=300)
 
 
 
@@ -309,7 +309,7 @@ You'll start becoming known because of your content, do your best for it to be m
 
 
 
-![](/images/2020/10/network.png?w=300)
+![Network](/images/2020/10/network.png?w=300)
 
 
 

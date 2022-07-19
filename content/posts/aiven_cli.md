@@ -1,11 +1,11 @@
 ---
 author: ftisiot
 date: 2021-01-06 15:30:00+00:00
-draft: true
+draft: false
 title: First Steps within Aiven... the CLI!
 type: post
 url: /2021/01/15/aiven_cli/
-image: "/images/2021/01/looking_forward.jpg"
+image: "/images/2021/01/Authentication_token.jpg"
 thumbnail: "/images/aiven_small.jpeg"
 credit: "https://twitter.com/ftisiot/"
 categories:

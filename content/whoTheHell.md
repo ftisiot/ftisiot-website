@@ -14,7 +14,7 @@ tag: ["whoamI", "ftisiot", "FrancescoTisiot"]
 
 Ciao!
 
-I’m Francesco Tisiot, Developer Advocate at [Aiven](https://aiven.io) and Oracle ACE Director. You can find me on twitter at [@ftisiot](https://twitter.com/ftisiot) and on [LinkedIn](https://www.linkedin.com/in/francescotisiot/)
+I’m Francesco Tisiot, Senior Developer Advocate at [Aiven](https://aiven.io) and Oracle ACE Director. You can find me on twitter at [@ftisiot](https://twitter.com/ftisiot) and on [LinkedIn](https://www.linkedin.com/in/francescotisiot/)
 ![](/images/speaking-poug.jpg)
 
 Some more resources:
