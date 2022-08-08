@@ -36,6 +36,7 @@ If you want to programmatically keep control over your dynamic data assets, this
 
 ## Useful Links
 
+* [Graph theory](https://en.wikipedia.org/wiki/Graph_theory)
 * [Aiven Metadata Parser](https://github.com/aiven/metadata-parser)
 * [Aiven Metadata Parser Blog](https://aiven.io/blog/metadata-parser?utm_source=event&utm_medium=organic&utm_campaign=uptime_2022)
 * [DOT language](https://graphviz.org/doc/info/lang.html)
