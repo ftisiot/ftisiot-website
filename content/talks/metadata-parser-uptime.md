@@ -1,5 +1,5 @@
 ---
-title: 'Don''t get lost in data: Metadata to the rescue!'
+title: "Don't get lost in data: Metadata to the rescue!"
 date: "2022-08-08T13:34:59+02:00"
 url: "/talks/metadata-parser-uptime/"
 event: "Uptime"
