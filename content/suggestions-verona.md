@@ -4,7 +4,7 @@ date: "2022-08-11T13:28:45+02:00"
 url: "/suggestions-verona"
 description: "Suggestion of places and activities in Verona and nearby"
 tldr: "What you should do while in Verona"
-image: ""
+image: "/images/verona.jpeg"
 credit: ""
 thumbnail: ""
 categories:
@@ -63,6 +63,9 @@ My preference in the city center are:
 
 * Climb Trees in the mountains 1h from Verona at [Boscopark](https://www.boscopark.it/)
 * Visit [Valeggio sul Mincio](https://www.valeggio.com/?lang=en) famous for tortellini and for the amazing [Parco Sigurtà](https://www.sigurta.it/)
+* Visit [Parco Naturaviva](https://www.parconaturaviva.it/en) for a full immersion on animals!
+* Visit [Gardaland](https://www.gardaland.it/en/) the biggest italian amusement part
+* Visit the Garda Lake: Sirmione, Malcenise, Bardolino or Lazise are all beautiful. If you fancy more distance also Garda, Limone sul Garda are beautiful!
 
 
 
