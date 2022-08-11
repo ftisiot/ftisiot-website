@@ -52,6 +52,8 @@ My preference in the city center are:
 * Visit Castel San pietro: it’s the castle on top of the city, you have a nice view of the city from there. There is either a staircase or a funicolare that takes you there for 2euros per person (if it’s hot, I would recommend)
 * Visit Castelvecchio, the old castle in the city and go over the bridge, it’s one of the most suggestive views in the city
 * Visit Ponte Pietra, the old bridge
+* Visit the Teatro Romano (old Theatre), just outside the old bridge. There are a tons of shows there during the summer.
+* Visit the nearby [Archeological museum](https://museoarcheologico.comune.verona.it/)
 
 ## What to do outside the city
 
