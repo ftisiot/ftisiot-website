@@ -6,7 +6,7 @@ description: "Suggestion of places and activities in Verona and nearby"
 tldr: "What you should do while in Verona"
 image: "/images/verona.jpeg"
 credit: ""
-thumbnail: ""
+thumbnail: "/images/verona.jpeg"
 categories:
 - Verona
 - Food
