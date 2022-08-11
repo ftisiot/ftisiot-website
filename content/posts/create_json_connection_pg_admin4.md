@@ -11,6 +11,8 @@ categories:
 - PGAdmin4
 - PostgreSQL
 - Connections
+- Import
+- JSON
 ---
 
 Yesterday I updated my PGAdmin 4 and found an interesting option to manage database connection via the **Tools** -> **Import/Export Servers**, allowing to pass almost all the parameters required (it doesn't export/import the password) to connect to a database via JSON files.
