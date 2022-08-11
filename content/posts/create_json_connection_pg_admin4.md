@@ -3,7 +3,7 @@ title: 'Define a PostgreSQL database connection in JSON and import it in PGAdmin
 date: "2022-08-11T14:47:17+02:00"
 url: "/posts/create_json_connection_pg_admin4"
 description: "How to define a PostgreSQL database connection in JSON and import it in PGAdmin 4"
-tldr: ""
+tldr: "How to define a PostgreSQL database connection in JSON and import it in PGAdmin 4"
 image: "/images/2022/pgadmin_json.png"
 credit: ""
 thumbnail: "/images/2022/pgadmin_json_thumbnail.png"
