@@ -47,6 +47,10 @@ menu:
     title: talks
     url: /speaking-activities
     weight: -9
+  - name: suggestions
+    title: suggestions
+    url: /suggestions-verona
+    weight: -8
   social:
   - name: github
     title: "fab fa-github-square"
