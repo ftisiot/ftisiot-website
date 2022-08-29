@@ -13,7 +13,6 @@ categories:
 - Timestamps
 ---
 
-
 Sometimes when defining an Apache Flink® table using SQL we need to map an [epoch timestamp](https://en.wikipedia.org/wiki/Unix_time) and use it as record/message timestamp. 
 
 <!--more-->
@@ -22,7 +21,7 @@ Doing it properly is not complex, but some attention needs to be paid since smal
 
 ## The ``TO_TIMESTAMP_LTZ`` function
 
-When dealing with epoch timestamps, Flink offers the ``TO_TIMESTAMP_LTZ`` function, with a good set of [documentation](https://nightlies.apache.org/flink/flink-docs-master/docs/dev/table/timezone/) around it. Basically the function can be used with epoc timestams in either seconds or millisecods.
+When dealing with epoch timestamps, Flink offers the ``TO_TIMESTAMP_LTZ`` function, with a good set of [documentation](https://nightlies.apache.org/flink/flink-docs-master/docs/dev/table/timezone/) around it. Basically the function can be used with epoch timestamps in either seconds or milliseconds.
 
 * For epoch timestamp in **seconds** use: ``TO_TIMESTAMP_LTZ(timestamp_column, 0)``
 * For epoch timestamp in **milliseconds** use: ``TO_TIMESTAMP_LTZ(timestamp_column, 3)``
@@ -31,8 +30,8 @@ When dealing with epoch timestamps, Flink offers the ``TO_TIMESTAMP_LTZ`` functi
 
 Ok, ok, that works! What about the definition of the ``timestamp_column``? You need to pay attention to it as well!
 
-If the epoc timestams in **seconds** you can have it working also by declaring the column as `INT`.
-But if you do the same when dealing with epoc timestams in **milliseconds** you'll face an error like 
+If the epoch timestamps in **seconds** you can have it working also by declaring the column as `INT`.
+But if you do the same when dealing with epoch timestamps in **milliseconds** you'll face an error like 
 
 ```
 Caused by: java.lang.NumberFormatException: For input string: "1661760207278"
