@@ -30,7 +30,7 @@ When dealing with epoch timestamps, Flink offers the ``TO_TIMESTAMP_LTZ`` functi
 
 Ok, ok, that works! What about the definition of the ``timestamp_column``? You need to pay attention to it as well!
 
-If the epoch timestamps in **seconds** you can have it working also by declaring the column as `INT`.
+If the epoch timestamps in **seconds** you can get away with it by declaring the column as `INT`.
 But if you do the same when dealing with epoch timestamps in **milliseconds** you'll face an error like 
 
 ```
