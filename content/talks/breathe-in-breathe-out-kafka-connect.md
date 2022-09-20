@@ -34,7 +34,9 @@ If you are ready to make magic with Kafka Connect and the Apache Kafka ecosystem
 
 ## Useful Links
 
-* [Aiven for Apache Kafka Connect](https://docs.aiven.io/docs/products/kafka/kafka-connect.html)
+
+* [Aiven for Apache Kafka®](https://aiven.io/kafka)
+* [Aiven for Apache Kafka® Connect](https://docs.aiven.io/docs/products/kafka/kafka-connect.html)
 * [Deep dive into Single Message Transforms](https://rmoff.net/2021/01/04/kafka-connect-deep-dive-into-single-message-transforms/)
 * [JDBC Source connector: what could go wrong?](https://www.confluent.io/events/kafka-summit-london-2022/jdbc-source-connector-what-could-go-wrong/)
 * [JDBC Sink connector not working with schemaless topics](https://stackoverflow.com/questions/70927512/kafka-jdbc-sink-connector-with-json-messages-without-schema)
