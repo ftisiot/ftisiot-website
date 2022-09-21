@@ -16,6 +16,7 @@ description: "Few things that can go wrong with the JDBC source connector"
 
 ## Useful Links
 
+* [Talk recording](https://www.confluent.io/events/kafka-summit-london-2022/jdbc-source-connector-what-could-go-wrong/)
 * [JDBC source connector docs](https://github.com/aiven/jdbc-connector-for-apache-kafka)
 * [Debezium docs](https://debezium.io/documentation/reference/stable/connectors/postgresql.html)
 * [How to Debezium in Aiven docs](https://developer.aiven.io/docs/products/kafka/kafka-connect/howto/debezium-source-connector-pg.html)
