@@ -42,3 +42,7 @@ If you are ready to make magic with Kafka Connect and the Apache Kafka ecosystem
 * [JDBC Sink connector not working with schemaless topics](https://stackoverflow.com/questions/70927512/kafka-jdbc-sink-connector-with-json-messages-without-schema)
 * [Works on JDBC sink to parse schemaless topics by inferencing the JSON structure](https://cwiki.apache.org/confluence/display/KAFKA/KIP-301%3A+Schema+Inferencing+for+JsonConverter)
 * [Dead Letter Queue - Twitter thread by Gunnar Morling](https://twitter.com/gunnarmorling/status/1541809606384652295)
+
+
+
+Check out the [Aiven Rolling Challenge](go.aiven.io/aiven-challenge-current-na-22)
