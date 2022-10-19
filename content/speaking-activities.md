@@ -23,7 +23,7 @@ Check out Past and Future Speaking Activities!
 
 |Event|Date|Talk|
 |---|---|---|
-|Current (ex Kafka Summit)|4th-5th October|[Breathe In, Breathe Out: Get Kafka Connect Configs Right!](https://2022.currentevent.io/website/39543/agenda/)|
+|Current (ex Kafka Summit)|4th-5th October|[🎥 Breathe In, Breathe Out: Get Kafka Connect Configs Right!](https://bit.ly/3ghs2ru)|
 |Uptime|14-15th Sept|[Don't get lost in data: metadata to the rescue!](https://uptime.aiven.io/session/325396)|
 |Uptime|14-15th Sept|[No pineapple on pizza! Streaming anomaly detection with Apache Kafka and Apache Flink](https://uptime.aiven.io/session/325620)|
 |PG Day Austria|16th Sept|[Solving the Knapsack Problem with Recursive queries and postgreSQL](https://pgday.at/talks/solving-the-knapsack-problem/)|
