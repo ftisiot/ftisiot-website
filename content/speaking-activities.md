@@ -27,7 +27,6 @@ Check out Past and Future Speaking Activities!
 |Uptime|14-15th Sept|[Don't get lost in data: metadata to the rescue!](https://uptime.aiven.io/session/325396)|
 |Uptime|14-15th Sept|[No pineapple on pizza! Streaming anomaly detection with Apache Kafka and Apache Flink](https://uptime.aiven.io/session/325620)|
 |PG Day Austria|16th Sept|[Solving the Knapsack Problem with Recursive queries and postgreSQL](https://pgday.at/talks/solving-the-knapsack-problem/)|
-
 |Kafka Summit 2022 London|25th April|[🎥 JDBC Source Connector: What Could Go Wrong?](https://www.confluent.io/events/kafka-summit-london-2022/jdbc-source-connector-what-could-go-wrong/)|
 |NDC London 2022|10th May|[🎥 I don’t want to miss a Thing 🎶 - Track Database Changes with Apache Kafka](https://www.youtube.com/watch?v=AT6-WXLwKQE)|
 |PyCon Italy|3rd Jun|[🎥 Event Driven Applications with Flask and Kafka](https://www.youtube.com/watch?v=hfi_ALPlsOQ&t=3s)|
