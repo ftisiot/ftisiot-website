@@ -13,7 +13,7 @@ categories:
 - Timestamps
 ---
 
-Sometimes when defining an Apache Flink® table using SQL we need to map an [epoch timestamp](https://en.wikipedia.org/wiki/Unix_time) and use it as record/message timestamp. 
+Sometimes when defining an Apache Flink® table using SQL we need to map an [epoch timestamp](https://en.wikipedia.org/wiki/Unix_time) and use it as record/message timestamp, this blog contains few tricks to get it right. 
 
 <!--more-->
 

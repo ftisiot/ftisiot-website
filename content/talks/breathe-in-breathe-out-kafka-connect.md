@@ -1,5 +1,5 @@
 ---
-title: 'Breathe in Breathe Out Kafka Connect'
+title: 'Breathe in Breathe out: get Kafka Connect settings right!'
 date: "2022-09-20T13:23:04+02:00"
 url: "/talks/breathe-in-breathe-out-kafka-connect/"
 event: "Current 2022"
@@ -16,7 +16,7 @@ tags:
 - pitfalls
 ---
 
-A deep dive into Kafka connect settings and pitfalls
+A deep dive into Kafka connect settings and pitfalls, analysing several tips to have a better experience when setting up a connector.
 
 <!--more-->
 

@@ -15,6 +15,9 @@ categories:
 - JSON
 ---
 
+How to define a database connection in a JSON file that can be imported in PG Admin 4
+<!--more-->
+
 Yesterday I updated my PGAdmin 4 and found an interesting option to manage database connection via the **Tools** -> **Import/Export Servers**, allowing to pass almost all the parameters required (it doesn't export/import the password) to connect to a database via JSON files.
 
 The question is: how can I define a connection in JSON so it can pick it up and imported in PGAdmin 4? It's actually pretty simple, all you have to do is, substitute all the parameters in the following example
