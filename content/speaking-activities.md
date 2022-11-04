@@ -14,7 +14,7 @@ Check out Past and Future Speaking Activities!
 # Planned Speaking Activities
 |Event|Date|Talk|
 |---|---|---|
-|PG Conf EU|24th-29th October|[Put PostgreSQL at the center of your (meta)data universe!](https://www.postgresql.eu/events/pgconfeu2022/schedule/session/4084-put-postgresql-at-the-center-of-your-metadata-universe/)|
+||||
 
 
 # Previous Speaking Activities
