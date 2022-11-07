@@ -6,7 +6,7 @@ description: "An example on how to query a remote server InfluxDB via cURL"
 tldr: "An example on how to query a remote server InfluxDB via cURL"
 image: "/images/influxb_query.png"
 credit: "https://twitter.com/ftisiot/"
-thumbnail: "/images/influxb_query.png"
+thumbnail: "/images/influxb_query_thumbnail.png"
 categories:
 - InfluxDB
 - Query
