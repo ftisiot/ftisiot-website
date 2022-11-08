@@ -74,5 +74,6 @@ markup:
     attributes: {allow-uri-read}
     safeMode: unsafe
     enableEmoji: true
+  goldmark:
     renderer:
       unsafe: true
