@@ -95,6 +95,7 @@ The next phase is to start the writing the piece, and there are three main point
 * Pick the **person**: be precise and consistent on how you use "I", "we", "you" in the abstract. Tip: using "we" might provide the feeling that both you and the audience are together into the problem and solution journey.
 * Write down the **take-aways** clearly: an attendee shouldn't have to guess what they will bring home.
 * Aim for **simplicity**: attendees or reviewers might speak/read english as their second language, use an inclusive language that all understand. People might rarely open a tab on a browser to check a term they don't understand, don't let them do it. Don't overuse jargon, and always evaluate if a term is always commonly understood or if it needs explanation.
+* Use **space accordingly**: avoid walls of text, aim at a logical division in paragraphs.
 * **Don't overthink**: an abstract is NEVER perfect and there are multiple conferences, being refused at one it's not a drama.
 
 ## 📫 Once you wrote it, but before submitting tips
