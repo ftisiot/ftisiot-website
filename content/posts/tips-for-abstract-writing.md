@@ -18,7 +18,7 @@ If you're reading this, there are good chances you're thinking, writing or evalu
 <!--more-->
 
 
-# What is a successful abstract? 
+# 🏆 What is a successful abstract? 
 
 First of all... what is a **Successful Abstract**? 
 
@@ -26,7 +26,7 @@ There's no formal definition of a successful abstract, but we can define one bas
 
 **Alert**: Bare in mind, this is based on my experience, yours might be very different 
 
-# What should I talk about?
+# 😱 What should I talk about?
 
 This is the question driving the abstract, and usually the first stopper for quite some people.
 "I'm not doing anything interesting, I don't have anything to say" is a phrase that we hear from a lot of non speakers... guess what? It's most of the time not true! If you dig into your work (or passion) you can always come back with:
@@ -44,7 +44,7 @@ You can also find inspiration elsewhere:
 
 One special warning here if you're sourcing the idea from elsewhere: don't just copy the content, but make research, add a module, drive your own conclusions: add YOUR bit to the content. Just copying someone else's talk will not set you for success.
 
-# Define the title
+# 🔝 Define the title
 
 Once you decide the topic, it's time to write the abstract and define the title... What should come up first? You decide, there's no right and wrong. 
 
@@ -61,11 +61,11 @@ The following titling tips are therefore general:
 
 **Alert**: Due to space in the agenda, some conferences will truncate your title or put `...` after the first N characters. Create a title which is still recognizable after the truncation.
 
-# Write the abstract
+# ✍️ Write the abstract
 
 Now we're in the writing phase... how? Let's first cover some technicalities.
 
-## General prerequisites
+## 👌 General prerequisites
 
 * Check the **allowed # of characters**: this is usually given in the abstract form or CFP FAQ. It's a prereq to shape your writing.
 * Check the type(s) of abstracts you need to provide, each one has a different function:
@@ -76,7 +76,7 @@ Now we're in the writing phase... how? Let's first cover some technicalities.
 
 Each of the above sections is crucial, **don't just copy paste from one to the other**, but take the time to write separate text for the three in order to maximize your chances to get accepted.
 
-## Abstract overall idea tips
+## 💡 Abstract overall idea tips
 
 The next phase is to start the writing the piece, and there are three main points you want to include in the abstract:
 
@@ -84,7 +84,7 @@ The next phase is to start the writing the piece, and there are three main point
 * What makes your talk **different**: There can be 30 submissions about Kafka Performance, what makes your one stand out?
 * What is the **give-away for the audience**? What do they learn/take home by giving you 30 min of their time?
 
-## Writing tips
+## ✏️ Writing tips
 
 * State the **problem first**: in order to define what your solution/talk is about, you need to first state a problem others might experience and feel theirs. Can't you state a problem? Maybe that's an indicator of a no-go for the talk
 * Talk about **outcomes**: be sure to write down what people will learn/do better/think after your talk
@@ -97,20 +97,20 @@ The next phase is to start the writing the piece, and there are three main point
 * Aim for **simplicity**: attendees or reviewers might speak/read english as their second language, use an inclusive language that all understand. People might rarely open a tab on a browser to check a term they don't understand, don't let them do it. Don't overuse jargon, and always evaluate if a term is always commonly understood or if it needs explanation.
 * **Don't overthink**: an abstract is NEVER perfect and there are multiple conferences, being refused at one it's not a drama.
 
-## Once you wrote it, but before submitting tips
+## 📫 Once you wrote it, but before submitting tips
 
 * Ask for **feedback**: Think about your talk target personas and ask similar people in your network for feedback. Also, ask outside the pool of target personas, you might get interesting external ideas on your content.
 * **Accept the feedback**: sometimes it is difficult to hear that you need to change, but people are there to help you and have different eyes that might help you recognize errors or explain a concept better.
 * **Refuse the feedback**: You don't have to accept **ALL** suggestions. Hear, evaluate, decide! You need to be happy with the end result, you are the one submitting. This is also a suggestion for reviewers: it's important to understand what to say, but also important to know where to stop your duty.
 * **Learn from mistakes**: when asking for feedback, take note of the edit suggestions, you can learn a lot from them. Keeping an history of changes helps.
 
-## After submitting tips
+## 📦 After submitting tips
 
 * **Ask organizers for feedback**: especially in case of rejections, ask for feedback! They won't always be able to give you feedback, but if they do, you can learn how to better craft a message for their audience.
 * **Loop**: once you have a working abstract, send it to more conferences adapting the content to the audience. 
 * **Re-use, refine, adapt**: an abstract is a live document, change it based on feedback, experience in delivering the talk, enhancements in the field and target audience. 
 
-## Evergreen tip
+## 🍀 Evergreen tip
 
 * **Don't feel bad about rejections**: they happen to everyone! If you never start submitting you'll never start public speaking!
 
