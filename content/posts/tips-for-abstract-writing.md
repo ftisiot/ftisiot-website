@@ -13,7 +13,7 @@ categories:
 - writing
 ---
 
-If you're reading this, there are good chances you're thinking, writing or evaluating an abstract for a conference. The post is about little tips I learnt in more than 8 years of prepping for conferences and in 1 year or reviewing internal abstracts at Aiven before they are submitted for a conference.
+If you're reading this, there are good chances you're thinking, writing or iterating over an abstract for a conference. The post is about little tips I learnt in more than 8 years of prepping for conferences and in 1 year or reviewing internal abstracts at Aiven before they are submitted for a conference.
 
 <!--more-->
 
@@ -24,7 +24,7 @@ First of all... what is a **Successful Abstract**?
 
 There's no formal definition of a successful abstract, but we can define one based on the outcome, which is "being accepted at a conference". Therefore a successful abstract is one that maximizes the chances of getting accepted, by following a series of tips that, in my personal experience, worked in the past.
 
-**Alert**: Bare in mind, this is based on my experience, yours might be very different 
+**Alert**: Bare in mind, this is based on my experience, your mileage may vary. 
 
 # 😱 What should I talk about?
 
