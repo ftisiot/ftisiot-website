@@ -4,7 +4,7 @@ date: "2022-11-28T12:22:13+01:00"
 url: "/posts/tips-for-abstract-writing"
 description: "Few tips, based on experience, to write a successfull conference abstract"
 tldr: "Few tips, based on experience, to write a successfull conference abstract"
-image: "/images/2022/success_abstract.png"
+image: "/images/2022/success_abstract_top.png"
 credit: "ftisiot"
 thumbnail: "/images/2022/success_abstract.png"
 categories:
