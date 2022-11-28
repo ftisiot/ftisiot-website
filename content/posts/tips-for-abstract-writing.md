@@ -24,7 +24,7 @@ First of all... what is a **Successful Abstract**?
 
 There's no formal definition of a successful abstract, but we can define one based on the outcome, which is "being accepted at a conference". Therefore a successful abstract is one that maximizes the chances of getting accepted, by following a series of tips that, in my personal experience, worked in the past.
 
-Alert: Bear in mind, this is based on my experience, yours might be very different 
+**Alert**: Bare in mind, this is based on my experience, yours might be very different 
 
 # What should I talk about?
 
