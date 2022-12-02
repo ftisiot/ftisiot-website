@@ -4,9 +4,9 @@ date: "2022-11-30T10:38:44+01:00"
 url: "/posts/postgresql-community"
 description: "My 2 year experience in the PostgreSQL community"
 tldr: "How's the PostgreSQL community? Great!"
-image: ""
+image: "/images/2022/pg-community.png"
 credit: ""
-thumbnail: ""
+thumbnail: "/images/2022/pg-community.png"
 categories:
 - PostgreSQL
 - Community
