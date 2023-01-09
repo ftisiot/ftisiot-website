@@ -211,7 +211,7 @@ Results
 
 ## Extract a JSON field as a specific path using the `json_extract_path` function
 
-To get the second pizza name in the order
+To get the second pizza name in the order you can use the `json_extract_path` (`jsonb_extract_path` since the column is defined as JSONB)
 
 ```
 select 
