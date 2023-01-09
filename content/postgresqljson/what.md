@@ -33,3 +33,6 @@ The following table defines the differences between `JSON` and `JSONB` data type
 | Duplicated keys | preserved | only last valued is kept |
 | Order of keys | preserved | can be altered |
 | Index support | no | yes |
+
+
+Review all the JSON PostgreSQL use-cases listed in the [main page](/postgresqljson/main)
