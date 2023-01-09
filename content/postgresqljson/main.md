@@ -23,7 +23,7 @@ This series covers how to solve common problems on JSON datasets with PostgreSQL
 * [How to get the JSON field types in PostgreSQL®?](/postgresqljson/how-to-get-json-field-types-postgresql)
 * [How to check if JSON contains in PostgreSQL®?](/postgresqljson/how-to-check-JSON-contains-postgresql)
 * How does JSON path work in PostgreSQL®?
-* How to convert a row to JSON in PostgreSQL®?
+* [How to convert a row to JSON in PostgreSQL®?](/postgresqljson/how-to-convert-table-row-json-postgresql)
 * How to convert an array to JSON in PostgreSQL®?
 * How to build a JSON array from a row in PostgreSQL®?
 * How to build a JSON array from a list of items in PostgreSQL®?
