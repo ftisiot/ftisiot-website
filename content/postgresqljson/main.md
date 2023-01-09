@@ -28,7 +28,7 @@ This series covers how to solve common problems on JSON datasets with PostgreSQL
 * How to build a JSON array from a row in PostgreSQL®?
 * How to build a JSON array from a list of items in PostgreSQL®?
 * [How to parse JSON arrays in PostgreSQL®](/postgresqljson/how-to-parse-json-arrays-in-postgresql)?
-* How to parse JSON keys in PostgreSQL®?
+* [How to parse JSON keys in PostgreSQL®?](/postgresqljson/how-to-parse-json-keys-postgresql)
 * [How to prettify the JSON output in PostgreSQL®](/postgresqljson/how-to-prettify-json-output-in-postgresql)?
 * How to tabulate a JSON document in PostgreSQL®?
 * How to edit a JSON document in PostgreSQL®?
