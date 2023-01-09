@@ -29,6 +29,32 @@ PostgreSQL® offers two types of data types to handle JSON data, `JSON` and `JSO
 
 ## The dataset
 
+The dataset is the following:
+
+```
+{
+    "id": 778,
+    "shop": "Luigis Pizza",
+    "name": "Edward Olson",
+    "phoneNumbers":
+        ["(935)503-3765x4154","(935)12345"],
+    "address": "Unit 9398 Box 2056\nDPO AP 24022",
+    "image": null,
+    "pizzas": [
+        {
+            "pizzaName": "Salami",
+            "additionalToppings": ["🥓", "🌶️"]
+        },
+        {
+            "pizzaName": "Margherita",
+            "additionalToppings": ["🍌", "🌶️", "🍍"]
+        }
+    ]
+}
+```
+
+<details>
+  <summary>Check out the description of the fields</summary>
 The following examples use a pizza order dataset with an order having:
 
 * `id`: 778
@@ -51,7 +77,9 @@ The following examples use a pizza order dataset with an order having:
     }
 ]
 ```
-
+</details>
+<details>
+  <summary>If you want to reproduce the examples, check how to recreate the dataset</summary>
 
 It can be recreated with the following script:
 
@@ -79,6 +107,8 @@ insert into test(json_data) values (
     ]
 }');
 ```
+
+</details>
 
 ## Check if a JSON is contained with the `@>` operator
 

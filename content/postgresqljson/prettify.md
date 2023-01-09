@@ -1,7 +1,7 @@
 ---
-title: 'How to get the JSON field types in PostgreSQL®?'
-date: "2023-01-06T16:59:12+01:00"
-url: "/postgresqljson/how-to-get-json-field-types-postgresql"
+title: 'How to prettify the JSON output in PostgreSQL®'
+date: "2023-01-09T11:53:26+01:00"
+url: "/postgresqljson/how-to-prettify-json-output-in-postgresql"
 description: ""
 tldr: ""
 image: "/images/2023/pg-json-full.png"
@@ -11,10 +11,10 @@ categories:
 - postgresql
 - json
 - jsonb
-- types
+- prettify
 ---
 
-PostgreSQL® offers two types of data types to handle JSON data, `JSON` and `JSONB`, you can use the function `json_typeof` (`jsonb_typeof` for `JSONB`) to extract the fields type.
+PostgreSQL® offers two types of data types to handle JSON data, `JSON` and `JSONB`, you can use the function `json_pretty` (`jsonb_pretty` for `JSONB`) to prettify the output.
 
 <!--more-->
 
@@ -105,26 +105,37 @@ insert into test(json_data) values (
 
 </details>
 
-## Extract a JSON field type using the `json_typeof` function
+## Prettify the JSON output with the `json_pretty` function
 
-The field type can be extracted using the `json_typeof` (`jsonb_typeof` for `JSONB`) function
-
-Example
+The `pizzas` array can be prettified using the `json_pretty` (`jsonb_pretty` since the column is defined as JSONB) function
 
 ```
 select 
-    jsonb_typeof(json_data->'id') type_id,
-    jsonb_typeof(json_data->'name') type_name
-from 
-    test;
+    jsonb_pretty(json_data->'pizzas') 
+from test;
 ```
 
-Results
+Result
 
 ```
- type_id | type_name
----------+-----------
- number  | string
+            jsonb_pretty
+------------------------------------
+ [                                 +
+     {                             +
+         "pizzaName": "Salami",    +
+         "additionalToppings": [   +
+             "🥓",                 +
+             "🌶️"                  +
+         ]                         +
+     },                            +
+     {                             +
+         "pizzaName": "Margherita",+
+         "additionalToppings": [   +
+             "🍌",                 +
+             "🌶️",                 +
+             "🍍"                  +
+         ]                         +
+     }                             +
+ ]
+(1 row)
 ```
-
-The `->` operator to extract a JSON field can be reviewed in the [dedicated document](/postgresqljson/how-to-extract-field-from-json-postgresql)
