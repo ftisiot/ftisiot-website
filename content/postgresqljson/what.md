@@ -17,9 +17,10 @@ PostgreSQL® offers two types of data types to handle JSON data:
 * `JSON` stores the JSON as text, performing a validation on the correctness of the JSON syntax
 * `JSONB` optimizes the JSON storage in a custom binary format. Therefore, on top of validating the correctness of the JSON format, time is spent to properly parse and store the content.
 
+<!--more-->
+
 > **NOTE**: more info is available in the [PostgreSQL JSON types documentation page](https://www.postgresql.org/docs/current/datatype-json.html)
 
-<!--more-->
 
 The following table defines the differences between `JSON` and `JSONB` data types in PostgreSQL.
 
