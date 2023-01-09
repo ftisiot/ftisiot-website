@@ -38,8 +38,8 @@ This series covers how to solve common problems on JSON datasets with PostgreSQL
 * [How to create a JSON object from keys and values arrays in PostgreSQL®?](/postgresqljson/howto-create-json-from-keys-and-values-arrays-postgresql)
 * [How to create a JSON object from array of key/value pairs in PostgreSQL®?](/postgresqljson/howto-create-json-from-array-key-value-pairs-postgresql)
 * [How to build a JSON array from a list of elements in PostgreSQL®?](/postgresqljson/how-to-build-json-array-from-elements-postgresql)
-* [How to convert an array to a JSON array in PostgreSQL®?](/postgresqljson/howto-convert-array-to-json-array-postgresql)?
-* [How to prettify the JSON output in PostgreSQL®?](/postgresqljson/how-to-prettify-json-output-in-postgresql)?
+* [How to convert an array to a JSON array in PostgreSQL®?](/postgresqljson/howto-convert-array-to-json-array-postgresql)
+* [How to prettify the JSON output in PostgreSQL®?](/postgresqljson/how-to-prettify-json-output-in-postgresql)
 
 ### Edit JSON
 
