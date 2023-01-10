@@ -20,17 +20,17 @@ This series covers how to solve common problems on JSON datasets with PostgreSQL
 ### Common JSON questions
 
 * [What are the differences between JSON or JSONB in PostgreSQL](/postgresqljson/what-are-the-differences-json-jsonb-postgresql)
-* How to load JSON data in PostgreSQL®?
+* How to load JSON data in PostgreSQL?
 
 ### Parse JSON
 
 * [How to extract a field from a JSON object in PostgreSQL](/postgresqljson/how-to-extract-field-from-json-postgresql)
 * [How to get the JSON field types in PostgreSQL](/postgresqljson/how-to-get-json-field-types-postgresql)
 * [How to check if JSON contains in PostgreSQL](/postgresqljson/how-to-check-JSON-contains-postgresql)
-* How does JSON path work in PostgreSQL®?
+* How does JSON path work in PostgreSQL?
 * [How to parse JSON arrays in PostgreSQL](/postgresqljson/how-to-parse-json-arrays-in-postgresql)
 * [How to parse JSON keys in PostgreSQL](/postgresqljson/how-to-parse-json-keys-postgresql)
-* How to tabulate a JSON document in PostgreSQL®?
+* How to tabulate a JSON document in PostgreSQL?
 
 ### Convert to JSON
 
