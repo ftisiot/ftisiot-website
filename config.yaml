@@ -12,6 +12,7 @@ params:
   GitHubUser: "ftisiot"
   image: "images/ftisiot.png"
   enableEmoji: true
+  googleAnalyticsID: "G-7Z74BTZ0TM"
 
 permalinks:
   post: /:year/:month/:day/:title/
