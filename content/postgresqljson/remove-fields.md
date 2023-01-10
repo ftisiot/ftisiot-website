@@ -19,7 +19,7 @@ PostgreSQL® offers two types of data types to handle JSON data, `JSON` and `JSO
 <!--more-->
 
 * the `-` operator to remove first level fields
-* the `#-` operator to remove specific path (using JSON path)
+* the `#-` operator to remove specific path
 
 > **NOTE**: To review the differences between `JSON` and `JSONB` check out the [related article](/postgresqljson/what-are-the-differences-json-jsonb-postgresql).
 
