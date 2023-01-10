@@ -1,6 +1,7 @@
 ---
 title: 'How to create a JSON object from array of key/value pairs in PostgreSQL®?'
 date: "2023-01-09T17:32:52+01:00"
+unlisted: true
 url: "/postgresqljson/howto-create-json-from-array-key-value-pairs-postgresql"
 description: ""
 tldr: ""

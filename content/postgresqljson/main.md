@@ -43,4 +43,6 @@ This series covers how to solve common problems on JSON datasets with PostgreSQL
 
 ### Edit JSON
 
+* [How to concatenate two JSON documents in PostgreSQL®?](/postgresqljson/how-to-concatenate-two-json-docs-postgresql)
+* [How to remove fields from a JSON document in PostgreSQL®?](/postgresqljson/how-to-remove-fields-from-json-postgresql)
 * How to edit a JSON document in PostgreSQL®?
