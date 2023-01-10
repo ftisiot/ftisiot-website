@@ -13,7 +13,7 @@ categories:
 - jsonb
 ---
 
-This series covers how to solve common problems on JSON datasets with PostgreSQL® and it will include (links will appear once the target pages are up)
+This series covers how to solve common problems on JSON datasets with PostgreSQL® and it includes (links will appear once the target pages are up):
 
 <!--more-->
 
