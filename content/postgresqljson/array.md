@@ -1,5 +1,5 @@
 ---
-title: 'Array'
+title: 'How to parse JSON arrays in PostgreSQL?'
 date: "2023-01-09T11:33:09+01:00"
 url: "/postgresqljson/how-to-parse-json-arrays-in-postgresql"
 description: ""
