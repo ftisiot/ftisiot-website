@@ -30,7 +30,11 @@ This series covers how to solve common problems on JSON datasets with PostgreSQL
 * How does JSON path work in PostgreSQL?
 * [How to parse JSON arrays in PostgreSQL?](/postgresqljson/how-to-parse-json-arrays-in-postgresql)
 * [How to parse JSON keys in PostgreSQL?](/postgresqljson/how-to-parse-json-keys-postgresql)
-* How to tabulate a JSON document in PostgreSQL?
+
+### Tabulate JSON to record or recordset
+
+* [How to tabulate a JSON to a record in PostgreSQL?](/postgresqljson/how-to-tabulate-json-document-to-a-record-postgresql)
+* [How to tabulate a JSON to a recordset in PostgreSQL?](/postgresqljson/how-to-tabulate-json-document-to-a-recordset-postgresql)
 
 ### Convert to JSON
 
@@ -39,6 +43,7 @@ This series covers how to solve common problems on JSON datasets with PostgreSQL
 * [How to create a JSON object from array of key/value pairs in PostgreSQL?](/postgresqljson/howto-create-json-from-array-key-value-pairs-postgresql)
 * [How to build a JSON array from a list of elements in PostgreSQL?](/postgresqljson/how-to-build-json-array-from-elements-postgresql)
 * [How to convert an array to a JSON array in PostgreSQL?](/postgresqljson/howto-convert-array-to-json-array-postgresql)
+
 
 ### Prettify JSON output
 
