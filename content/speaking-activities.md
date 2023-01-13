@@ -14,7 +14,8 @@ Check out Past and Future Speaking Activities!
 # Planned Speaking Activities
 |Event|Date|Talk|
 |---|---|---|
-||||
+|Pg Day Nordics|21st March|Put PostgreSQL at the center of your metadata universe|
+|Pg Day Paris|23rd March|Fix your strings|
 
 
 # Previous Speaking Activities
