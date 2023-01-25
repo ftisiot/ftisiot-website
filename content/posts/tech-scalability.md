@@ -129,7 +129,7 @@ What does it have to do "backup/restore" with scaling? Well, some of the technol
 
 In some of the scenarios presented above, scaling is performed by adding new nodes to a cluster, or adding new technologies in the mix. Even if these options provide great benefit in the parallelism and the separation of workloads they are adding additional steps in the data journey.
 
-Every time there's more than one sever storing the data, there's always the chance of not-in-sync replicas. Every time you add a new data hop, there are always additional complexities with network, integration, etc.
+Every time there's more than one server storing the data, there's always the chance of not-in-sync replicas. Every time you add a new data hop, there are always additional complexities with network, integration, etc.
 
 ## Conclusion
 
