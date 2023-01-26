@@ -52,10 +52,14 @@ menu:
     title: suggestions
     url: /suggestions-verona
     weight: -8
+  - name: soft
+    title: SOFT
+    url: /soft
+    weight: -7
   - name: json-pg
     title: json-pg
     url: /postgresqljson/main
-    weight: -7
+    weight: -6
   social:
   - name: github
     title: "fab fa-github-square"
