@@ -39,7 +39,7 @@ Vertical scalability generally means "buy a bigger box": what can't be achieved 
 
 ![Horizontal scalability](/images/2023/horizontal-scalability.png)
 
-Horizontal scalability on the other side, allows you to "add more nodes to a cluster". It's usually available in distributed systems where the workload is shared across nodes. Apache Kafka is a perfect example: its distributed nature allows yoi to plug in and out nodes from the cluster and have an automatic rebalancing of the data and responsibilities across nodes.
+Horizontal scalability goes on the opposite direction, instead of having a bigger machine, we spread the workload across several smaller machines. It's usually available in distributed systems where the workload is shared across nodes. Apache Kafka is a perfect example: its distributed nature allows you to plug in and out nodes from the cluster and have an automatic rebalancing of the data and responsibilities across nodes.
 
 **Pro:**
 
@@ -52,6 +52,7 @@ Horizontal scalability on the other side, allows you to "add more nodes to a clu
 * Only available in distributed systems
 * Change in the cluster architecture for every new node added
 * Data is replicated
+* Might lead to eventual consistency
 
 
 ### Diagonal scalability
