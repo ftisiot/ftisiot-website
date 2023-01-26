@@ -19,6 +19,6 @@ This page contains all the links related to the SOFT (Scalable Observable Fast T
 <!--more-->
 
 * [The SOFT definition](https://aiven.io/blog/a-soft-methodology-to-define-robust-data-platforms)
-* [From data stack to data stuck: the risks of not asking the right data questions](posts/soft-data-platforms-why)
-* [What are the directions of technical scalability](posts/tech-scalability)
+* [From data stack to data stuck: the risks of not asking the right data questions](/posts/from-data-stack-to-data-stuck)
+* [What are the directions of technical scalability](/posts/tech-scalability)
 
