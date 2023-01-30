@@ -100,6 +100,8 @@ The tradeoff is between performance (immediate local access), workload isolation
 
 Furthermore, if the data is co-located with the compute, it needs to be moved when performing, for example, a vertical scaling.   
 
+Check this youtube video from [Gwen Shapira to understand more](https://www.youtube.com/watch?v=oi4nDjrZTKY)
+
 ### Time to scale
 
 Depending on the architecture, the time to scale can vary between fractions of a second (in case only a new compute instance needs to be spun up) to hours (in case huge backups need to be restored). Evaluating the time to scale is necessary to understand the scaling thresholds: e.g. if one can scale in 10 seconds, the scaling option could be triggered at 95% capacity, if the scaling takes a few hours, the threshold needs to be lowered.
