@@ -153,6 +153,26 @@ Result shows the usage of the index:
  Execution Time: 0.470 ms
 (7 rows)
 ```
+But, if weyou filter for a specific subitem, like:
+
+```
+explain analyse select * from test where json_data -> 'pizzas' @> '{"pizzaName":"Margherita"}';
+```
+
+You get a sequence scan:
+
+```
+                                            QUERY PLAN
+---------------------------------------------------------------------------------------------------
+ Seq Scan on test  (cost=0.00..470.13 rows=69 width=394) (actual time=2.064..2.064 rows=0 loops=1)
+   Filter: ((json_data -> 'pizzas'::text) @> '{"pizzaName": "Margherita"}'::jsonb)
+   Rows Removed by Filter: 6939
+ Planning Time: 0.056 ms
+ Execution Time: 2.085 ms
+(5 rows)
+```
+
+If the above filter is common, you might want to create specific indexes for a single item (`pizzas` in this case).
 
 ## Create an index on a specific JSONB item
 
@@ -179,4 +199,23 @@ Results
 (1 row)
 ```
 
+Checking with `EXPLAIN`:
 
+```
+explain analyse select * from test where json_data @> '{"pizzas": [{"pizzaName":"Margherita"}]}';
+```
+
+Results, the index is used:
+
+```
+                                                      QUERY PLAN
+-----------------------------------------------------------------------------------------------------------------------
+ Bitmap Heap Scan on test  (cost=43.00..44.01 rows=1 width=394) (actual time=0.493..0.494 rows=1 loops=1)
+   Recheck Cond: (json_data @> '{"pizzas": [{"pizzaName": "Margherita"}]}'::jsonb)
+   Heap Blocks: exact=1
+   ->  Bitmap Index Scan on json_data_gin  (cost=0.00..43.00 rows=1 width=0) (actual time=0.483..0.483 rows=1 loops=1)
+         Index Cond: (json_data @> '{"pizzas": [{"pizzaName": "Margherita"}]}'::jsonb)
+ Planning Time: 0.186 ms
+ Execution Time: 0.523 ms
+(7 rows)
+```
