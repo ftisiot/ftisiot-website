@@ -116,12 +116,12 @@ To create a GIN index over the JSONB column:
 create index json_data_gin on test using gin (json_data);
 ```
 
-## Retrieve all rows with a key
+## Retrieve all rows with a value
 
-To retrieve all rows having the `shop` key, you can use the `?` operator:
+To retrieve all rows having the `shop` name `Luigis Pizza`, you can use the `@>` operator:
 
 ```
-select * from test where json_data ? 'shop';
+select * from test where json_data @> '{"shop":"Luigis Pizza"}';
 ```
 
 Result
@@ -131,6 +131,27 @@ Result
 ----+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   1 | {"id": 778, "name": "Edward Olson", "shop": "Luigis Pizza", "image": null, "pizzas": [{"pizzaName": "Salami", "additionalToppings": ["🥓", "🌶️"]}, {"pizzaName": "Margherita", "additionalToppings": ["🍌", "🌶️", "🍍"]}], "address": "Unit 9398 Box 2056\nDPO AP 24022", "phoneNumbers": ["(935)503-3765x4154", "(935)12345"]}
 (1 row)
+```
+
+Checking with `EXPLAIN`:
+
+```
+explain analyse select * from test where json_data @> '{"shop":"Luigis Pizza"}';
+```
+
+Result shows the usage of the index:
+
+```
+                                                      QUERY PLAN
+-----------------------------------------------------------------------------------------------------------------------
+ Bitmap Heap Scan on test  (cost=41.00..42.01 rows=1 width=394) (actual time=0.398..0.399 rows=1 loops=1)
+   Recheck Cond: (json_data @> '{"shop": "Luigis Pizza"}'::jsonb)
+   Heap Blocks: exact=1
+   ->  Bitmap Index Scan on json_data_gin  (cost=0.00..41.00 rows=1 width=0) (actual time=0.389..0.390 rows=1 loops=1)
+         Index Cond: (json_data @> '{"shop": "Luigis Pizza"}'::jsonb)
+ Planning Time: 0.087 ms
+ Execution Time: 0.470 ms
+(7 rows)
 ```
 
 ## Create an index on a specific JSONB item
