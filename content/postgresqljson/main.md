@@ -31,6 +31,11 @@ This series covers how to solve common problems on JSON datasets with PostgreSQL
 * [How to parse JSON arrays in PostgreSQL?](/postgresqljson/how-to-parse-json-arrays-in-postgresql)
 * [How to parse JSON keys in PostgreSQL?](/postgresqljson/how-to-parse-json-keys-postgresql)
 
+### Index JSON
+
+* [How to use GIN indexes over JSON in PostgreSQL?](/postgresqljson/how-to-index-and-query-json-postgresql)
+
+
 ### Tabulate JSON to record or recordset
 
 * [How to tabulate a JSON to a record in PostgreSQL?](/postgresqljson/how-to-tabulate-json-document-to-a-record-postgresql)
