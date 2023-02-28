@@ -187,7 +187,7 @@ CREATE INDEX pizzas_gin ON test USING GIN ((json_data -> 'pizzas'));
 To filter for a specific item value, like `pizzas` having `pizzaName` equal to `Margherita` you can use the `@>` operator:
 
 ```
-select * from test where json_data @> '{"pizzas": [{"pizzaName":"Margherita"}]}';
+explain analyse select * from test where json_data -> 'pizzas' @> '{"pizzaName":"Margherita"}';
 ```
 
 Results
