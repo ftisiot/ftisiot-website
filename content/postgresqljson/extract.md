@@ -23,6 +23,7 @@ PostgreSQL® offers two types of data types to handle JSON data, `JSON` and `JSO
 * the `->>` operator to extract the field as text
 * the `#>` operator to extract the object at a specific path as JSON
 * the `#>>` operator to extract the object at a specific path as text
+* the `[]` operator to extract the object at a specific path as JSON
 * the `json_extract_path` (`jsonb_extract_path` for `JSONB` columns) function to extract the object at a specific path as JSON
 
 > **NOTE**: To review the differences between `JSON` and `JSONB` check out the [related article](/postgresqljson/what-are-the-differences-json-jsonb-postgresql).
@@ -206,6 +207,24 @@ Results
  additional_toppings_2nd_pizza
 -------------------------------
  ["🍌", "🌶️", "🍍"]
+(1 row)
+```
+## Extract a JSON field as a specific path using the `[]` operator (subscripting)
+
+To get the second pizza name in the order you can use the `[]` operator
+
+```
+select 
+    json_data['pizzas']['1']['pizzaName'] second_pizza_name
+from test;
+```
+
+Result
+
+```
+ second_pizza_name
+-------------------
+ "Margherita"
 (1 row)
 ```
 
