@@ -2,9 +2,9 @@
 title: 'Put PostgreSQL at the center of your (meta)data universe!'
 date: "2022-10-11T13:08:56+02:00"
 url: "/talks/pg-metadata/"
-event: "PG Conf EU"
-location: "Berlin"
-site: "https://www.postgresql.eu/events/pgconfeu2022"
+event: "PG Conferences"
+location: "Multiple"
+site: ""
 video: ""
 slides: "/slides/pg-metadata/pg-metadata.pdf"
 thumbnail: "/slides/pg-metadata/thumbnail.png"
