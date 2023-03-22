@@ -16,7 +16,7 @@ tags:
 - JSONB
 ---
 
-A talk about JSON handling in PostgreSQL
+A talk about JSON handling in PostgreSQL: from data loading to query to indexing.
 
 <!--more-->
 
