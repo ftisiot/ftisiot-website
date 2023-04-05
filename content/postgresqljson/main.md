@@ -17,6 +17,8 @@ This series covers how to solve common problems on JSON datasets with PostgreSQL
 
 <!--more-->
 
+{{< youtube 4Fcx4bzCdzY >}} 
+
 ### Common JSON questions
 
 * [What are the differences between JSON or JSONB in PostgreSQL?](/postgresqljson/what-are-the-differences-json-jsonb-postgresql)

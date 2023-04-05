@@ -21,6 +21,8 @@ PostgreSQL® offers two types of data types to handle JSON data:
 
 > **NOTE**: more info is available in the [PostgreSQL JSON types documentation page](https://www.postgresql.org/docs/current/datatype-json.html)
 
+{{< youtube O4Emf8-u-mA >}} 
+
 
 The following table defines the differences between `JSON` and `JSONB` data types in PostgreSQL.
 
