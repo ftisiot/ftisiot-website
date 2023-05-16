@@ -2,7 +2,7 @@
 title: 'Learn PostgreSQL JSON with Pizza'
 date: "2023-03-22T14:27:07+01:00"
 url: "/talks/pg-json/"
-event: ""
+event: "Custom event"
 location: "Lille"
 site: ""
 video: ""
