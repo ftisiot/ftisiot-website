@@ -4,3 +4,9 @@
 [submodule "themes/mystory"]
 	path = themes/mystory
 	url = https://github.com/ftisiot/story
+[submodule "themes/cleanwhite"]
+	path = themes/cleanwhite
+	url = https://github.com/zhaohuabing/hugo-theme-cleanwhite
+[submodule "themes/mycleanwhite"]
+	path = themes/mycleanwhite
+	url = https://github.com/ftisiot/hugo-theme-cleanwhite
