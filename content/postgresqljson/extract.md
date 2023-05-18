@@ -26,6 +26,10 @@ PostgreSQL® offers two types of data types to handle JSON data, `JSON` and `JSO
 * the `[]` operator to extract the object at a specific path as JSON
 * the `json_extract_path` (`jsonb_extract_path` for `JSONB` columns) function to extract the object at a specific path as JSON
 
+A quick overview of the methods is available in the video, scroll further for the written examples.
+
+{{< youtube PSC2xW7LEnk >}} 
+
 > **NOTE**: To review the differences between `JSON` and `JSONB` check out the [related article](/postgresqljson/what-are-the-differences-json-jsonb-postgresql).
 
 > **NOTE**: more info is available in the [PostgreSQL JSON functions documentation page](https://www.postgresql.org/docs/current/functions-json.html)
