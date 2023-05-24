@@ -14,6 +14,8 @@ categories:
 
 > So… what does a Staff Developer Advocate do, and how is it different from the Senior Developer Advocate role you were doing before?
 
+<!--more-->
+
 I got this question three times in the last two weeks after my promotion from Senior to Staff (🎉🎉🎉🎉), from various people in my network. 
 
 
