@@ -4,9 +4,9 @@ date: "2023-05-29T15:25:59+02:00"
 url: "/posts/pros-and-cons-of-multi-step-data-platforms"
 description: "Discussing pros and cons about multi step data platforms"
 tldr: "What are the pros and the cons about a multi step data platforms"
-image: ""
+image: "/images/2023/newtech.png"
 credit: "ftisiot"
-thumbnail: ""
+thumbnail: "/images/2023/newtech.png"
 categories:
 - Data
 - Platforms
