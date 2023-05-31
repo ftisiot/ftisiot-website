@@ -72,3 +72,5 @@ I’ll continue growing and learning from some of the best minds and experiences
 What can you expect from me? A lot of content, on various levels, addressing people’s needs with regards to Aiven technology, some overall thinking about the current status and the future of the data space, and, as always, a way to touch these topics with practical examples and maybe some 🍕 references here and there!
 
 I hope this article was useful for you, and please, if you agree (or not), let me know!
+
+P.s. if you want to check about the identity crisis of DevRel, my colleague Dewan wrote an [amazing piece](https://www.dewanahmed.com/identity-crisis-devrel/) about it.
