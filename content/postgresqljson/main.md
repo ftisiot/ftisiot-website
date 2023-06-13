@@ -65,4 +65,4 @@ This series covers how to solve common problems on JSON datasets with PostgreSQL
 * [How to edit a JSON document in PostgreSQL?](/postgresqljson/how-to-edit-json-postgresql)
 
 
-If you want to try it out on a free PostgreSQL database, check [Aiven's free plans](https://console.aiven.io/signup)
+> ℹ️ If you want to try it out on a FREE PostgreSQL database, check [Aiven's free plans](https://console.aiven.io/signup)
