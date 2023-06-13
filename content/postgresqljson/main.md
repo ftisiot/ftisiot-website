@@ -63,3 +63,6 @@ This series covers how to solve common problems on JSON datasets with PostgreSQL
 * [How to remove an item from a JSON array in PostgreSQL?](/postgresqljson/how-to-remove-items-from-json-array-postgresql)
 * [How to remove nulls JSON object in PostgreSQL?](/postgresqljson/how-to-remove-nulls-from-json-postgresql)
 * [How to edit a JSON document in PostgreSQL?](/postgresqljson/how-to-edit-json-postgresql)
+
+
+If you want to try it out on a free PostgreSQL database, check [Aiven's free plans](https://console.aiven.io/signup)

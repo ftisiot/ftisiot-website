@@ -34,6 +34,8 @@ A quick overview of the methods is available in the video, scroll further for th
 
 > **NOTE**: more info is available in the [PostgreSQL JSON functions documentation page](https://www.postgresql.org/docs/current/functions-json.html)
 
+If you want to try it out on a free PostgreSQL database, check [Aiven's free plans](https://console.aiven.io/signup)
+
 ## The dataset
 
 The dataset is the following:

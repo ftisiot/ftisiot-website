@@ -23,6 +23,8 @@ PostgreSQL® offers two types of data types to handle JSON data, `JSON` and `JSO
 
 > **NOTE**: more info is available in the [PostgreSQL JSON functions documentation page](https://www.postgresql.org/docs/current/functions-json.html)
 
+If you want to try it out on a free PostgreSQL database, check [Aiven's free plans](https://console.aiven.io/signup)
+
 
 ## Create a JSON array from a list of elements with the `json_build_array` function
 
@@ -45,3 +47,4 @@ Result
 > **NOTE**: the array elements can be heterogeneously-typed
 
 Review all the JSON PostgreSQL use-cases listed in the [main page](/postgresqljson/main)
+
