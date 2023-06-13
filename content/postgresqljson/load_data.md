@@ -29,7 +29,7 @@ A quick overview of the methods is available in the video, scroll further for th
 
 {{< youtube NgIdO4FkC_A >}} 
 
-> ℹ️ If you want to try it out on a FREE PostgreSQL database, check [Aiven's free plans](https://console.aiven.io/signup)
+<p style="border:2px dotted #77dd77;"> 👉 If you want to try it out on a FREE PostgreSQL database, check <a href="https://console.aiven.io/signup">Aiven's free plans</a></p>
 
 ## Load JSON data in PostgreSQL
 
