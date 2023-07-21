@@ -60,6 +60,10 @@ menu:
     title: json-pg
     url: /postgresqljson/main
     weight: -6
+  - name: json-mysql
+    title: json-mysql
+    url: /mysqljson/main
+    weight: -5
   social:
   - name: github
     title: "fab fa-github-square"

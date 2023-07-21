@@ -1,28 +1,27 @@
 ---
-title: 'How to get the JSON field types in PostgreSQL®?'
-date: "2023-01-06T16:59:12+01:00"
-url: "/postgresqljson/how-to-get-json-field-types-postgresql"
-description: ""
-tldr: ""
-image: "/images/2023/pg-json-full.png"
+title: 'How to get the JSON field types in MySQL'
+date: "2023-07-21T14:59:42+02:00"
+url: "/mysqljson/how-to-get-json-field-types-mysql"
+description: "How to get the JSON field types in MySQL"
+tldr: "How to get the JSON field types in MySQL"
+image: "/images/2023/mysql-json.png"
 credit: "ftisiot"
-thumbnail: "/images/2023/pg-json.png"
+thumbnail: "/images/2023/mysql-json-little.png"
 categories:
-- postgresql
+- mysql
 - json
-- jsonb
+- extract
 - types
 ---
 
-PostgreSQL® offers two types of data types to handle JSON data, `JSON` and `JSONB`, you can use the function `json_typeof` (`jsonb_typeof` for `JSONB`) to extract the fields type.
+To get the type of a JSON item in MySQL you need to use the `JSON_TYPE` function.
 
 <!--more-->
 
-> **NOTE**: To review the differences between `JSON` and `JSONB` check out the [related article](/postgresqljson/what-are-the-differences-json-jsonb-postgresql).
+> **NOTE**: more info is available in the [MySQL JSON functions documentation page](https://dev.mysql.com/doc/refman/8.0/en/json.html)
 
-> **NOTE**: more info is available in the [PostgreSQL JSON functions documentation page](https://www.postgresql.org/docs/current/functions-json.html)
+<p style="border:2px dotted #77dd77;"> 👉 If you want to try it out on a FREE MySQL database, check <a href="https://go.aiven.io/francesco-signup">Aiven's free plans</a></p>
 
-<p style="border:2px dotted #77dd77;"> 👉 If you want to try it out on a FREE PostgreSQL database, check <a href="https://go.aiven.io/francesco-signup">Aiven's free plans</a></p>
 
 ## The dataset
 
@@ -35,7 +34,7 @@ The dataset is the following:
     "name": "Edward Olson",
     "phoneNumbers":
         ["(935)503-3765x4154","(935)12345"],
-    "address": "Unit 9398 Box 2056\nDPO AP 24022",
+    "address": "Unit 9398 Box 2056 DPO AP 24022",
     "image": null,
     "pizzas": [
         {
@@ -58,7 +57,7 @@ The following examples use a pizza order dataset with an order having:
 * `shop`: "Luigis Pizza"
 * `name`: "Edward Olson"
 * `phoneNumbers`:["(935)503-3765x4154","(935)12345"]
-* `address`: "Unit 9398 Box 2056\nDPO AP 24022"
+* `address`: "Unit 9398 Box 2056 DPO AP 24022"
 * `image`: null
 * and two pizzas contained in the `pizzas` item:
 
@@ -81,7 +80,7 @@ The following examples use a pizza order dataset with an order having:
 It can be recreated with the following script:
 
 ```
-create table test(id serial, json_data jsonb);
+create table test(id serial primary key, json_data json);
 
 insert into test(json_data) values (
 '{
@@ -90,7 +89,7 @@ insert into test(json_data) values (
     "name": "Edward Olson",
     "phoneNumbers":
         ["(935)503-3765x4154","(935)12345"],
-    "address": "Unit 9398 Box 2056\nDPO AP 24022",
+    "address": "Unit 9398 Box 2056 DPO AP 24022",
     "image": null,
     "pizzas": [
         {
@@ -107,28 +106,29 @@ insert into test(json_data) values (
 
 </details>
 
-## Extract a JSON field type using the `json_typeof` function
+## Extract a JSON field type using the `JSON_TYPE` function
 
-The field type can be extracted using the `json_typeof` (`jsonb_typeof` for `JSONB`) function
-
-Example
+You can get the type of JSON data with the `JSON_TYPE` function
 
 ```
 select 
-    jsonb_typeof(json_data->'id') type_id,
-    jsonb_typeof(json_data->'name') type_name
-from 
-    test;
+    JSON_TYPE(json_data -> '$.pizzas') pizzas
+    from test;
 ```
 
-Results
+In the above query
+
+* `json_data -> '$.pizzas'` extracts the `pizzas` field
+* the surrounding `JSON_TYPE` retrieves the type
+
+Result
 
 ```
- type_id | type_name
----------+-----------
- number  | string
++--------+
+| pizzas |
++--------+
+| ARRAY  |
++--------+
 ```
 
-The `->` operator to extract a JSON field can be reviewed in the [dedicated document](/postgresqljson/how-to-extract-field-from-json-postgresql)
-
-Review all the JSON PostgreSQL use-cases listed in the [main page](/postgresqljson/main)
+Review all the JSON MySQL use-cases listed in the [main page](/mysqljson/main)
