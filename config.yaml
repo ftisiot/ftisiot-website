@@ -10,7 +10,7 @@ pygmentsStyle: pygments
 params:
   AuthorName: Francesco Tisiot
   GitHubUser: "ftisiot"
-  image: "images/ftisiot.png"
+  image: "images/ftisiot.jpg"
   enableEmoji: true
   GoogleAnalyticsID: "G-7Z74BTZ0TM"
 
