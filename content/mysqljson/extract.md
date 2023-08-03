@@ -26,7 +26,7 @@ Both operators use the [JSON Path Syntax](https://dev.mysql.com/doc/refman/8.0/e
 
 > **NOTE**: more info is available in the [MySQL JSON functions documentation page](https://dev.mysql.com/doc/refman/8.0/en/json.html)
 
-<p style="border:2px dotted #77dd77;"> 👉 Need a <b>FREE</b> MySQL database? check <a href="https://go.aiven.io/francesco-signup">Aiven's free plans</a></p>
+<p style="background: #cccccc;border: 1px solid #666666;border-radius: 15px;text-align: center;">👉 Need a <b>FREE</b> MySQL database? check <a href="https://go.aiven.io/francesco-signup">Aiven's free plans</a>👈</p>
 
 
 ## The dataset

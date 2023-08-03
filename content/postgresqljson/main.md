@@ -65,4 +65,4 @@ This series covers how to solve common problems on JSON datasets with PostgreSQL
 * [How to edit a JSON document in PostgreSQL?](/postgresqljson/how-to-edit-json-postgresql)
 
 
-<p style="border:2px dotted #77dd77;"> 👉 Need a <b>FREE</b> PostgreSQL database? check <a href="https://go.aiven.io/francesco-signup">Aiven's free plans</a></p>
+<p style="background: #cccccc;border: 1px solid #666666;border-radius: 15px;text-align: center;">👉 Need a <b>FREE</b> PostgreSQL database? check <a href="https://go.aiven.io/francesco-signup">Aiven's free plans</a>👈</p>

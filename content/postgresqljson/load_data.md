@@ -29,7 +29,7 @@ A quick overview of the methods is available in the video, scroll further for th
 
 {{< youtube NgIdO4FkC_A >}} 
 
-<p style="border:2px dotted #77dd77;"> 👉 Need a <b>FREE</b> PostgreSQL database? check <a href="https://go.aiven.io/francesco-signup">Aiven's free plans</a></p>
+<p style="background: #cccccc;border: 1px solid #666666;border-radius: 15px;text-align: center;">👉 Need a <b>FREE</b> PostgreSQL database? check <a href="https://go.aiven.io/francesco-signup">Aiven's free plans</a>👈</p>
 
 ## Load JSON data in PostgreSQL
 
