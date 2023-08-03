@@ -23,7 +23,7 @@ PostgreSQL® offers two types of data types to handle JSON data:
 
 {{< youtube O4Emf8-u-mA >}} 
 
-<p style="border:2px dotted #77dd77;"> 👉 Need a **FREE** PostgreSQL database? check <a href="https://go.aiven.io/francesco-signup">Aiven's free plans</a></p>
+<p style="border:2px dotted #77dd77;"> 👉 Need a <b>FREE</b> PostgreSQL database? check <a href="https://go.aiven.io/francesco-signup">Aiven's free plans</a></p>
 
 ## What are the differences between JSON and JSONB
 
