@@ -20,7 +20,7 @@ You can remove a field from JSON document in MySQL with the `JSON_REMOVE` functi
 
 > **NOTE**: more info is available in the [MySQL JSON functions documentation page](https://dev.mysql.com/doc/refman/8.0/en/json.html)
 
-<p style="border:2px dotted #77dd77;"> 👉 If you want to try it out on a FREE MySQL database, check <a href="https://go.aiven.io/francesco-signup">Aiven's free plans</a></p>
+<p style="border:2px dotted #77dd77;"> 👉 Need a <b>FREE</b> MySQL database? check <a href="https://go.aiven.io/francesco-signup">Aiven's free plans</a></p>
 
 
 ## The dataset
