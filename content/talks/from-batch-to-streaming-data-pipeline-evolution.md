@@ -8,7 +8,7 @@ site: "https://www.confluent.io/events/current"
 video: ""
 slides: "/slides/from-batch-to-streaming-data-pipeline-evolution/current2023.pdf"
 thumbnail: "/slides/from-batch-to-streaming-data-pipeline-evolution/thumbnail.png"
-image: "/slides/from-batch-to-streaming-data-pipeline-evolution/cover.png"
+image: "/slides/from-batch-to-streaming-data-pipeline-evolution/thumbnail.png"
 description: "Showcasing how you can evolve from batch to streaming with Apache Flink"
 ---
 
