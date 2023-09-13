@@ -15,7 +15,7 @@ categories:
 - unix time
 ---
 
-When sinking unix timestamps from Kafka to OpenSearch/ElasticSearch using the dedicated connector, they are not recognized by default as timestamp in the target tech. 
+When sinking unix timestamps from Apache Kafka to OpenSearch/ElasticSearch using the dedicated connector, they are not recognized by default as timestamp in the target tech. 
 
 <!--more-->
 
