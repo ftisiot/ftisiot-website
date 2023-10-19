@@ -24,7 +24,7 @@ PostgreSQL® offers two types of data types to handle JSON data, `JSON` and `JSO
 
 > **NOTE**: more info is available in the [PostgreSQL JSON functions documentation page](https://www.postgresql.org/docs/current/functions-json.html)
 
-<p style="background: #cccccc;border: 1px solid #666666;border-radius: 15px;text-align: center;">👉 Need a <b>FREE</b> PostgreSQL database? check <a href="https://go.aiven.io/francesco-signup">Aiven's free plans</a>👈</p>
+{{< code "/components/pglink" >}}
 
 ## The dataset
 

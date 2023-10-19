@@ -17,13 +17,14 @@ categories:
 
 PostgreSQL® offers two types of data types to handle JSON data, `JSON` and `JSONB`, you can use the function `json_build_array` (`jsonb_build_array` for `JSONB`) to create a JSON array from a list of elements.
 
+
 <!--more-->
 
 > **NOTE**: To review the differences between `JSON` and `JSONB` check out the [related article](/postgresqljson/what-are-the-differences-json-jsonb-postgresql).
 
 > **NOTE**: more info is available in the [PostgreSQL JSON functions documentation page](https://www.postgresql.org/docs/current/functions-json.html)
 
-<p style="background: #cccccc;border: 1px solid #666666;border-radius: 15px;text-align: center;">👉 Need a <b>FREE</b> PostgreSQL database? check <a href="https://go.aiven.io/francesco-signup">Aiven's free plans</a>👈</p>
+{{< code "/components/pglink" >}}
 
 
 ## Create a JSON array from a list of elements with the `json_build_array` function

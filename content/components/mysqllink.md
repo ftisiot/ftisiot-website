@@ -1,0 +1,1 @@
+&nbsp;<p style="background: #C1E1C1;border: 2px solid #b4d3b2;border-radius: 15px;text-align: center;">👉 Need a MySQL database?👈<br>🦀 Check <a href="https://go.aiven.io/francesco-signup">Aiven's FREE plans</a> or start with 400$ of credit! 🦀</p>

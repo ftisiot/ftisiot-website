@@ -20,7 +20,7 @@ To get the type of a JSON item in MySQL you need to use the `JSON_TYPE` function
 
 > **NOTE**: more info is available in the [MySQL JSON functions documentation page](https://dev.mysql.com/doc/refman/8.0/en/json.html)
 
-<p style="background: #cccccc;border: 1px solid #666666;border-radius: 15px;text-align: center;">👉 Need a <b>FREE</b> MySQL database? check <a href="https://go.aiven.io/francesco-signup">Aiven's free plans</a>👈</p>
+{{< code "/components/mysqllink" >}}
 
 
 ## The dataset
