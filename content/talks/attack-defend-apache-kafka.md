@@ -3,13 +3,12 @@ title: 'Attacking (and defending) Apache Kafka'
 date: "2023-12-04T08:32:09+01:00"
 url: "/talks/attack-defend-apache-kafka/"
 event: "Conference Talk"
-event: ""
 location: ""
 site: ""
 video: ""
 slides: "/slides/attack-defend-apache-kafka/attack-defend-kafka.pdf"
-thumbnail: "/slides/attack-defend-apache-kafka/thumbnail.png"
-image: "/slides/attack-defend-apache-kafka/cover.png"
+thumbnail: "/slides/attack-defend-apache-kafka/cover.png"
+image: "/slides/attack-defend-apache-kafka/thumbnail.png"
 description: "How to attack and defend Apache Kafka"
 ---
 

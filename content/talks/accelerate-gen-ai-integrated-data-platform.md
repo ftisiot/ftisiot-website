@@ -7,8 +7,8 @@ location: ""
 site: ""
 video: "https://www.youtube.com/watch?v=eb6WlHaOCtI"
 slides: "/slides/accelerate-gen-ai-integrated-data-platform/slides.pdf"
-thumbnail: "/slides/accelerate-gen-ai-integrated-data-platform/thumbnail.png"
-image: "/slides/accelerate-gen-ai-integrated-data-platform/main.png"
+thumbnail: "/slides/accelerate-gen-ai-integrated-data-platform/main.png"
+image: "/slides/accelerate-gen-ai-integrated-data-platform/thumbnail.png"
 description: "Accelerate generative AI development with integrated data platforms"
 ---
 
