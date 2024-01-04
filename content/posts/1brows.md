@@ -147,6 +147,42 @@ time psql postgres -f test.sql
 
 The timing was a, not astonishing, `9m16.135s` with the majority (`6m:24.376s` spent on copying the data) and `2m:51.443s` on aggregating.
 
+### Edit Using PostgreSQL Foreign Data Wrapper (FDW)
+
+As [suggested on HN](https://news.ycombinator.com/item?id=38865177) by using a File Foreign data wrapper we could eliminate the need of loading the data in the PostgreSQL table.
+
+The `test.sql` has been changed to:
+
+```sql
+\timing
+\o /tmp/output
+-- Load the data
+DROP TABLE TEST;
+
+CREATE EXTENSION file_fdw;
+CREATE SERVER stations FOREIGN DATA WRAPPER file_fdw;
+CREATE FOREIGN TABLE TEST (
+  city text,
+  temperature float
+) SERVER stations OPTIONS (filename '<PATH>/measurements.txt', format 'csv', delimiter ';');
+
+-- Run calculations
+WITH AGG AS(
+    SELECT city,
+           MIN(temperature) min_measure,
+           cast(AVG(temperature) AS DECIMAL(8,1)) mean_measure,
+           MAX(temperature) max_measure
+    FROM test
+    GROUP BY city
+    )
+SELECT STRING_AGG(CITY || '=' || CONCAT(min_measure,'/', mean_measure,'/', max_measure),', ' ORDER BY CITY)
+FROM AGG
+;
+```
+
+Where the biggest change is that now the `TEST` table is defined as `FOREIGN TABLE` pointing directly to the `measurements.txt` file. 
+With The File FDW we removed the need of uploading the data to a table (that was costing us more than 6 minutes), but now the overall query takes `8m:24.572s`. Overall, compared to the copy and query solution, we are `1` min faster.
+
 ## ClickHouse
 
 ## Setup local ClickHouse 
