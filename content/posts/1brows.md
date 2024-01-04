@@ -13,7 +13,7 @@ categories:
 - Sorting
 ---
 
-Last week the good old Gunnar Morling launched an interesting [challenge](https://www.morling.dev/blog/one-billion-row-challenge/) about ordering 1 billion rows in Java. Like my ex colleague and friend Robin Moffat, I'm not at all a Java expert, and while [Robin used DuckDB](https://rmoff.net/2024/01/03/1%EF%B8%8F%E2%83%A3%EF%B8%8F-1brc-in-sql-with-duckdb/) to solve the challenge, I did the same with PostgreSQL and ClickHouse.
+Last week the good old [Gunnar Morling](https://www.linkedin.com/in/gunnar-morling-2b44b7229/) launched an interesting [challenge](https://www.morling.dev/blog/one-billion-row-challenge/) about ordering 1 billion rows in Java. Like my ex colleague and friend [Robin Moffat](https://www.linkedin.com/in/robinmoffatt/), I'm not at all a Java expert, and while [Robin used DuckDB](https://rmoff.net/2024/01/03/1%EF%B8%8F%E2%83%A3%EF%B8%8F-1brc-in-sql-with-duckdb/) to solve the challenge, I did the same with PostgreSQL and ClickHouse.
 
 <!--more-->
 
