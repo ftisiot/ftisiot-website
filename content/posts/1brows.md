@@ -264,6 +264,6 @@ The result is `44.465s`!
 
 ## Conclusion
 
-Both PostgreSQL and ClickHouse were able to complete the challenge. PostgreSQL had the limitiation of forcing the upload of data into a table that took most of the time. ClickHouse, on the other side, was able to query directly the CSV and got much faster results, as expected from a database designed for analytics.
+Both PostgreSQL and ClickHouse were able to complete the challenge. PostgreSQL initial solution had the limitiation of forcing the upload of data into a table that took most of the time, when using the file FDW the performances still weren't great. ClickHouse, on the other side, was able to query directly the CSV and got much faster results, as expected from a database designed for analytics.
 
 > Alert: the above is **NOT** a benchmark! The test is done with default installations of both databases and NO optimization. The blog only shows the technical viability of the solution.
