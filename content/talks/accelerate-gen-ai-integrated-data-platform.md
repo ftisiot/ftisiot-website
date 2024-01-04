@@ -1,5 +1,5 @@
 ---
-title: 'Accelerate Gen Ai Integrated Data Platform'
+title: 'Accelerate Generative AI development with  Integrated Data Platforms'
 date: "2023-12-04T08:39:17+01:00"
 url: "/talks/accelerate-gen-ai-integrated-data-platform/"
 event: "re:Invent"
