@@ -19,6 +19,9 @@ Last week the good old [Gunnar Morling](https://www.linkedin.com/in/gunnar-morli
 
 > Alert: the following is **NOT** a benchmark! The test is done with default installations of both databases and NO optimization. The blog only shows the technical viability of a solution.
 
+{{< code "/components/pglink" >}}
+
+
 ## Generate the data
 
 I used pretty much the same steps as [Robin to generate the data](https://rmoff.net/2024/01/03/1%EF%B8%8F%E2%83%A3%EF%B8%8F-1brc-in-sql-with-duckdb/#setup)
