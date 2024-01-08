@@ -122,6 +122,9 @@ The main difference, compared to DuckDB is on the usage of the `STRING_AGG` func
 CREATE INDEX test_idx_city_temperature ON "test" ("city","temperature");
 ```
 
+![EverSQL suggesting an index](/images/2024/eversql-suggestion.png)
+
+
 ### PostgreSQL Timing
 
 To get the timing I created a file called `test.sql` with the entire set of commands:
