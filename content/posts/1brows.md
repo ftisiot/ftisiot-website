@@ -116,6 +116,12 @@ FROM AGG
 
 The main difference, compared to DuckDB is on the usage of the `STRING_AGG` function that allows me to directly create the string ordered by `CITY` with all the metrics.
 
+**Note**: If I use [EverSQL](https://www.eversql.com/) to optimise the query, it'll provide a suggestion to add an index on `city` and `temperature`:
+
+```
+CREATE INDEX test_idx_city_temperature ON "test" ("city","temperature");
+```
+
 ### PostgreSQL Timing
 
 To get the timing I created a file called `test.sql` with the entire set of commands:
