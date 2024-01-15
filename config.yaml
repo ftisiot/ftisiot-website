@@ -86,4 +86,4 @@ markup:
     enableEmoji: true
   goldmark:
     renderer:
-      unsafe: true
+      unsafe: false
