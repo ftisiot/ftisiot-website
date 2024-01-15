@@ -1,0 +1,328 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>ftisiot ideas about food and life </title>
+		<link>https://ftisiot.net/</link>
+		<generator>Hugo -- gohugo.io</generator>
+		<language>en-us</language>
+		<author></author>
+		<rights>Copyright (c) 2024</rights>
+		<updated>2024-01-12 16:10:27 &#43;0100 CET</updated>
+		
+		<item>
+			<title>Posts</title>
+			<link>https://ftisiot.net/posts/</link>
+			<pubDate>Fri, 12 Jan 2024 16:10:27 CET</pubDate>
+			<author></author>
+			<guid>https://ftisiot.net/posts/</guid>
+			<media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://ftisiot.net/img/default-header-img.tn-500x500.jpg" medium="image" type="image/jpg" width="100" height="100" />
+			<description></description>
+		</item>
+		
+		<item>
+			<title>Talks</title>
+			<link>https://ftisiot.net/talks/</link>
+			<pubDate>Mon, 08 Jan 2024 14:06:54 CET</pubDate>
+			<author></author>
+			<guid>https://ftisiot.net/talks/</guid>
+			<media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://ftisiot.net/img/default-header-img.tn-500x500.jpg" medium="image" type="image/jpg" width="100" height="100" />
+			<description></description>
+		</item>
+		
+		<item>
+			<title>SOFT Methodology</title>
+			<link>https://ftisiot.net/soft/</link>
+			<pubDate>Thu, 26 Jan 2023 09:10:21 CET</pubDate>
+			<author></author>
+			<guid>https://ftisiot.net/soft/</guid>
+			<media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://ftisiot.net/images/2023/soft.png" medium="image" type="image/jpg" width="100" height="100" />
+			<description>&lt;p&gt;This page contains all the links related to the SOFT (Scalable Observable Fast Trustworthy) methodology for defining robust data platforms.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://aiven.io/blog/a-soft-methodology-to-define-robust-data-platforms&#34;&gt;The SOFT definition&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://ftisiot.net/posts/from-data-stack-to-data-stuck&#34;&gt;From data stack to data stuck: the risks of not asking the right data questions&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://ftisiot.net/posts/tech-scalability&#34;&gt;What are the directions of technical scalability&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+		</item>
+		
+		<item>
+			<title>How to JSON in MySQL</title>
+			<link>https://ftisiot.net/mysqljson/</link>
+			<pubDate>Mon, 09 Jan 2023 08:23:06 CET</pubDate>
+			<author></author>
+			<guid>https://ftisiot.net/mysqljson/</guid>
+			<media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://ftisiot.net/images/2023/mysql-json-little.png" medium="image" type="image/jpg" width="100" height="100" />
+			<description></description>
+		</item>
+		
+		<item>
+			<title>How to JSON in PostgreSQL®</title>
+			<link>https://ftisiot.net/postgresqljson/</link>
+			<pubDate>Mon, 09 Jan 2023 08:23:06 CET</pubDate>
+			<author></author>
+			<guid>https://ftisiot.net/postgresqljson/</guid>
+			<media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://ftisiot.net/images/2023/pg-json.png" medium="image" type="image/jpg" width="100" height="100" />
+			<description></description>
+		</item>
+		
+		<item>
+			<title>Suggestions on places/activities near Verona</title>
+			<link>https://ftisiot.net/suggestions-verona/</link>
+			<pubDate>Thu, 11 Aug 2022 13:28:45 CEST</pubDate>
+			<author></author>
+			<guid>https://ftisiot.net/suggestions-verona/</guid>
+			<media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://ftisiot.net/images/verona.jpeg" medium="image" type="image/jpg" width="100" height="100" />
+			<description>&lt;p&gt;Now and then I get asked what to do and where to eat nearby Verona, so there, you have the list. I&amp;rsquo;ll update the list whenever needed&lt;/p&gt;
+&lt;h2 id=&#34;restaurants-in-the-city&#34;&gt;Restaurants in the city&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.tripadvisor.com/Restaurant_Review-g187871-d1087202-Reviews-La_Taverna_di_Via_Stella-Verona_Province_of_Verona_Veneto.html&#34;&gt;Taverna di via Stella&lt;/a&gt;: local dishes, honest prices, and good wine selection. 🥩🐟💰&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://ristorantemaffei.it/&#34;&gt;Ristorante Maffei&lt;/a&gt;: near one of the main squares, offers fine dining. It also has ancient ruins under the building, you might ask to visit them. 🥩🐟💰💰💰&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.alpompiere.com/it/&#34;&gt;Trattoria al pompiere&lt;/a&gt;: typical Verona dishes in a nice little restaurant, book a week in advance to find a table. 🥩💰💰💰&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.berberepizza.it/en/berbere-verona/&#34;&gt;Berberè&lt;/a&gt;: the pizzeria in one of the main squares but really good pizza. 🍕💰💰&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.tapasotto.com/&#34;&gt;Tapasotto&lt;/a&gt;: a place doing high quality Italian tapas (small dishes, order at least 2 each). 🥩🐟💰💰&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.tripadvisor.com/Restaurant_Review-g187871-d2140257-Reviews-Terrazza_Bar_al_Ponte-Verona_Province_of_Verona_Veneto.html&#34;&gt;Bar Terrazza al ponte&lt;/a&gt;: a bar with a nice terrace looking at the river, a nice place for a drink. ☕🍹💰&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.alcovadelfrate.it/&#34;&gt;Alcova del Frate&lt;/a&gt;: if you&amp;rsquo;re willing to try horse meat. 🥩💰💰&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.ristorantetorcolo.it/&#34;&gt;Torcolo&lt;/a&gt;: typical dish is the &amp;ldquo;boiled meat&amp;rdquo;, it sounds horrible but is actually quite tasty, a mix of different meats served with local side sauces. 🥩💰💰&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.tripadvisor.com/Restaurant_Review-g187871-d1087170-Reviews-Locanda_di_Castelvecchio-Verona_Province_of_Verona_Veneto.html&#34;&gt;Locanda di Castelvecchio&lt;/a&gt;: see above, but more classy. 🥩💰💰💰&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.pescheriaimasenini.it/&#34;&gt;Pescheria i Masenini&lt;/a&gt;: Fish in the city center! 🐟💰💰💰&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://trattoriaimasenini.it/en/&#34;&gt;Trattoria i Masenini&lt;/a&gt;: Good meat near Castelvecchio. 🥩💰💰💰&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.tripadvisor.com/Restaurant_Review-g187871-d4025636-Reviews-Ristorante_Bar_Caffetteria_Al_Duomo-Verona_Province_of_Verona_Veneto.html&#34;&gt;Caffetteria al Duomo&lt;/a&gt;: Nice cafe with an beautiful garden, nice place for coffee and a cake. ☕💰💰&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;restaurants-around-the-city&#34;&gt;Restaurants around the city&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://elbagolo.it/?lang=en&#34;&gt;El Bagolo&lt;/a&gt;: small family restaurant in a hill, astonishing food for both meat and fish. 🥩🐟💰💰&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.tripadvisor.com/Restaurant_Review-g2209338-d2616383-Reviews-Antica_Trattoria_da_Bepi-Marano_di_Valpolicella_Province_of_Verona_Veneto.html&#34;&gt;Antica trattoria da Bepi&lt;/a&gt;: nice trattoria in the Valpolicella hills, good meat and nice wine selection. 🥩💰💰&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://trattoriacaprini.it/&#34;&gt;Trattoria Caprini&lt;/a&gt;: family restaurant specialized in hand made lasagnette in Valpolicella! Go there and test them! 🥩💰💰&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.tripadvisor.com/Restaurant_Review-g187842-d1458498-Reviews-Osteria_al_Torcol-Sirmione_Province_of_Brescia_Lombardy.html&#34;&gt;Osteria al Torcol&lt;/a&gt;: if you are in Sirmione, it&amp;rsquo;s always worth a stop. 🥩💰💰&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;gelato&#34;&gt;Gelato&lt;/h2&gt;
+&lt;p&gt;My preference in the city center are:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.tripadvisor.com/Restaurant_Review-g187871-d6555166-Reviews-L_Arte_del_Gelato-Verona_Province_of_Verona_Veneto.html&#34;&gt;The art of ice cream&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://terraecuoregelato.it/&#34;&gt;Gelateria Terra e cuore - Borgo trento&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.tripadvisor.com/Restaurant_Review-g187871-d3575232-Reviews-Pecoranera-Verona_Province_of_Verona_Veneto.html&#34;&gt;Pecora Nera&lt;/a&gt; a bit out of the city center&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;what-to-do-in-the-city&#34;&gt;What to do in the city&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Verona’s Arena: everyone will tell you that, but visiting the square is nice. Going insite could also be cool&lt;/li&gt;
+&lt;li&gt;Visit Castel San pietro: it’s the castle on top of the city, you have a nice view of the city from there. There is either a staircase or a funicolare that takes you there for 2euros per person (if it’s hot, I would recommend)&lt;/li&gt;
+&lt;li&gt;Visit Castelvecchio, the old castle in the city and go over the bridge, it’s one of the most suggestive views in the city&lt;/li&gt;
+&lt;li&gt;Visit Ponte Pietra, the old bridge&lt;/li&gt;
+&lt;li&gt;Visit the Teatro Romano (old Theatre), just outside the old bridge. There are a tons of shows there during the summer.&lt;/li&gt;
+&lt;li&gt;Visit the nearby &lt;a href=&#34;https://museoarcheologico.comune.verona.it/&#34;&gt;Archeological museum&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;what-to-do-outside-the-city&#34;&gt;What to do outside the city&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Visit Valpolicella Wine Producers like&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.zyme.it/&#34;&gt;Zyme&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.cantinalagiaretta.com&#34;&gt;La Giaretta&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.cantinanegrar.it/&#34;&gt;Cantina Sociale Negrar&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.masi.it/en/masi-wine-experience/masi-cellars&#34;&gt;Masi&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Climb Trees in the mountains 1h from Verona at &lt;a href=&#34;https://www.boscopark.it/&#34;&gt;Boscopark&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Visit &lt;a href=&#34;https://www.valeggio.com/?lang=en&#34;&gt;Valeggio sul Mincio&lt;/a&gt; famous for tortellini and for the amazing &lt;a href=&#34;https://www.sigurta.it/&#34;&gt;Parco Sigurtà&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Visit &lt;a href=&#34;https://www.parconaturaviva.it/en&#34;&gt;Parco Naturaviva&lt;/a&gt; for a full immersion on animals!&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Visit &lt;a href=&#34;https://www.gardaland.it/en/&#34;&gt;Gardaland&lt;/a&gt; the biggest italian amusement part&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Visit the Garda Lake: Sirmione, Malcenise, Bardolino or Lazise are all beautiful. If you fancy more distance also Garda, Limone sul Garda are beautiful!&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</description>
+		</item>
+		
+		<item>
+			<title>Analytics Everywhere!</title>
+			<link>https://ftisiot.net/analytics-everywhere-webinar/</link>
+			<pubDate>Wed, 02 Sep 2020 12:49:47 &#43;0000</pubDate>
+			<author></author>
+			<guid>https://ftisiot.net/analytics-everywhere-webinar/</guid>
+			<media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://ftisiot.net/img/default-header-img.tn-500x500.jpg" medium="image" type="image/jpg" width="100" height="100" />
+			<description>
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/dQw4w9WgXcQ&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+</description>
+		</item>
+		
+		<item>
+			<title>Speaking Activities</title>
+			<link>https://ftisiot.net/speaking-activities/</link>
+			<pubDate>Wed, 28 Sep 2016 20:01:20 UTC</pubDate>
+			<author></author>
+			<guid>https://ftisiot.net/speaking-activities/</guid>
+			<media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://ftisiot.net/images/speaking-poug-upper.jpg" medium="image" type="image/jpg" width="100" height="100" />
+			<description>&lt;p&gt;Check out Past and Future Speaking Activities!&lt;/p&gt;
+&lt;h1 id=&#34;planned-speaking-activities&#34;&gt;Planned Speaking Activities&lt;/h1&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Event&lt;/th&gt;
+&lt;th&gt;Date&lt;/th&gt;
+&lt;th&gt;Talk&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Pg Day Nordics&lt;/td&gt;
+&lt;td&gt;21st March&lt;/td&gt;
+&lt;td&gt;Put PostgreSQL at the center of your metadata universe&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Pg Day Paris&lt;/td&gt;
+&lt;td&gt;23rd March&lt;/td&gt;
+&lt;td&gt;Fix your strings&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h1 id=&#34;previous-speaking-activities&#34;&gt;Previous Speaking Activities&lt;/h1&gt;
+&lt;h2 id=&#34;2022&#34;&gt;2022&lt;/h2&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Event&lt;/th&gt;
+&lt;th&gt;Date&lt;/th&gt;
+&lt;th&gt;Talk&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;PG Conf EU&lt;/td&gt;
+&lt;td&gt;24th-29th October&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://ftisiot.net/slides/pg-metadata/pg-metadata.pdf&#34;&gt;Put PostgreSQL at the center of your (meta)data universe!&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Quix Meetup&lt;/td&gt;
+&lt;td&gt;24th October&lt;/td&gt;
+&lt;td&gt;🎥 &lt;a href=&#34;https://bit.ly/3ghs2ru&#34;&gt;Breathe In, Breathe Out: Get Kafka Connect Configs Right!&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Current (ex Kafka Summit)&lt;/td&gt;
+&lt;td&gt;4th-5th October&lt;/td&gt;
+&lt;td&gt;🎥 &lt;a href=&#34;https://bit.ly/3ghs2ru&#34;&gt;Breathe In, Breathe Out: Get Kafka Connect Configs Right!&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Streaming Audio Podcast&lt;/td&gt;
+&lt;td&gt;31st Sept&lt;/td&gt;
+&lt;td&gt;🎥 &lt;a href=&#34;https://www.youtube.com/watch?v=RfADrwfCJ8Y&#34;&gt;International Podcast Episode&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Uptime&lt;/td&gt;
+&lt;td&gt;14-15th Sept&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://uptime.aiven.io/session/325396&#34;&gt;Don&amp;rsquo;t get lost in data: metadata to the rescue!&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Uptime&lt;/td&gt;
+&lt;td&gt;14-15th Sept&lt;/td&gt;
+&lt;td&gt;🎥 &lt;a href=&#34;https://www.youtube.com/watch?v=rmtgaRq-pkI&amp;amp;t=1s&#34;&gt;No pineapple on pizza! Streaming anomaly detection with Apache Kafka and Apache Flink&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;PG Day Austria&lt;/td&gt;
+&lt;td&gt;16th Sept&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://pgday.at/talks/solving-the-knapsack-problem/&#34;&gt;Solving the Knapsack Problem with Recursive queries and postgreSQL&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Streaming Audio Podcast&lt;/td&gt;
+&lt;td&gt;31st Sept&lt;/td&gt;
+&lt;td&gt;🎥&lt;a href=&#34;https://www.youtube.com/watch?v=GalrgjIqdcM&#34;&gt;What Could Go Wrong with a Kafka JDBC Connector&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Kafka Summit 2022 London&lt;/td&gt;
+&lt;td&gt;25th April&lt;/td&gt;
+&lt;td&gt;🎥 &lt;a href=&#34;https://www.confluent.io/events/kafka-summit-london-2022/jdbc-source-connector-what-could-go-wrong/&#34;&gt;JDBC Source Connector: What Could Go Wrong?&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;NDC London 2022&lt;/td&gt;
+&lt;td&gt;10th May&lt;/td&gt;
+&lt;td&gt;🎥 &lt;a href=&#34;https://www.youtube.com/watch?v=AT6-WXLwKQE&#34;&gt;I don’t want to miss a Thing 🎶 - Track Database Changes with Apache Kafka&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;PyCon Italy&lt;/td&gt;
+&lt;td&gt;3rd Jun&lt;/td&gt;
+&lt;td&gt;🎥 &lt;a href=&#34;https://www.youtube.com/watch?v=hfi_ALPlsOQ&amp;amp;t=3s&#34;&gt;Event Driven Applications with Flask and Kafka&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Berlin Buzzwords&lt;/td&gt;
+&lt;td&gt;12nd Jun&lt;/td&gt;
+&lt;td&gt;🎥&lt;a href=&#34;https://www.youtube.com/watch?v=njvH3I39Dv0&amp;amp;list=PLq-odUc2x7i8eaYHVXSOadHrVE9tEU2QR&amp;amp;index=47&amp;amp;t=1720s&#34;&gt; Solving the knapsack problem with recursive queries and PostgreSQL&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Nordic PG Day&lt;/td&gt;
+&lt;td&gt;22nd Mar&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://ftisiot.net/talks/track-database-changes&#34;&gt;I Don&amp;rsquo;t Want to Miss a Thing: Track Database Changes with Apache Kafka&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;FOSDEM 2022&lt;/td&gt;
+&lt;td&gt;5th Feb&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://fosdem.org/2022/schedule/event/batch_proc_data_streaming/&#34;&gt;Build an Open Source Streaming Data Pipeline&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;FOSDEM 2022&lt;/td&gt;
+&lt;td&gt;6th Feb&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://fosdem.org/2022/schedule/event/python_kafka/&#34;&gt;Get to know Apache Kafka with Jupyter Notebooks&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;FOSDEM 2022&lt;/td&gt;
+&lt;td&gt;6th Feb&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://fosdem.org/2022/schedule/event/postgresql_solving_the_knapsack_problem_with_recursive_queries_and_postgresql/&#34;&gt;Solving the knapsack problem with recursive queries and PostgreSQL&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+</description>
+		</item>
+		
+		<item>
+			<title>Who is Francesco Tisiot?</title>
+			<link>https://ftisiot.net/who/</link>
+			<pubDate>Wed, 28 Sep 2016 20:00:20 UTC</pubDate>
+			<author></author>
+			<guid>https://ftisiot.net/who/</guid>
+			<media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://ftisiot.net/images/speaking-poug-upper.jpg" medium="image" type="image/jpg" width="100" height="100" />
+			<description>&lt;h1 id=&#34;francesco-tisiot&#34;&gt;Francesco Tisiot&lt;/h1&gt;
+&lt;p&gt;Ciao!&lt;/p&gt;
+&lt;p&gt;I’m Francesco Tisiot, Senior Developer Advocate at &lt;a href=&#34;https://aiven.io&#34;&gt;Aiven&lt;/a&gt;. You can find me on twitter at &lt;a href=&#34;https://twitter.com/ftisiot&#34;&gt;@ftisiot&lt;/a&gt; and on &lt;a href=&#34;https://www.linkedin.com/in/francescotisiot/&#34;&gt;LinkedIn&lt;/a&gt;
+&lt;img src=&#34;https://ftisiot.net/images/speaking-poug.jpg&#34; alt=&#34;Me speaking at POUG&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Some more resources:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;My previous and next Speaking activities in the &lt;a href=&#34;https://ftisiot.net/speaking-activities&#34;&gt;dedicated page&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;My &lt;a href=&#34;https://dev.to/ftisiot&#34;&gt;series of blog post for Aiven&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;The slides of my previous speaking engagements on &lt;a href=&#34;https://speakerdeck.com/ftisiot&#34;&gt;SpeakerDeck&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;My previous company (Rittman Mead) related articles in Rittman Mead’s &lt;a href=&#34;http://ritt.md/FT&#34;&gt;blog&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;This is my personal blog! Stay tuned for ideas, tests and opinions related to my work. All the content written here is my own and don’t necessary reflect my company vision.&lt;/p&gt;
+&lt;h2 id=&#34;personal-bio&#34;&gt;Personal BIO&lt;/h2&gt;
+&lt;p&gt;Francesco comes from Verona, Italy and works as a Staff Developer Advocate at Aiven. With his many years of experience as a data analyst, he has stories to tell and advice for data-wranglers everywhere. Francesco loves sharing knowledge with others as a speaker and writer, and is on a mission to defend the world from bad Italian food!&lt;/p&gt;
+&lt;p&gt;&lt;a rel=&#34;me&#34; href=&#34;https://data-folks.masto.host/@ftisiot&#34;&gt;Mastodon&lt;/a&gt;&lt;/p&gt;
+</description>
+		</item>
+		
+		<item>
+			<title>Components</title>
+			<link>https://ftisiot.net/components/</link>
+			<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
+			<author></author>
+			<guid>https://ftisiot.net/components/</guid>
+			<media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://ftisiot.net/img/default-header-img.tn-500x500.jpg" medium="image" type="image/jpg" width="100" height="100" />
+			<description></description>
+		</item>
+		
+		<item>
+			<title>Search</title>
+			<link>https://ftisiot.net/search/</link>
+			<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
+			<author></author>
+			<guid>https://ftisiot.net/search/</guid>
+			<media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://ftisiot.net/img/default-header-img.tn-500x500.jpg" medium="image" type="image/jpg" width="100" height="100" />
+			<description></description>
+		</item>
+		
+	</channel>
+</rss>
