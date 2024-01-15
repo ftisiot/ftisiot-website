@@ -34,9 +34,6 @@ outputs:
    taxonomy:
       - HTML
       - RSS
-   taxonomyTerm:
-      - HTML
-      - RSS
 
 menu:
   main:
