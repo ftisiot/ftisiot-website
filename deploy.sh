@@ -26,7 +26,7 @@ hugo # if using a theme, replace with `hugo -t <YOURTHEME>`
 cd public
 # Add changes to git.
 echo -e "\033[0;32m***\033[0m"
-echo 'Add changes to git'
+echo 'Add public changes to git'
 git add .
 
 # Commit changes.
