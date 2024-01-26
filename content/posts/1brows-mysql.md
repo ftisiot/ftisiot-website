@@ -177,8 +177,6 @@ But, when making the change and retrying the script you might hit the `ERROR 111
 
 ```sql
 SET max_heap_table_size = 1024 * 1024 * 1024 * 64;
-SET tmp_table_size = 1024 * 1024 * 1024 * 64;
-SET GLOBAL innodb_buffer_pool_size = 1024 * 1024 * 1024 * 64;
 ```
 
 However, also this didn't work, and stopped my test after waiting for over `40 minutes` for just the loading time. 
