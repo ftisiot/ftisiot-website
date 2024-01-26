@@ -4,7 +4,7 @@ date: "2024-01-26T14:43:29+01:00"
 url: "/posts/1browsmysql"
 description: "Sorting 1 billion rows challenge with MySQL"
 tldr: "Sorting 1 billion rows challenge with MySQL"
-image: "/images/2024/query.png"
+image: "/images/2024/mysql1brc.png"
 credit: "ftisiot"
 thumbnail: "/images/2024/query.png"
 categories:
