@@ -11,10 +11,11 @@ categories:
 - mysql
 - json
 - extract
+- JSON_EXTRACT
 ---
 
 
-Mysql® offers three main ways to extract fields from a JSON document:
+MySQL® offers three ways to extract fields from a JSON object:
 
 * the `->` operator to extract the field as JSON
 * the `->>` operator to extract the field as text
