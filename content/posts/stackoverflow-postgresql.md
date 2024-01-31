@@ -5,7 +5,7 @@ date: "2024-01-29T14:38:05+01:00"
 url: "/posts/stackoverflow-postgresql/"
 description: "How to load StackOverflow StackExchange data in PostgreSQL"
 tldr: "How to load StackOverflow StackExchange data in PostgreSQL"
-image: "/images/2024/stackoverflow_code.png"
+image: "/images/2024/stackoverflow_codegrey.png"
 credit: "@ftisiot"
 thumbnail: "/images/2024/stackoverflow_code.png"
 categories:
