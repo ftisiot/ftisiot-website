@@ -26,6 +26,8 @@ I recently found about the StackOverflow dataset in [Kaggle](https://www.kaggle.
 
 > The data is provided by the [Stack Exchange Network](https://archive.org/details/stackexchange)
 
+{{< code "/components/pglink" >}}
+
 ## Create a PostgreSQL database
 
 You can create one with [Aiven](https://go.aiven.io/francesco-signup) or just have one local, the below code works in both examples.
