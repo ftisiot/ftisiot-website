@@ -165,9 +165,11 @@ As mentioned before, we'll perform a two step loading approach:
 
 The two step approach is needed since the original dataset threats all columns, including ids, as strings. We could either define all the Ids as strings or, do a bit more work to load the data into the proper column definitions.
 
-### Load the User XML into the table
+### Step 1: Load the User XML into the `data_load` table
 
-To load the entire XML of the `Users.xml` file into a table we can connect to the database using `psql` from the same folder where the `Users.xml` is located and execute:
+![Architecture of the data loading phase - step 1](/images/2024/stackoverflow-loading-step1.png)
+
+To load the entire XML of the `Users.xml` file into a temporary `data_load` table we can connect to the database using `psql` from the same folder where the `Users.xml` is located and execute:
 
 ```sql
 \copy data_load from program 'tr -d "\t" < Users.xml | sed -e ''s/\\/\\\\/g''' HEADER
@@ -177,6 +179,10 @@ The `\copy` command allows us to load the dataset into the `data_load` table. Ho
 * `tr -d "\t" < Users.xml` removes the tabs from the file.
 * `sed -e ''s/\\/\\\\/g''` properly escapes the `\` in the strings.
 * `HEADER` avoids to load the initial `<?xml version="1.0" encoding="utf-8"?>` row, unnecessary for our parsing
+
+### Step 2: Load the data into the `Users` table
+
+![Architecture of the data loading phase - step 2](/images/2024/stackoverflow-loading-step2.png)
 
 The above command loads the data into the `data_load` table with one row in the table for each row in the original file. This is not optimal but avoids having to deal with very large files included in just a single blob.
 
