@@ -25,11 +25,13 @@ PostgreSQL® offers two types of data types to handle JSON data, `JSON` and `JSO
 
 
 
-A quick overview of the methods is available in the video, scroll further for the written examples.
+A quick overview of the methods is available in the video, scroll further for the written examples. 
 
 {{< youtube NgIdO4FkC_A >}} 
 
 {{< code "/components/pglink" >}}
+
+If you need to load JSON files in an existing table with well defined columns, check the dedicated article on [how to load the JSON Data with PostgreSQL COPY and jq](/postgresqljson/load-json-data-with-postgresql-copy).
 
 ## Load JSON data in PostgreSQL
 
