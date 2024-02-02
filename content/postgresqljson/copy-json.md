@@ -1,5 +1,5 @@
 ---
-title: 'How to load JSON data in PostgreSQL with the the COPY command'
+title: 'How to load JSON data in PostgreSQL with the COPY command'
 date: "2024-02-02T11:25:54+01:00"
 url: "/postgresqljson/load-json-data-with-postgresql-copy"
 description: "How to load JSON data in PostgreSQL with the COPY command"
