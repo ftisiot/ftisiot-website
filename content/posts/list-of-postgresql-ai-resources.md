@@ -18,7 +18,9 @@ Everyone is now talking about AI, and modern databases like PostgreSQL® are inc
 
 <!--more-->
 
-The [List of PostgreSQL® AI projects and resources](https://github.com/ftisiot/postgresql-ai-projects) is an open-source project to collect PostgreSQL® extensions, applications and resources (video or blogs) talking about how our loved database can fit in the AI journey. **PRs are welcome**!
+The [List of PostgreSQL® AI projects and resources](https://github.com/ftisiot/postgresql-ai-projects) is an open-source project to collect PostgreSQL® extensions, applications and resources (video or blogs) talking about how our loved database can fit in the AI journey. 
+
+Did you write an article, gave a talk, are you working on an extension regarding PostgreSQL and AI? **PRs are welcome**!
 
 ![Preview of List of PostgreSQL® AI Projects and Resources](/images/2024/list-pg-resources-include.png)
 
