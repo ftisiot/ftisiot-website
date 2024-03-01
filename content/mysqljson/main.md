@@ -27,6 +27,7 @@ This series covers how to solve common problems on JSON datasets with MySQL and 
 * [How to extract a field from a JSON object in MySQL?](/mysqljson/how-to-extract-field-from-json-mysql)
 * [How to extract an item from an array in a JSON object in MySQL?](/mysqljson/how-to-extract-field-from-array-json-mysql)
 * [How to get the JSON field types in MySQL?](/mysqljson/how-to-get-json-field-types-mysql)
+* [How to query JSON in MySQL with JSON_CONTAINS?](/mysqljson//mysqljson/query-json-contains-mysql)
 
 ### Create JSON
 

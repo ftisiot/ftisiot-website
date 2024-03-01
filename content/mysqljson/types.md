@@ -27,7 +27,7 @@ To get the type of a JSON item in MySQL you need to use the `JSON_TYPE` function
 
 The dataset is the following:
 
-```
+```json
 {
     "id": 778,
     "shop": "Luigis Pizza",
@@ -61,7 +61,7 @@ The following examples use a pizza order dataset with an order having:
 * `image`: null
 * and two pizzas contained in the `pizzas` item:
 
-```
+```json
 [
     {
         "pizzaName": "Salami",
@@ -79,7 +79,7 @@ The following examples use a pizza order dataset with an order having:
 
 It can be recreated with the following script:
 
-```
+```sql
 create table test(id serial primary key, json_data json);
 
 insert into test(json_data) values (
@@ -110,7 +110,7 @@ insert into test(json_data) values (
 
 You can get the type of JSON data with the `JSON_TYPE` function
 
-```
+```sql
 select 
     JSON_TYPE(json_data -> '$.pizzas') pizzas
     from test;

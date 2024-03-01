@@ -20,7 +20,7 @@ To load JSON data into a MySQL column you need to include it as string.
 
 E.g. to include the following JSON:
 
-```
+```json
 {
     "id": 778,
     "shop": "Luigis Pizza",
@@ -44,13 +44,13 @@ E.g. to include the following JSON:
 
 In a table containing a `json_data` `JSON` column:
 
-```
+```sql
 create table test(id serial primary key, json_data json);
 ```
 
 You can just insert the `json_data` column as string:
 
-```
+```sql
 insert into test(id, json_data) values (
 1, 
 '{
@@ -78,7 +78,7 @@ MySQL will validate the content as JSON and, if correct, store the data.
 
 If you retrieve the data from the `test` table with
 
-```
+```sql
 select * from test;
 ```
 

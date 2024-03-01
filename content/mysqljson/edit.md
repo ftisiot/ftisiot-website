@@ -30,7 +30,7 @@ You can edit a JSON document in MySQL with:
 
 The dataset is the following:
 
-```
+```json
 {
     "id": 778,
     "shop": "Luigis Pizza",
@@ -64,7 +64,7 @@ The following examples use a pizza order dataset with an order having:
 * `image`: null
 * and two pizzas contained in the `pizzas` item:
 
-```
+```json
 [
     {
         "pizzaName": "Salami",
@@ -82,7 +82,7 @@ The following examples use a pizza order dataset with an order having:
 
 It can be recreated with the following script:
 
-```
+```sql
 create table test(id serial primary key, json_data json);
 
 insert into test(json_data) values (
@@ -113,7 +113,7 @@ insert into test(json_data) values (
 
 To edit a JSON document you can use the `JSON_SET` function. To replace the second `pizzaName` from `Margherita` to `Capricciosa` you can
 
-```
+```sql
 select 
     JSON_SET(json_data,'$.pizzas[1].pizzaName','Capricciosa') from test;
 ```
@@ -135,7 +135,7 @@ Result
 
 To edit a JSON document you can use the `JSON_REPLACE` function. To replace the second `pizzaName` from `Margherita` to `Capricciosa` you can
 
-```
+```sql
 select 
     JSON_REPLACE(json_data,'$.pizzas[1].pizzaName','Capricciosa') from test;
 ```
@@ -157,7 +157,7 @@ Result
 
 **Note**: If you try to use the `JSON_REPLACE` with a non existing field, like the `$.nameS`, the function will **NOT** edit the document.
 
-```
+```sql
 select 
     JSON_REPLACE(json_data,'$.nameS','Ugo') from test;
 ```

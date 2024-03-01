@@ -26,7 +26,7 @@ You can tabulate a JSON document (retrieve it as a row) in MySQL with the `JSON_
 
 The dataset is the following:
 
-```
+```json
 {
     "id": 778,
     "shop": "Luigis Pizza",
@@ -60,7 +60,7 @@ The following examples use a pizza order dataset with an order having:
 * `image`: null
 * and two pizzas contained in the `pizzas` item:
 
-```
+```json
 [
     {
         "pizzaName": "Salami",
@@ -78,7 +78,7 @@ The following examples use a pizza order dataset with an order having:
 
 It can be recreated with the following script:
 
-```
+```sql
 create table test(id serial primary key, json_data json);
 
 insert into test(json_data) values (
@@ -109,7 +109,7 @@ insert into test(json_data) values (
 
 To retrieve one or more JSON documents as columns and rows you can use the `JSON_TABLE` function. To retrieve the list of pizzas and their first additional topping from the above as table you can:
 
-```
+```sql
 select tbl.* from
     test, 
     JSON_TABLE(

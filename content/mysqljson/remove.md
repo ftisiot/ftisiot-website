@@ -27,7 +27,7 @@ You can remove a field from JSON document in MySQL with the `JSON_REMOVE` functi
 
 The dataset is the following:
 
-```
+```json
 {
     "id": 778,
     "shop": "Luigis Pizza",
@@ -61,7 +61,7 @@ The following examples use a pizza order dataset with an order having:
 * `image`: null
 * and two pizzas contained in the `pizzas` item:
 
-```
+```json
 [
     {
         "pizzaName": "Salami",
@@ -79,7 +79,7 @@ The following examples use a pizza order dataset with an order having:
 
 It can be recreated with the following script:
 
-```
+```sql
 create table test(id serial primary key, json_data json);
 
 insert into test(json_data) values (
@@ -110,7 +110,7 @@ insert into test(json_data) values (
 
 To remove one or more fields from a JSON document you can use the `JSON_REMOVE` function. To remove the the `pizzaName` from the second pizza in the above order you can:
 
-```
+```sql
 select 
     JSON_REMOVE(json_data,'$.pizzas[1].pizzaName') remove_pizzaName from test;
 ```

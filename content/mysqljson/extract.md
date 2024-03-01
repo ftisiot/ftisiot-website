@@ -68,7 +68,7 @@ The following examples use a pizza order dataset with an order having:
 * `image`: null
 * and two pizzas contained in the `pizzas` item:
 
-```
+```json
 [
     {
         "pizzaName": "Salami",
@@ -86,7 +86,7 @@ The following examples use a pizza order dataset with an order having:
 
 It can be recreated with the following script:
 
-```
+```sql
 create table test(id serial primary key, json_data json);
 
 insert into test(json_data) values (
@@ -117,7 +117,7 @@ insert into test(json_data) values (
 
 To extract a field value from a JSON document, you can use the `->` operator. The `id` and `name` fields can be extracted with:
 
-```
+```sql
 select 
     json_data -> '$.id' id,
     json_data -> '$.name' name
@@ -139,7 +139,7 @@ Result
 
 To extract a field from a JSON document as Text, you can use the `->` operator. The `id` and `name` fields can be extracted with:
 
-```
+```sql
 select 
     json_data ->> '$.id' id,
     json_data ->> '$.name' order_name
@@ -160,7 +160,7 @@ Result:
 
 To extract a field from a JSON document, you can use the `JSON_EXTRACT` function. The `id` and `name` fields can be extracted with:
 
-```
+```sql
 select 
     JSON_EXTRACT(json_data, '$.id') id,
     JSON_EXTRACT(json_data, '$.name') order_name

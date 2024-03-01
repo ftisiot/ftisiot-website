@@ -29,7 +29,7 @@ To extract an item from an array in MySQL you need to use the `->` operator and 
 
 The dataset is the following:
 
-```
+```json
 {
     "id": 778,
     "shop": "Luigis Pizza",
@@ -63,7 +63,7 @@ The following examples use a pizza order dataset with an order having:
 * `image`: null
 * and two pizzas contained in the `pizzas` item:
 
-```
+```json
 [
     {
         "pizzaName": "Salami",
@@ -81,7 +81,7 @@ The following examples use a pizza order dataset with an order having:
 
 It can be recreated with the following script:
 
-```
+```sql
 create table test(id serial primary key, json_data json);
 
 insert into test(json_data) values (
@@ -112,7 +112,7 @@ insert into test(json_data) values (
 
 Using the `->` operator in conjunction with the `[item_number]` JSON Path sintax, we can extract from an array. The `[item_number]` syntax follows the JSON standards, therefore the array starting index is `0`. The second pizza in the order can be extracted with
 
-```
+```sql
 select 
     json_data -> '$.pizzas[1]' second_pizza
     from test;

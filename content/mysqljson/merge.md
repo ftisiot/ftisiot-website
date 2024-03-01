@@ -30,7 +30,7 @@ You can merge two JSON documents in MySQL with:
 
 The dataset is the following:
 
-```
+```json
 {
     "id": 778,
     "shop": "Luigis Pizza",
@@ -64,7 +64,7 @@ The following examples use a pizza order dataset with an order having:
 * `image`: null
 * and two pizzas contained in the `pizzas` item:
 
-```
+```json
 [
     {
         "pizzaName": "Salami",
@@ -82,7 +82,7 @@ The following examples use a pizza order dataset with an order having:
 
 It can be recreated with the following script:
 
-```
+```sql
 create table test(id serial primary key, json_data json);
 
 insert into test(json_data) values (
@@ -135,7 +135,7 @@ Result
 
 To merge two (or more) JSON documents, by keeping only the latest value for each key you can use the `JSON_MERGE_PATCH` function. 
 
-```
+```sql
 select 
     JSON_MERGE_PATCH(
         '{"mykey1":"myvalue11","mykey2":"myvalue21"}',

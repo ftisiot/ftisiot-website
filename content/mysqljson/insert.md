@@ -25,7 +25,7 @@ You can insert a field in a JSON document in MySQL with the `JSON_INSERT` functi
 
 The dataset is the following:
 
-```
+```json
 {
     "id": 778,
     "shop": "Luigis Pizza",
@@ -59,7 +59,7 @@ The following examples use a pizza order dataset with an order having:
 * `image`: null
 * and two pizzas contained in the `pizzas` item:
 
-```
+```json
 [
     {
         "pizzaName": "Salami",
@@ -77,7 +77,7 @@ The following examples use a pizza order dataset with an order having:
 
 It can be recreated with the following script:
 
-```
+```sql
 create table test(id serial primary key, json_data json);
 
 insert into test(json_data) values (
@@ -108,7 +108,7 @@ insert into test(json_data) values (
 
 To insert a field in a JSON document you can use the `JSON_INSERT` function. To insert the `drinks` in the second pizza in the above order you can:
 
-```
+```sql
 select 
     JSON_INSERT(json_data,'$.pizzas[1].drinks','Sparkling Water') extra_drink from test;
 ```

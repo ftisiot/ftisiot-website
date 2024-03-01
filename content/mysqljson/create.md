@@ -27,7 +27,7 @@ You can create a JSON document from fields in Mysql® with the `JSON_OBJECT` fun
 
 The dataset is the following:
 
-```
+```json
 {
     "id": 778,
     "shop": "Luigis Pizza",
@@ -61,7 +61,7 @@ The following examples use a pizza order dataset with an order having:
 * `image`: null
 * and two pizzas contained in the `pizzas` item:
 
-```
+```json
 [
     {
         "pizzaName": "Salami",
@@ -79,7 +79,7 @@ The following examples use a pizza order dataset with an order having:
 
 It can be recreated with the following script:
 
-```
+```sql
 create table test(id serial primary key, json_data json);
 
 insert into test(json_data) values (
@@ -110,7 +110,7 @@ insert into test(json_data) values (
 
 To create a JSON document, from a list of fields or strings you can use the `JSON_OBJECT` function. 
 
-```
+```sql
 select 
     JSON_OBJECT('mykey1','myvalue1','mykey2','myvalue2') json_data;
 ```
