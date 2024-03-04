@@ -14,7 +14,7 @@ categories:
 - PostgreSQL
 ---
 
-Some time ago I found an interesting database file suffix I never faced before: the `.dbf` and saw aroung that it was first introduced in 1983 with dBASE II. This article showcases how we can automatically generate the SQL counterpart using Python and [dbfread](https://dbfread.readthedocs.io/en/latest/exporting_data.html#dataset-sql).
+Some time ago I found an interesting database file suffix I never faced before: the `.dbf` and saw aroung that it was first introduced in 1983 with dBASE II. This article showcases how we can automatically generate the PostgreSQL table and fill it with data using Python and [dbfread](https://dbfread.readthedocs.io/en/latest/exporting_data.html#dataset-sql).
 
 <!--more-->
 
