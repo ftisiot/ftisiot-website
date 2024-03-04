@@ -1,5 +1,5 @@
 ---
-title: 'From dbf to PostgreSQL with Python'
+title: 'From dbf to SQL (and PostgreSQL) with Python'
 date: "2024-03-04T14:31:10+01:00"
 url: "/posts/dbf-to-postgresql-python"
 description: "Translate from dbf to SQL with Python"
@@ -14,7 +14,7 @@ categories:
 - PostgreSQL
 ---
 
-Some time ago I found an interesting database file suffix I never faced before: the `.dbf` and saw aroung that it was first introduced in 1983 with dBASE II. This article showcases how we can automatically generate the PostgreSQL table and fill it with data using Python and [dbfread](https://dbfread.readthedocs.io/en/latest/exporting_data.html#dataset-sql).
+Some time ago I found an interesting database file suffix I never faced before: the `.dbf` and saw around that it was first introduced in 1983 with dBASE II. This article showcases how we can automatically generate the PostgreSQL table and fill it with data using Python and [dbfread](https://dbfread.readthedocs.io/en/latest/exporting_data.html#dataset-sql).
 
 <!--more-->
 
