@@ -4,9 +4,9 @@ date: "2024-03-11T11:10:09+01:00"
 url: "/posts/pgbench-test-postgresql"
 description: "How to use pgbench to test PostgreSQL® performance"
 tldr: "How to use pgbench to test PostgreSQL® performance"
-image: ""
+image: "/images/2024/index_suggestion.png"
 credit: "ftisiot"
-thumbnail: ""
+thumbnail: "/images/2024/index_suggestion.png"
 categories:
 - PostgreSQL
 - pgbench
