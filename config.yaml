@@ -1,7 +1,7 @@
 theme: "ananke"
 baseURL: "https://ftisiot.net"
 languageCode : "en-us"
-title: "ftisiot ideas about food and life"
+title: "ftisiot ideas about tech, food and life"
 googleAnalytics: "G-7Z74BTZ0TM"
 paginate: 10
 pygmentsStyle: pygments
