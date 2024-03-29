@@ -6,7 +6,8 @@ description: "When sending unix timestamps from Kafka to OpenSearch/ElasticSearc
 tldr: "Use the TimestampConverter"
 image: "/images/2023/kc-es-os.png"
 credit: "ftisiot"
-thumbnail: "/images/2023/kc-es-os.png"
+featured_image: "/images/2023/kc-es-os.png"
+show_reading_time: true
 categories:
 - Kafka Connect
 - OpenSearch

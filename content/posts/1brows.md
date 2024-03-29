@@ -7,6 +7,8 @@ tldr: "Sorting 1 billion rows challenge with PostgreSQL and ClickHouse"
 image: "/images/2024/query.png"
 credit: "ftisiot"
 thumbnail: "/images/2024/query.png"
+featured_image: "/images/2024/query.png"
+show_reading_time: true
 categories:
 - PostgreSQL
 - ClickHouse

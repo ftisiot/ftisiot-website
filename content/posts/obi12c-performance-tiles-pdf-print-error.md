@@ -5,6 +5,7 @@ draft: false
 title: OBI12c Performance Tiles PDF Print Error
 type: post
 url: /2016/09/29/obi12c-performance-tiles-pdf-print-error/
+show_reading_time: true
 tags:
 - OBI12c;OBIEE12c;12c;performance;tiles;PDF;print;Error;
 ---

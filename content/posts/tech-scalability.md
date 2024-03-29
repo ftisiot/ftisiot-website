@@ -6,7 +6,8 @@ description: "Discussing technical scalability directions and limits"
 tldr: "Discussing technical scalability directions and limits"
 image: "/images/2023/scalability.png"
 credit: "ftisiot"
-thumbnail: "/images/2023/scalability.png"
+featured_image: "/images/2023/scalability.png"
+show_reading_time: true
 categories:
 - scalability
 - data-platforms

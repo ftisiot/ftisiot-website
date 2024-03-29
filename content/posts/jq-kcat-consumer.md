@@ -7,7 +7,8 @@ tldr: "Use the `-u` flag in kcat"
 image: "/images/2022/working_result_kcat_jq.jpg"
 credit: ""
 draft: false
-thumbnail: "/images/2022/working_result_kcat_jq.jpg"
+featured_image: "/images/2022/working_result_kcat_jq.jpg"
+show_reading_time: true
 categories:
 - Apache Kafka
 - kcat

@@ -6,8 +6,9 @@ title: Looking Back
 type: post
 url: /2020/11/26/looking_back/
 image: "/images/2020/12/journey.jpeg"
-thumbnail: "/images/2020/12/journey.jpeg"
+featured_image: "/images/2020/12/journey.jpeg"
 credit: "https://twitter.com/ftisiot/"
+show_reading_time: true
 categories:
 - work
 tags:

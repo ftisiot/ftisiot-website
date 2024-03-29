@@ -5,6 +5,7 @@ draft: false
 title: 'Looker for OBIEE Experts: Introduction and Concepts'
 type: post
 url: /2018/08/23/looker-for-obiee-experts-introduction-and-concepts/
+show_reading_time: true
 categories:
 - Analytics
 - Tech

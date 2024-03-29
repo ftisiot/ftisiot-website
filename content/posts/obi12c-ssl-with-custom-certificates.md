@@ -5,6 +5,7 @@ draft: false
 title: OBI12c SSL with Custom Certificates
 type: post
 url: /2016/10/16/obi12c-ssl-with-custom-certificates/
+show_reading_time: true
 ---
 
 For anybody on OBIEE 12c wanting to enable full SSL, Oracle provided within the [OBIEE Documentation](https://docs.oracle.com/middleware/1221/biee/BIESC/ssl.htm#BIESC374) an explanation on how to set it up using demo certificates.

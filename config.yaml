@@ -1,4 +1,4 @@
-theme: "mystory"
+theme: "ananke"
 baseURL: "https://ftisiot.net"
 languageCode : "en-us"
 title: "ftisiot ideas about food and life"
@@ -7,7 +7,19 @@ paginate: 10
 pygmentsStyle: pygments
 
 
+
 params:
+  ananke_socials:
+  - name: twitter
+    url: https://twitter.com/FTisiot
+  - name: github
+    url: https://github.com/ftisiot
+  - name: linkedin
+    url: https://www.linkedin.com/in/francescotisiot/
+  - name: youtube
+    url: https://www.youtube.com/channel/UCTJ4oA3-T3RdmM2OJ7d8cJg
+  - name: mastodon
+    url: https://data-folks.masto.host/@ftisiot
   AuthorName: Francesco Tisiot
   GitHubUser: "ftisiot"
   image: "images/ftisiot.jpg"
@@ -41,10 +53,6 @@ menu:
     title: who
     url: /who
     weight: -10
-  - name: talks
-    title: talks
-    url: /speaking-activities
-    weight: -9
   - name: suggestions
     title: suggestions
     url: /suggestions-verona
@@ -56,23 +64,6 @@ menu:
   - name: json-mysql
     title: json-mysql
     url: /mysqljson/main
-    weight: -5
-  social:
-  - name: github
-    title: "fab fa-github-square"
-    url: https://github.com/ftisiot/
-    weight: -6
-  - name: youtube
-    title: "fab fa-youtube-square"
-    url: https://www.youtube.com/channel/UCTJ4oA3-T3RdmM2OJ7d8cJg
-    weight: -8
-  - name: twitter
-    title: "fab fa-twitter-square"
-    url: https://twitter.com/ftisiot/
-    weight: -7
-  - name: linkedin
-    title: "fab fa-linkedin"
-    url: https://www.linkedin.com/in/francescotisiot/
     weight: -5
 
 markup:

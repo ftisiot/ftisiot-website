@@ -5,6 +5,7 @@ draft: false
 title: Welcome
 type: post
 url: /2016/09/28/first-blog-post/
+show_reading_time: true
 tags:
 - Welcome
 ---

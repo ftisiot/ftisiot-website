@@ -6,7 +6,8 @@ description: "Few tips, based on experience, to write a successfull conference a
 tldr: "Few tips, based on experience, to write a successfull conference abstract"
 image: "/images/2022/success_abstract_top.png"
 credit: "ftisiot"
-thumbnail: "/images/2022/success_abstract.png"
+featured_image: "/images/2022/success_abstract.png"
+show_reading_time: true
 categories:
 - conference
 - abstract

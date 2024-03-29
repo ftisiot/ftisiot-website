@@ -5,7 +5,7 @@ description: "A series of articles on how to solve common JSON problems with MyS
 tldr: "A series of articles on how to solve common JSON problems with MySQL"
 image: "/images/2023/mysql-json.png"
 credit: "ftisiot"
-thumbnail: "/images/2023/mysql-json-little.png"
+featured_image: "/images/2023/mysql-json-little.png"
 categories:
 - postgresql
 - json

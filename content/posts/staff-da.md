@@ -6,7 +6,8 @@ description: "What does a Staff DA do? and how to get there"
 tldr: "What does a Staff DA do? and how to get there"
 image: "/images/2023/stage.png"
 credit: ""
-thumbnail: "/images/2023/meold.png"
+featured_image: "/images/2023/meold.png"
+show_reading_time: true
 categories:
 - DevRel
 - Growth

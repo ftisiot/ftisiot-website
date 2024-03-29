@@ -6,8 +6,9 @@ title: A Month in Aiven.io
 type: false
 url: /2021/01/27/a_month_in_aiven/
 image: "/images/2021/01/aiven_m.png"
-thumbnail: "/images/2021/01/aiven_s.png"
+featured_image: "/images/2021/01/aiven_s.png"
 credit: "https://twitter.com/ftisiot/"
+show_reading_time: true
 categories:
 - work
 tags:

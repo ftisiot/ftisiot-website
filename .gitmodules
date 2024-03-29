@@ -4,3 +4,12 @@
 [submodule "themes/mystory"]
 	path = themes/mystory
 	url = https://github.com/ftisiot/story
+[submodule "themes/walden"]
+	path = themes/walden
+	url = https://github.com/Homecat805/hugo-theme-walden.git
+[submodule "themes/cleanwhite"]
+	path = themes/cleanwhite
+	url = https://github.com/zhaohuabing/hugo-theme-cleanwhite.git
+[submodule "themes/ananke"]
+	path = themes/ananke
+	url = https://github.com/theNewDynamic/gohugo-theme-ananke.git

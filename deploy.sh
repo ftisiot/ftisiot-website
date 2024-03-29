@@ -10,6 +10,7 @@ if [ $# -eq 1 ]
 fi
 git commit -m "$msg"
 
+
 echo 'Push source'
 # Push source and build repos.
 git push origin main
@@ -18,7 +19,7 @@ git push origin main
 echo -e "\033[0;32mDeploying updates to GitHub...\033[0m"
 
 echo 'Build hugo'
-
+export HUGO_ENV=production
 # Build the project.
 hugo # if using a theme, replace with `hugo -t <YOURTHEME>`
 

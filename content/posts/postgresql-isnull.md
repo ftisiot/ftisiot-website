@@ -6,7 +6,8 @@ description: "11 Lessons to learn when using NULLs in PostgreSQL®"
 tldr: "11 Lessons to learn when using NULLs in PostgreSQL®"
 image: "/images/2024/isnullgreyed.png"
 credit: "ftisiot"
-thumbnail: "/images/2024/isnull.png"
+featured_image: "/images/2024/isnull.png"
+show_reading_time: true
 categories:
 - PostgreSQL
 - SQL

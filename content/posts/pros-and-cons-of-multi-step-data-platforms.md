@@ -6,7 +6,8 @@ description: "Discussing pros and cons about multi step data platforms"
 tldr: "What are the pros and the cons about a multi step data platforms"
 image: "/images/2023/newtech.png"
 credit: "ftisiot"
-thumbnail: "/images/2023/newtech.png"
+featured_image: "/images/2023/newtech.png"
+show_reading_time: true
 categories:
 - Data
 - Platforms

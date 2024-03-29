@@ -6,6 +6,7 @@ title: Convert Blog from Wordpress Hugo and GitHub Pages
 type: post
 url: /2020/11/26/convert-blog-from-wordpress-to-hugo-and-github-pages/
 image: "/images/2020/10/talking.png?w=300"
+show_reading_time: true
 categories:
 - blog
 - hugo

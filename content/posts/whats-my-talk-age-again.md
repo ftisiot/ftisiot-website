@@ -6,6 +6,7 @@ title: What's My (Talk) Age Again?
 type: post
 url: /2020/11/02/whats-my-talk-age-again/
 image: "/images/2020/11/image.png?w=300"
+show_reading_time: true
 categories:
 - public speaking
 - Tech

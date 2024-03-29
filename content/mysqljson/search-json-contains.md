@@ -6,7 +6,8 @@ description: "How to query JSON in MySQL with json_contains"
 tldr: "How to query JSON in MySQL with json_contains"
 image: "/images/2023/mysql-json.png"
 credit: "ftisiot"
-thumbnail: "/images/2023/mysql-json-little.png"
+featured_image: "/images/2023/mysql-json-little.png"
+show_reading_time: true
 categories:
 - mysql
 - json

@@ -6,7 +6,8 @@ description: "How to consume Apache Kafka messages via REST APIs"
 tldr: "Using Karapace, an open source schema registry and REST API endpoint"
 image: "/images/2023/karapace-output.png"
 credit: "ftisiot"
-thumbnail: "/images/2023/karapace-output.png"
+featured_image: "/images/2023/karapace-output.png"
+show_reading_time: true
 categories:
 - Apache Kafka
 - REST APIs

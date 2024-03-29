@@ -6,7 +6,8 @@ description: "How to create a JSON document from fields in MySQL"
 tldr: "How to create a JSON document from fields in MySQL"
 image: "/images/2023/mysql-json.png"
 credit: "ftisiot"
-thumbnail: "/images/2023/mysql-json-little.png"
+featured_image: "/images/2023/mysql-json-little.png"
+show_reading_time: true
 categories:
 - mysql
 - json

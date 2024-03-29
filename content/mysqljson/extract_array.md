@@ -6,7 +6,8 @@ description: "How to extract an item from an array in a JSON object in MySQL"
 tldr: "How to extract an item from an array in a JSON object in MySQL"
 image: "/images/2023/mysql-json.png"
 credit: "ftisiot"
-thumbnail: "/images/2023/mysql-json-little.png"
+featured_image: "/images/2023/mysql-json-little.png"
+show_reading_time: true
 categories:
 - mysql
 - json

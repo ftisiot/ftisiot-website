@@ -6,7 +6,8 @@ description: "List of PostgreSQL® AI Projects and Resources"
 tldr: "List of PostgreSQL® AI Projects and Resources"
 image: "/images/2024/list-pg-resources.png"
 credit: "ftisiot"
-thumbnail: "/images/2024/list-pg-resources-t.png"
+featured_image: "/images/2024/list-pg-resources-t.png"
+show_reading_time: true
 categories:
 - PostgreSQL
 - AI

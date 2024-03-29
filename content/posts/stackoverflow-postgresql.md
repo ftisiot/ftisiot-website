@@ -7,7 +7,8 @@ description: "How to load StackOverflow StackExchange data in PostgreSQL"
 tldr: "How to load StackOverflow StackExchange data in PostgreSQL"
 image: "/images/2024/stackoverflow_codegrey.png"
 credit: "@ftisiot"
-thumbnail: "/images/2024/stackoverflow_code.png"
+featured_image: "/images/2024/stackoverflow_code.png"
+show_reading_time: true
 categories:
 - PostgreSQL
 - StackOverflow

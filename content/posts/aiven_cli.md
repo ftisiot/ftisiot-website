@@ -6,8 +6,9 @@ title: First Steps within Aiven... the CLI!
 type: post
 url: /2021/01/15/aiven_cli/
 image: "/images/2021/01/Authentication_token.jpg"
-thumbnail: "/images/aiven_small.jpeg"
+featured_image: "/images/aiven_small.jpeg"
 credit: "https://twitter.com/ftisiot/"
+show_reading_time: true
 categories:
 - work
 tags:

@@ -6,7 +6,7 @@ description: "Content related to the SOFT methodology"
 tldr: "Content related to the SOFT methodology"
 image: "/images/2023/soft.png"
 credit: "ftisiot"
-thumbnail: "/images/2023/soft.png"
+featured_image: "/images/2023/soft.png"
 categories:
 - soft
 - data-platforms

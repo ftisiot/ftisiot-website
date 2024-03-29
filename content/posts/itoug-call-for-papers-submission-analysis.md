@@ -5,6 +5,7 @@ draft: false
 title: ITOUG Call for Papers Submission Analysis
 type: post
 url: /2019/07/30/itoug-call-for-papers-submission-analysis/
+show_reading_time: true
 categories:
 - conferences
 tags:

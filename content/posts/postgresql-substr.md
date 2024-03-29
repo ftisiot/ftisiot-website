@@ -6,7 +6,8 @@ description: "Examples on how to use PostgreSQL SUBSTR"
 tldr: "Examples on how to use PostgreSQL SUBSTR"
 image: "/images/2024/substr.png"
 credit: "ftisiot"
-thumbnail: "/images/2024/substr-thumbnail.png"
+featured_image: "/images/2024/substr-thumbnail.png"
+show_reading_time: true
 categories:
 - PostgreSQL
 - substr

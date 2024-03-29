@@ -6,7 +6,8 @@ description: "How to use pgbench to test PostgreSQL® performance"
 tldr: "How to use pgbench to test PostgreSQL® performance"
 image: "/images/2024/index_suggestion.png"
 credit: "ftisiot"
-thumbnail: "/images/2024/index_suggestion.png"
+featured_image: "/images/2024/index_suggestion.png"
+show_reading_time: true
 categories:
 - PostgreSQL
 - pgbench

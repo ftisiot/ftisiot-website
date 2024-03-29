@@ -6,6 +6,7 @@ title: A Talk For One
 type: post
 url: /2020/10/26/a-talk-for-one/
 image: "/images/2020/10/talking.png?w=300"
+show_reading_time: true
 categories:
 - conferences
 - public speaking

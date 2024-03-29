@@ -7,7 +7,8 @@ description: "My slides are useless, but still... are useful"
 tldr: "My slides are useless, but still... are useful"
 image: "/images/2022/useless-slide.jpg"
 credit: "https://twitter.com/ftisiot/"
-thumbnail: "/images/2022/useless-slide.jpg"
+featured_image: "/images/2022/useless-slide.jpg"
+show_reading_time: true
 categories:
 - Presenting
 - Tips

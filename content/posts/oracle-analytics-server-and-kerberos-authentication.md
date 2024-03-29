@@ -5,6 +5,7 @@ draft: false
 title: Oracle Analytics Server and Kerberos Authentication
 type: post
 url: /2020/09/18/oracle-analytics-server-and-kerberos-authentication/
+show_reading_time: true
 categories:
 - Analytics
 - Tech

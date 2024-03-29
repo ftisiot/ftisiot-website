@@ -7,7 +7,8 @@ description: 'How to Convert Epoch to Timestamps in Apache Flink with ``TO_TIMES
 tldr: "Use ``TO_TIMESTAMP_LTZ`` with the appropriate parameter"
 image: "/images/2022/flink-timestamps.png"
 credit: ""
-thumbnail: "/images/2022/flink-timestamps.png"
+featured_image: "/images/2022/flink-timestamps.png"
+show_reading_time: true
 categories:
 - ApacheFlink
 - Timestamps

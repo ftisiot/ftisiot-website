@@ -6,8 +6,9 @@ title: Looking Forward
 type: post
 url: /2021/01/04/looking_forward/
 image: "/images/2021/01/looking_forward.jpg"
-thumbnail: "/images/aiven_small.jpeg"
+featured_image: "/images/aiven_small.jpeg"
 credit: "https://twitter.com/ftisiot/"
+show_reading_time: true
 categories:
 - work
 tags:

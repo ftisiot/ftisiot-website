@@ -5,7 +5,8 @@ url: "/postgresqljson/how-to-remove-items-from-json-array-postgresql"
 description: ""
 image: "/images/2023/pg-json-full.png"
 credit: "ftisiot"
-thumbnail: "/images/2023/pg-json.png"
+featured_image: "/images/2023/pg-json.png"
+show_reading_time: true
 categories:
 - postgresql
 - json

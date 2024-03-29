@@ -6,7 +6,8 @@ description: "My 2 year experience in the PostgreSQL community"
 tldr: "How's the PostgreSQL community? Great!"
 image: "/images/2022/pg-community.png"
 credit: ""
-thumbnail: "/images/2022/pg-community.png"
+featured_image: "/images/2022/pg-community.png"
+show_reading_time: true
 categories:
 - PostgreSQL
 - Community

@@ -6,7 +6,8 @@ description: "How to load JSON data in PostgreSQL with the COPY command"
 tldr: "How to load JSON data in PostgreSQL with the COPY command"
 image: "/images/2024/pgcopyjson.png"
 credit: "ftisiot"
-thumbnail: "/images/2024/pgcopyjson.png"
+featured_image: "/images/2024/pgcopyjson.png"
+show_reading_time: true
 categories:
 - PostgreSQL
 - JSON

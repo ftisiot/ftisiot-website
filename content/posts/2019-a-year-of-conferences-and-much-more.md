@@ -5,6 +5,7 @@ draft: false
 title: 2019 a Year of Conferences and Much More!
 type: post
 url: /2019/12/13/2019-a-year-of-conferences-and-much-more/
+show_reading_time: true
 tags:
 - conferences
 - data science

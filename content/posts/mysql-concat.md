@@ -6,7 +6,8 @@ description: "How to perform string concatenation in MySQL"
 tldr: "How to perform string concatenation in MySQL"
 image: "/images/2024/concat_mysql.png"
 credit: "ftisiot"
-thumbnail: "/images/2024/concat_mysql.png"
+featured_image: "/images/2024/concat_mysql.png"
+show_reading_time: true
 categories:
 - MySQL
 - Concatenation

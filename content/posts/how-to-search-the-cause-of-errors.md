@@ -5,6 +5,7 @@ draft: false
 title: How to search the Cause of Errors
 type: post
 url: /2016/10/12/how-to-search-the-cause-of-errors/
+show_reading_time: true
 ---
 
 I've been working on OBIEE and Oracle products in general since 2008, it has been so far a great experience with an enormous amount of information being available freely in internet.

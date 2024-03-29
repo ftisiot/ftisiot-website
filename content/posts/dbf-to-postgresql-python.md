@@ -6,7 +6,8 @@ description: "Translate from dbf to SQL with Python"
 tldr: "Translate from dbf to SQL with Python"
 image: "/images/2024/dbf-pg.png"
 credit: "ftisiot"
-thumbnail: "/images/2024/dbf-pg.png"
+featured_image: "/images/2024/dbf-pg.png"
+show_reading_time: true
 categories:
 - dbf
 - SQL

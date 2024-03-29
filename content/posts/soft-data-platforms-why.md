@@ -7,7 +7,8 @@ description: "What are the risks of not evaluating a data platform correctly?"
 tldr: "When designing new data platforms, failing to perform a complete assessment of the options available can have disastrous effects on a company's capability to scale and make data secure, discoverable, usable and reusable."
 image: "/images/2022/stuck.png"
 credit: ""
-thumbnail: "/images/2022/stuck-t.png"
+featured_image: "/images/2022/stuck-t.png"
+show_reading_time: true
 categories:
 - Design
 - Data Platforms

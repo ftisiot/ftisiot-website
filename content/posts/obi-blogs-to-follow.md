@@ -5,6 +5,7 @@ draft: false
 title: OBI Blogs to follow
 type: post
 url: /2016/09/29/obi-blogs-to-follow/
+show_reading_time: true
 ---
 
 Hi All,

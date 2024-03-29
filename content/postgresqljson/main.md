@@ -6,7 +6,8 @@ description: "A series of articles on how to solve common JSON problems with Pos
 tldr: "A series of articles on how to solve common JSON problems with PostgreSQL®"
 image: "/images/2023/pg-json-full.png"
 credit: "ftisiot"
-thumbnail: "/images/2023/pg-json.png"
+featured_image: "/images/2023/pg-json.png"
+show_reading_time: true
 categories:
 - postgresql
 - json

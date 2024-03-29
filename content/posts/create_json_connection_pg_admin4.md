@@ -6,7 +6,8 @@ description: "How to define a PostgreSQL database connection in JSON and import 
 tldr: "How to define a PostgreSQL database connection in JSON and import it in PGAdmin 4"
 image: "/images/2022/pgadmin_json.png"
 credit: ""
-thumbnail: "/images/2022/pgadmin_json_thumbnail.png"
+featured_image: "/images/2022/pgadmin_json_thumbnail.png"
+show_reading_time: true
 categories:
 - PGAdmin4
 - PostgreSQL
