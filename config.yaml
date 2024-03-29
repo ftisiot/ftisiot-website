@@ -49,7 +49,7 @@ outputs:
 
 menu:
   main:
-  - name: who
+  - name: about
     title: who
     url: /who
     weight: -10
