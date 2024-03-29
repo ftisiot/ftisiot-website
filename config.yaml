@@ -19,7 +19,7 @@ params:
   - name: youtube
     url: https://www.youtube.com/channel/UCTJ4oA3-T3RdmM2OJ7d8cJg
   - name: mastodon
-    url: https://data-folks.masto.host/@ftisiot
+    url: https://hachyderm.io/@ftisiot
   AuthorName: Francesco Tisiot
   GitHubUser: "ftisiot"
   image: "images/ftisiot.jpg"
