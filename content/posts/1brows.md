@@ -118,7 +118,7 @@ FROM AGG
 
 The main difference, compared to DuckDB is on the usage of the `STRING_AGG` function that allows me to directly create the string ordered by `CITY` with all the metrics.
 
-**Note**: If I use [EverSQL](https://www.eversql.com/?utm_medium=organic&utm_source=ext_blog&utm_content=1browschallenge) to optimise the query, it'll provide a suggestion to add an index on `city` and `temperature`:
+**Note**: If I use [Aiven AI database optimizer](https://go.aiven.io/ft-ai-db-optimizer) to optimise the query, it'll provide a suggestion to add an index on `city` and `temperature`:
 
 ```
 CREATE INDEX test_idx_city_temperature ON "test" ("city","temperature");
