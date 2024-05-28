@@ -11,7 +11,7 @@ description: "Helping PostgreSQL professionals with AI-assisted performance reco
 show_reading_time: true
 ---
 
-Since the beginning of my journey into the data world I've been keen on making professionals better at their data job. In the previous years that took the shape of creating materials in several different forms that could help people understand, use, and avoid mistakes on their data tool of choice. But now there's much more into it: a trusted AI solution to help data professional in their day to day job.
+Since the beginning of my journey into the data world I've been keen on making professionals better at their data job. In the previous years that took the shape of creating materials in several different forms that could help people understand, use, and avoid mistakes on their data tool of choice. But now there's much more into it: a trusted AI solution to help data professional in their day to day optimization job.
 
 <!--more-->
 
