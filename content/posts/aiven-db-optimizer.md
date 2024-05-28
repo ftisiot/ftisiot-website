@@ -31,7 +31,7 @@ But what about the day to day work of developers and CloudOps teams? This was fa
 
 ## Using trusted AI to optimize database workloads
 
-This, however, is now changing. With the recent launch of [Aiven AI Database Optimizer](https://go.aiven.io/ft-ai-db-optimizer) we are able to help both developer and CloudOps in their day to day optimization work!
+This, however, is now changing. With the recent launch of [Aiven AI Database Optimizer](https://aiven.io/blog/aiven-ai-dboptimizer-launch) we are able to help both developer and CloudOps in their day to day optimization work!
 
 Aiven AI Database Optimizer provides, directly in the [Console](https://go.aiven.io/francesco-signup), insights on database workloads alongside a one-click Optimize button that suggests index and SQL rewrites. It's a non intrusive solution who gathers informations from the slow query log and database metadata, and leverages an in-built AI engine, to provide accurate suggestions to improve performance.
 
