@@ -21,7 +21,7 @@ Since the beginning of my journey into the data world I've been keen on making p
 
 The big advantage of the content creation approach is the 1-N effect: the material, once created and updated, can serve a multitude of people interested in the same technology or facing the same problem. You write an article once, and it gets found and adopted by a vast amount of professionals.
 
-The limit of content tho, it's that it is an extra resource, that people need to find and read elsewhere. While this is useful, it forces a context switch with moving people away from the problem they are facing. Here is where tooling helps, providing assistance in the same IDE that professionals are using for their day to day work.
+The limit of content tho, it's that it is an extra resource, that people need to find and read elsewhere. While this is useful, it forces a context switch, moving people away from the problem they are facing. Here is where tooling helps, providing assistance in the same IDE that professionals are using for their day to day work.
 
 ## Tooling for database professionals
 
