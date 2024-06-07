@@ -46,3 +46,6 @@ If you are ready to make magic with Kafka Connect and the Apache Kafka ecosystem
 
 
 Check out the [Aiven Rolling Challenge](go.aiven.io/aiven-challenge-current-na-22)
+
+
+[💻](/slides/breathe-in-breathe-out-kafka-connect/slides.pdf)

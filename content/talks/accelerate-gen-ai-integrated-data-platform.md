@@ -13,3 +13,7 @@ description: "Accelerate generative AI development with integrated data platform
 ---
 
 Generative AI is revolutionizing how we work and interact. Yet for generative AI applications relying on private, regulated, or commercially valuable data, feeding the model with the right information is crucial. Failure could result in adverse consequences such as poor performance, confidential information exposure, or regulatory requirement breaches. An integrated data platform is a powerful way to accelerate the development of generative AI applications by providing real-time data feeds, consolidating inputs from different sources, and defining clear information boundaries. If you are considering generative AI for your business, this lightning talk provides methods for creating safe, up-to-date, and performant applications
+
+
+[🎥](https://www.youtube.com/watch?v=eb6WlHaOCtI)
+[💻](/slides/accelerate-gen-ai-integrated-data-platform/slides.pdf)

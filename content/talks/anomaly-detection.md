@@ -32,3 +32,6 @@ If you want to see the creation of a streaming data pipeline for anomaly detecti
 * [Dockerized Fake Data Producer for Apache Kafka®](https://github.com/aiven/fake-data-producer-for-apache-kafka-docker)
 * [Apache Flink® SQL documentation](https://nightlies.apache.org/flink/flink-docs-master/docs/dev/table/sql/overview/)
 * [Apache Flink® MATCH_RECOGNIZE documentation](https://nightlies.apache.org/flink/flink-docs-release-1.15/docs/dev/table/sql/queries/match_recognize/)
+
+
+[💻](/slides/anomaly-detection/anomaly-detection-flink-kafka.pdf)

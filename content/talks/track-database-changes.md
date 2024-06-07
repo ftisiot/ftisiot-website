@@ -22,3 +22,7 @@ tag: ["apache-kafka", "debezium", "cdc"]
 * [Debezium source connector example](https://aiven.io/blog/db-technology-migration-with-apache-kafka-and-kafka-connect)
 * [JDBC Source Connector: what could go wrong?](https://www.kafka-summit.org/sessions/jdbc-source-connector-what-could-go-wrong)
 * [Aiven for PostgreSQL](https://landing.aiven.io/en/aiven-for-postgresql/)
+
+
+
+[💻](/slides/track-database-changes/track-database-changes.pdf)

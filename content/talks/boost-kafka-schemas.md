@@ -25,3 +25,6 @@ How and Why using Schema Registry with Apache Kafka
 * [Aiven for Apache Kafka®](https://aiven.io/kafka)
 * [Aiven for Apache Kafka® Connect](https://docs.aiven.io/docs/products/kafka/kafka-connect.html)
 * [Karapace: Schema Registry and REST API for Apache Kafka](https://www.karapace.io/)
+
+
+[💻](/slides/boost-kafka-schemas/schemas.pdf)

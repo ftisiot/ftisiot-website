@@ -22,3 +22,5 @@ A talk about JSON handling in PostgreSQL: from data loading to query to indexing
 
 ![Intro image](/slides/pg-json/main.png)
 
+[💻](/slides/pg-json/pg-json.pdf)
+

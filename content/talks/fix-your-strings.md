@@ -41,3 +41,6 @@ In this talk you will learn what PostgreSQL has to offer: starting with pattern 
 * [FuzzyStrMatch](https://www.postgresql.org/docs/current/fuzzystrmatch.html)
 * [Aiven](https://aiven.io/)
 * [GitHub repository with the notebook](https://github.com/ftisiot/fix-your-strings)
+
+
+[💻](/slides/fix-your-strings/fix-your-strings.pdf)

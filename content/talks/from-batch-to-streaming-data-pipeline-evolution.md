@@ -20,3 +20,5 @@ description: "Showcasing how you can evolve from batch to streaming with Apache 
 * [Code examples to run with Aiven for Apache Flink](https://github.com/Aiven-Labs/data-pipeline-evolution-batch-streaming-apache-flink)
 * [Flink JDBC SQL Connector](https://nightlies.apache.org/flink/flink-docs-master/docs/connectors/table/jdbc/)
 * [Flink SQL CDC Connecto for PostgreSQL](https://ververica.github.io/flink-cdc-connectors/master/content/connectors/postgres-cdc.html)
+
+[💻](/slides/from-batch-to-streaming-data-pipeline-evolution/current2023.pdf)

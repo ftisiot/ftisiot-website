@@ -40,3 +40,6 @@ If you want to programmatically keep control over your ever increasing data asse
 * [JSONB in PostgreSQL](https://www.postgresql.org/docs/current/functions-json.html)
 * [Recursive Queries Example PostgreSQL](https://aiven.io/blog/solving-the-knapsack-problem-in-postgresql)
 * [Recursive Queries Example PostgreSQL 14](https://aiven.io/blog/explore-the-new-search-and-cycle-features-in-postgresql-14)
+
+
+[💻](/slides/pg-metadata/pg-metadata.pdf)

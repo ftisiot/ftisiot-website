@@ -20,3 +20,6 @@ tag: ["apache-kafka", "flask", "event-driven-applications"]
 * [Apache Kafka docs](https://kafka.apache.org/)
 * [GitHub Repo](https://github.com/ftisiot/flask-apache-kafka-demo)
 * [Aiven for Apache Kafka](https://aiven.io/kafka)
+
+
+[💻](/slides/flask-kafka/flask-kafka.pdf)

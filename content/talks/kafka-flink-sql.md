@@ -25,3 +25,6 @@ tag: ["apache-kafka", "apache-flink", "sql"]
 * [JDBC source connector example](https://aiven.io/blog/using-kafka-connect-jdbc-source-a-postgresql-example)
 * [Debezium source connector example](https://aiven.io/blog/db-technology-migration-with-apache-kafka-and-kafka-connect)
 * [Aiven for Apache Kafka ](https://aiven.io/kafka)
+
+
+[💻](/slides/kafka-flink-sql/kafka-flink-sql.pdf)

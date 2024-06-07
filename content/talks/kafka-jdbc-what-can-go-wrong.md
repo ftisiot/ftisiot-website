@@ -23,3 +23,6 @@ description: "Few things that can go wrong with the JDBC source connector"
 * [JDBC source connector example](https://aiven.io/blog/using-kafka-connect-jdbc-source-a-postgresql-example)
 * [Debezium source connector example](https://aiven.io/blog/db-technology-migration-with-apache-kafka-and-kafka-connect)
 * [Aiven](https://aiven.io/)
+
+
+[💻](/slides/kafka-jdbc-what-can-go-wrong/kafka-summit2022-jdbc-go-wrong.pdf)

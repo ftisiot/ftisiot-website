@@ -20,3 +20,5 @@ description: "Solving optimization problems with recursive queries and PostgreSQ
 * [Knapsack in PostgreSQL](https://aiven.io/blog/solving-the-knapsack-problem-in-postgresql)
 * [PostgreSQL 14 Search and Cycle Features](https://aiven.io/blog/explore-the-new-search-and-cycle-features-in-postgresql-14)
 * [Aiven](https://aiven.io/)
+
+[💻](/slides/knapsack-problem-pg/knapsack.pdf)

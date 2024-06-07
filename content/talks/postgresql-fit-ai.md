@@ -29,3 +29,6 @@ We'll start by exploring workflows and architectures, from the traditional Machi
 Moving forward, you’ll see how feeding the AI pipeline back to PostgreSQL can lead to accurate and consistent inference. Finally we'll look into how AI can help PostgreSQL users improve performance pattern discovery, optimize indexing, and suggest query optimizations.
 
 As AI continues to become a bigger part of every company, this session will help you to make sure PostgreSQL and your implementations remain relevant on this journey.
+
+
+[💻](/slides/postgresql-fit-ai/PostgreSQLAI.pdf)
