@@ -29,4 +29,4 @@ This is my personal blog! Stay tuned for ideas, tests and opinions related to my
 
 ## Personal BIO
 
-Francesco comes from Verona, Italy and works as a Staff Developer Advocate at Aiven. With his many years of experience as a data analyst, he has stories to tell and advice for data-wranglers everywhere. Francesco loves sharing knowledge with others as a speaker and writer, and is on a mission to defend the world from bad Italian food!
+Francesco comes from Verona, Italy and works as a Field CTO as Aiven. With his many years of experience as a data analyst, he has stories to tell and advice for data-wranglers everywhere. Francesco loves sharing knowledge with others as a speaker and writer, and is on a mission to defend the world from bad Italian food!
