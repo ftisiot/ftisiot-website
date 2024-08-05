@@ -14,7 +14,7 @@ tag: ["whoamI", "ftisiot", "FrancescoTisiot"]
 
 Ciao!
 
-I’m Francesco Tisiot, Staff Developer Advocate at [Aiven](https://aiven.io). You can find me on twitter at [@ftisiot](https://twitter.com/ftisiot) and on [LinkedIn](https://www.linkedin.com/in/francescotisiot/)
+I’m Francesco Tisiot, Field CTO at [Aiven](https://aiven.io). You can find me on twitter at [@ftisiot](https://twitter.com/ftisiot) and on [LinkedIn](https://www.linkedin.com/in/francescotisiot/)
 
 
 ![Me](/images/ftisiotroundnew.png)
