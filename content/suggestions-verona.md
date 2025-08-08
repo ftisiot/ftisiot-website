@@ -25,7 +25,6 @@ Now and then I get asked what to do and where to eat nearby Verona, so there, yo
 * [Berberè](https://www.berberepizza.it/en/berbere-verona/): the pizzeria in one of the main squares but really good pizza. 🍕💰💰
 * [Tapasotto](https://www.tapasotto.com/): a place doing high quality Italian tapas (small dishes, order at least 2 each). 🥩🐟💰💰
 * [Bar Terrazza al ponte](https://www.tripadvisor.com/Restaurant_Review-g187871-d2140257-Reviews-Terrazza_Bar_al_Ponte-Verona_Province_of_Verona_Veneto.html): a bar with a nice terrace looking at the river, a nice place for a drink. ☕🍹💰
-* [Alcova del Frate](https://www.alcovadelfrate.it/): if you're willing to try horse meat. 🥩💰💰
 * [Torcolo](https://www.ristorantetorcolo.it/): typical dish is the "boiled meat", it sounds horrible but is actually quite tasty, a mix of different meats served with local side sauces. 🥩💰💰
 * [Locanda di Castelvecchio](https://www.tripadvisor.com/Restaurant_Review-g187871-d1087170-Reviews-Locanda_di_Castelvecchio-Verona_Province_of_Verona_Veneto.html): see above, but more classy. 🥩💰💰💰
 * [Pescheria i Masenini](https://www.pescheriaimasenini.it/): Fish in the city center! 🐟💰💰💰
@@ -43,7 +42,6 @@ Now and then I get asked what to do and where to eat nearby Verona, so there, yo
 My preference in the city center are: 
 
 * [The art of ice cream](https://www.tripadvisor.com/Restaurant_Review-g187871-d6555166-Reviews-L_Arte_del_Gelato-Verona_Province_of_Verona_Veneto.html)
-* [Gelateria Terra e cuore - Borgo trento](https://terraecuoregelato.it/)
 * [Pecora Nera](https://www.tripadvisor.com/Restaurant_Review-g187871-d3575232-Reviews-Pecoranera-Verona_Province_of_Verona_Veneto.html) a bit out of the city center
 
 ## What to do in the city
