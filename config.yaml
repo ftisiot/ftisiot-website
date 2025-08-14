@@ -5,6 +5,18 @@ title: "ftisiot ideas about tech, food and life"
 googleAnalytics: "G-7Z74BTZ0TM"
 pygmentsStyle: pygments
 
+# SEO Meta Tags
+meta_description: "Francesco Tisiot's tech blog covering PostgreSQL, MySQL, Apache Kafka, data engineering, and more. Expert insights on database optimization, streaming data, and modern data platforms."
+meta_keywords: "PostgreSQL, MySQL, Apache Kafka, data engineering, database optimization, streaming data, data platforms, tech blog, Francesco Tisiot"
+
+# Sitemap Configuration
+sitemap:
+  changefreq: monthly
+  priority: 0.5
+  filename: sitemap.xml
+
+# Robots.txt
+enableRobotsTXT: true
 
 
 params:
@@ -24,6 +36,21 @@ params:
   image: "images/ftisiot.jpg"
   enableEmoji: true
   GoogleAnalyticsID: "G-7Z74BTZ0TM"
+  
+  # Open Graph
+  og_image: "https://ftisiot.net/images/ftisiot.jpg"
+  og_type: "website"
+  og_site_name: "ftisiot.net"
+  
+  # Twitter Card
+  twitter_card: "summary_large_image"
+  twitter_creator: "@FTisiot"
+  twitter_site: "@FTisiot"
+  
+  # Additional SEO
+  enableSchema: true
+  enableSearch: true
+  enableRelatedContent: true
 
 permalinks:
   post: /:year/:month/:day/:title/
