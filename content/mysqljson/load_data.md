@@ -95,8 +95,4 @@ You can see the row correctly stored.
 ```
 
 
-
-
-{{< code "/components/mysqllink" >}}
-
 > **NOTE**: more info is available in the [MySQL JSON functions documentation page](https://dev.mysql.com/doc/refman/8.0/en/json.html)

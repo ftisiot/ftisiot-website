@@ -35,7 +35,7 @@ A quick overview of the methods is available in the video, scroll further for th
 
 > **NOTE**: more info is available in the [PostgreSQL JSON functions documentation page](https://www.postgresql.org/docs/current/functions-json.html)
 
-{{< code "/components/pglink" >}}
+
 
 
 ## The dataset

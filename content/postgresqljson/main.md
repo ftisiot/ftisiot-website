@@ -66,4 +66,3 @@ This series covers how to solve common problems on JSON datasets with PostgreSQL
 * [How to edit a JSON document in PostgreSQL?](/postgresqljson/how-to-edit-json-postgresql)
 
 
-{{< code "/components/pglink" >}}

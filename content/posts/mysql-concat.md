@@ -20,7 +20,7 @@ One of the most common tasks with strings is concatenation! This blog post showc
 
 <!--more-->
 
-{{< code "/components/mysqllink" >}}
+
 
 ## String concatenation in MySQL by placing strings next to each other
 

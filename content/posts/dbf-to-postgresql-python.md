@@ -19,7 +19,7 @@ Some time ago I found an interesting database file suffix I never faced before: 
 
 <!--more-->
 
-{{< code "/components/pglink" >}}
+
 
 ## Download a sample dbf file
 

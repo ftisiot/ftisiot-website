@@ -27,7 +27,7 @@ I recently found about the StackOverflow dataset in [Kaggle](https://www.kaggle.
 
 > The data is provided by the [Stack Exchange Network](https://archive.org/details/stackexchange)
 
-{{< code "/components/pglink" >}}
+
 
 ## Create a PostgreSQL database
 

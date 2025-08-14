@@ -25,7 +25,7 @@ All the main sources like [my own blog](/postgresqljson/how-to-load-json-postgre
 
 In this blog we'll see how to upload the JSON directly using PostgreSQL `COPY` command and using an utility called [jq](https://jqlang.github.io/jq/)!
 
-{{< code "/components/pglink" >}}
+
 
 ## PostgreSQL COPY command
 

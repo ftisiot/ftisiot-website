@@ -21,7 +21,7 @@ You can remove a field from JSON document in MySQL with the `JSON_REMOVE` functi
 
 > **NOTE**: more info is available in the [MySQL JSON functions documentation page](https://dev.mysql.com/doc/refman/8.0/en/json.html)
 
-{{< code "/components/mysqllink" >}}
+
 
 
 ## The dataset

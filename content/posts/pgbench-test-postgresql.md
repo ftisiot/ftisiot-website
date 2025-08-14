@@ -19,7 +19,7 @@ This blog post showcases how to install (on a Mac) and use pgbench to create loa
 
 <!--more-->
 
-{{< code "/components/pglink" >}}
+
 
 ## Install pgbench locally
 

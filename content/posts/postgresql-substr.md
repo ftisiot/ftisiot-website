@@ -26,7 +26,7 @@ The text column can be of:
 
 As per note in the [documentation](https://www.postgresql.org/docs/current/functions-string.html), all the string functions are declared to accept and return type `text`, all the other types will be converted to it.
 
-{{< code "/components/pglink" >}}
+
 
 > **Note**: For most use cases, you can also use the `SUBSTR` function, the cases and related syntax are included in the blog
 

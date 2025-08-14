@@ -20,7 +20,7 @@ You can insert a field in a JSON document in MySQL with the `JSON_INSERT` functi
 
 > **NOTE**: more info is available in the [MySQL JSON functions documentation page](https://dev.mysql.com/doc/refman/8.0/en/json.html)
 
-{{< code "/components/mysqllink" >}}
+
 
 ## The dataset
 

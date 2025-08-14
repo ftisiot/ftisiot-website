@@ -21,7 +21,7 @@ Last week the good old [Gunnar Morling](https://www.linkedin.com/in/gunnar-morli
 
 > Alert: the following is **NOT** a benchmark! The test is done with default installations of both databases and NO optimization. The blog only shows the technical viability of a solution.
 
-{{< code "/components/pglink" >}}
+
 
 
 ## Generate the data

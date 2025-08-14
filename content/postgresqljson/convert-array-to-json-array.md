@@ -24,7 +24,7 @@ PostgreSQL® offers two types of data types to handle JSON data, `JSON` and `JSO
 
 > **NOTE**: more info is available in the [PostgreSQL JSON functions documentation page](https://www.postgresql.org/docs/current/functions-json.html)
 
-{{< code "/components/pglink" >}}
+
 
 ## Convert an array to a JSON array with the `array_to_json` function
 

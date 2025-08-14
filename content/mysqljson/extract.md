@@ -28,7 +28,7 @@ Both operators use the [JSON Path Syntax](https://dev.mysql.com/doc/refman/8.0/e
 
 > **NOTE**: more info is available in the [MySQL JSON functions documentation page](https://dev.mysql.com/doc/refman/8.0/en/json.html)
 
-{{< code "/components/mysqllink" >}}
+
 
 
 ## The dataset

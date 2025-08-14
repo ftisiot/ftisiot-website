@@ -30,7 +30,7 @@ A quick overview of the methods is available in the video, scroll further for th
 
 {{< youtube NgIdO4FkC_A >}} 
 
-{{< code "/components/pglink" >}}
+
 
 If you need to load JSON files in an existing table with well defined columns, check the dedicated article on [how to load the JSON Data with PostgreSQL COPY and jq](/postgresqljson/load-json-data-with-postgresql-copy).
 

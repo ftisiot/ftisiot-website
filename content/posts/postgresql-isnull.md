@@ -22,7 +22,7 @@ A boolean value should only contain two values, `True` or `False`, but is it cor
 
 <!--more-->
 
-{{< code "/components/pglink" >}}
+
 
 ## It all starts with some columns and rows
 

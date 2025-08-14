@@ -15,7 +15,7 @@ Since the beginning of my journey into the data world I've been keen on making p
 
 <!--more-->
 
-{{< code "/components/pglink" >}}
+
 
 ## From content to tooling
 

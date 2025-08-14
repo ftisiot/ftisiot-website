@@ -26,7 +26,7 @@ PostgreSQL® offers two types of data types to handle JSON data, `JSON` and `JSO
 
 > **NOTE**: more info is available in the [PostgreSQL JSON functions documentation page](https://www.postgresql.org/docs/current/functions-json.html)
 
-{{< code "/components/pglink" >}}
+
 
 ## Create a JSON object from two arrays of keys and values with the `json_object` function
 

@@ -20,7 +20,7 @@ Earlier this month I wrote a piece on solving [Gunnar Morling](https://www.linke
 
 > Alert: the following is **NOT** a benchmark! The test is done with default installations of both databases and NO optimization. The blog only shows the technical viability of a solution.
 
-{{< code "/components/mysqllink" >}}
+
 
 ## Install MySQL on Mac
 

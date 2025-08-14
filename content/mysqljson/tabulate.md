@@ -20,7 +20,7 @@ You can tabulate a JSON document (retrieve it as a row) in MySQL with the `JSON_
 
 > **NOTE**: more info is available in the [MySQL JSON functions documentation page](https://dev.mysql.com/doc/refman/8.0/en/json.html)
 
-{{< code "/components/mysqllink" >}}
+
 
 
 ## The dataset

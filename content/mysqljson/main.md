@@ -43,5 +43,3 @@ This series covers how to solve common problems on JSON datasets with MySQL and 
 * [How to merge JSON documents in MySQL?](/mysqljson/how-to-merge-JSON-documents-mysql)
 * [How to edit a JSON document in MySQL?](/mysqljson/how-to-edit-JSON-document-mysql)
 * [How to insert a field in a JSON document in MySQL?](/mysqljson/how-to-insert-field-JSON-document-mysql)
-
-{{< code "/components/mysqllink" >}}

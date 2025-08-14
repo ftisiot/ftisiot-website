@@ -24,7 +24,7 @@ You can merge two JSON documents in MySQL with:
 
 > **NOTE**: more info is available in the [MySQL JSON functions documentation page](https://dev.mysql.com/doc/refman/8.0/en/json.html)
 
-{{< code "/components/mysqllink" >}}
+
 
 
 ## The dataset

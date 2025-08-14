@@ -26,7 +26,7 @@ Some of the examples are based on [this blog](https://scalegrid.io/blog/using-js
 
 > **NOTE**: more info is available in the [PostgreSQL JSON functions documentation page](https://www.postgresql.org/docs/current/functions-json.html)
 
-{{< code "/components/pglink" >}}
+
 
 ## The dataset
 
