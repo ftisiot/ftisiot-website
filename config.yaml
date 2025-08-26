@@ -1,7 +1,7 @@
 theme: "gohugo-theme-ananke"
 baseURL: "https://ftisiot.net"
 languageCode : "en-us"
-title: "ftisiot ideas about tech, food and life"
+title: "Data and Open Source"
 googleAnalytics: "G-7Z74BTZ0TM"
 pygmentsStyle: pygments
 
