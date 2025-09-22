@@ -4,7 +4,7 @@ date: 2017-02-28 14:33:52+00:00
 draft: false
 title: ITOUG Call for Papers is Open!
 type: post
-url: /2017/02/28/itoug-call-for-papers-is-open/
+url: /posts/itoug-call-for-papers-is-open/
 show_reading_time: true
 categories:
 - conferences

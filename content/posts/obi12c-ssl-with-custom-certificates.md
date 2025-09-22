@@ -4,7 +4,7 @@ date: 2016-10-16 18:40:45+00:00
 draft: false
 title: OBI12c SSL with Custom Certificates
 type: post
-url: /2016/10/16/obi12c-ssl-with-custom-certificates/
+url: /posts/obi12c-ssl-with-custom-certificates/
 show_reading_time: true
 ---
 

@@ -4,7 +4,7 @@ date: 2016-09-29 10:17:15+00:00
 draft: false
 title: OBI Blogs to follow
 type: post
-url: /2016/09/29/obi-blogs-to-follow/
+url: /posts/obi-blogs-to-follow
 show_reading_time: true
 ---
 

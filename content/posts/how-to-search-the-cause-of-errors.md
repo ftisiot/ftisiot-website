@@ -4,7 +4,7 @@ date: 2016-10-12 18:40:22+00:00
 draft: false
 title: How to search the Cause of Errors
 type: post
-url: /2016/10/12/how-to-search-the-cause-of-errors/
+url: /posts/how-to-search-the-cause-of-errors/
 show_reading_time: true
 ---
 

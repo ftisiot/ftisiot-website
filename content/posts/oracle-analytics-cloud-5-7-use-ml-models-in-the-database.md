@@ -4,7 +4,7 @@ date: 2020-08-10 09:08:25+00:00
 draft: false
 title: 'Oracle Analytics Cloud 5.7: Use ML Models in the Database'
 type: post
-url: /2020/08/10/oracle-analytics-cloud-5-7-use-ml-models-in-the-database/
+url: /posts/oracle-analytics-cloud-5-7-use-ml-models-in-the-database/
 show_reading_time: true
 categories:
 - Analytics

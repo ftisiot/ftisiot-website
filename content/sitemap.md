@@ -47,7 +47,7 @@ sitemap:
 - [1 Billion Rows Challenge in MySQL](/posts/1browsmysql) - MySQL performance comparison
 - [2019: A Year of Conferences and Much More](/2019/12/13/2019-a-year-of-conferences-and-much-more/) - Conference highlights
 - [A Month in Aiven](/2021/01/27/a_month_in_aiven/) - First month experience at Aiven
-- [A Talk for One](/posts/a-talk-for-one) - Speaking experiences
+- [A Talk for One](/posts/a-talk-for-one/) - Speaking experiences
 - [Aiven CLI](/2021/01/15/aiven_cli/) - Command line interface guide
 - [Aiven DB Optimizer](/posts/aiven-db-optimizer) - Database optimization
 - [Apache Flink to Timestamp LTZ](/posts/apache-flink-to-timestamp-ltz) - Timestamp conversion
@@ -55,22 +55,23 @@ sitemap:
 - [Create JSON Connection in PG Admin 4](/posts/create_json_connection_pg_admin4) - Database connections
 - [DBF to PostgreSQL with Python](/posts/dbf-to-postgresql-python) - Data migration
 - [First Blog Post](/2016/09/28/first-blog-post/) - Welcome message
-- [How to Search the Cause of Errors](/posts/how-to-search-the-cause-of-errors) - Error troubleshooting
-- [ITOUG Call for Papers is Open](/posts/itoug-call-for-papers-is-open) - Conference submissions
-- [ITOUG Call for Papers Submission Analysis](/posts/itoug-call-for-papers-submission-analysis) - Analysis insights
+- [From Data Stack to Data Stuck](/posts/from-data-stack-to-data-stuck) - Platform evaluation risks
+- [How to Search the Cause of Errors](/posts/how-to-search-the-cause-of-errors/) - Error troubleshooting
+- [ITOUG Call for Papers is Open](/posts/itoug-call-for-papers-is-open/) - Conference submissions
+- [ITOUG Call for Papers Submission Analysis](/posts/itoug-call-for-papers-submission-analysis/) - Analysis insights
 - [JQ KCat Consumer](/posts/jq-kcat-consumer) - Kafka consumer tools
 - [Kafka Connect Sink ElasticSearch OpenSearch Timestamp](/posts/kafka_connect_sink_elasticsearch_opensearch_timestamp) - Timestamp handling
 - [Kafka Consume HTTP](/posts/kafka-consume-http) - HTTP integration
 - [List of PostgreSQL AI Resources](/posts/list-of-postgresql-ai-resources) - AI resources
 - [Looker for OBIEE Experts](/2018/08/23/looker-for-obiee-experts-introduction-and-concepts/) - Analytics comparison
-- [Looking Back a Few Years](/posts/looking_back_few_years) - Career reflection
-- [Looking Forward](/posts/looking_forward) - Future plans
+- [Looking Back](/2020/11/26/looking_back/) - Career reflection
+- [Looking Forward](/2021/01/04/looking_forward/) - Future plans
 - [MySQL Concat](/posts/mysql-concat) - String functions
 - [OBI Blogs to Follow](/posts/obi-blogs-to-follow) - Recommended blogs
 - [OBI12c Performance Tiles PDF Print Error](/posts/obi12c-performance-tiles-pdf-print-error) - Troubleshooting
-- [OBI12c SSL with Custom Certificates](/posts/obi12c-ssl-with-custom-certificates) - SSL configuration
-- [Oracle Analytics Cloud 5.7 Use ML Models](/posts/oracle-analytics-cloud-5-7-use-ml-models-in-the-database) - Machine learning
-- [Oracle Analytics Server and Kerberos Authentication](/posts/oracle-analytics-server-and-kerberos-authentication) - Authentication
+- [OBI12c SSL with Custom Certificates](/posts/obi12c-ssl-with-custom-certificates/) - SSL configuration
+- [Oracle Analytics Cloud 5.7 Use ML Models](/posts/oracle-analytics-cloud-5-7-use-ml-models-in-the-database/) - Machine learning
+- [Oracle Analytics Server and Kerberos Authentication](/posts/oracle-analytics-server-and-kerberos-authentication/) - Authentication
 - [pgbench Test PostgreSQL](/posts/pgbench-test-postgresql) - Performance benchmarking
 - [PostgreSQL Community](/posts/postgresql-community) - Community experience
 - [PostgreSQL ISNULL](/posts/postgresql-isnull) - Handling NULL values
