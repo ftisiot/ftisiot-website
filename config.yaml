@@ -77,7 +77,7 @@ menu:
   main:
   - name: about
     title: who
-    url: /who
+    url: /who/
     weight: -10
   - name: suggestions
     title: suggestions

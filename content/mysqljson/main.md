@@ -21,25 +21,25 @@ This series covers how to solve common problems on JSON datasets with MySQL and 
 
 ### Common JSON questions
 
-* [How to load JSON data in MySQL?](/mysqljson/how-to-load-json-mysql)
+* [How to load JSON data in MySQL?](/mysqljson/how-to-load-json-mysql/)
 
 ### Parse JSON
 
-* [How to extract a field from a JSON object in MySQL?](/mysqljson/how-to-extract-field-from-json-mysql)
-* [How to extract an item from an array in a JSON object in MySQL?](/mysqljson/how-to-extract-field-from-array-json-mysql)
-* [How to get the JSON field types in MySQL?](/mysqljson/how-to-get-json-field-types-mysql)
-* [How to query JSON in MySQL with JSON_CONTAINS?](/mysqljson/query-json-contains-mysql)
+* [How to extract a field from a JSON object in MySQL?](/mysqljson/how-to-extract-field-from-json-mysql/)
+* [How to extract an item from an array in a JSON object in MySQL?](/mysqljson/how-to-extract-field-from-array-json-mysql/)
+* [How to get the JSON field types in MySQL?](/mysqljson/how-to-get-json-field-types-mysql/)
+* [How to query JSON in MySQL with JSON_CONTAINS?](/mysqljson/query-json-contains-mysql/)
 
 ### Create JSON
 
-* [How to create a JSON document from fields in MySQL?](/mysqljson/how-to-create-JSON-document-from-fields-mysql)
+* [How to create a JSON document from fields in MySQL?](/mysqljson/how-to-create-JSON-document-from-fields-mysql/)
 
 ### Tabulate JSON
 
-* [How to tabulate a JSON document in MySQL?](/mysqljson/how-to-tabulate-JSON-document-mysql)
+* [How to tabulate a JSON document in MySQL?](/mysqljson/how-to-tabulate-JSON-document-mysql/)
 
 ### Edit JSON
 
-* [How to merge JSON documents in MySQL?](/mysqljson/how-to-merge-JSON-documents-mysql)
-* [How to edit a JSON document in MySQL?](/mysqljson/how-to-edit-JSON-document-mysql)
-* [How to insert a field in a JSON document in MySQL?](/mysqljson/how-to-insert-field-JSON-document-mysql)
+* [How to merge JSON documents in MySQL?](/mysqljson/how-to-merge-JSON-documents-mysql/)
+* [How to edit a JSON document in MySQL?](/mysqljson/how-to-edit-JSON-document-mysql/)
+* [How to insert a field in a JSON document in MySQL?](/mysqljson/how-to-insert-field-JSON-document-mysql/)

@@ -155,4 +155,4 @@ Result
 ```
 
 
-Review all the JSON MySQL use-cases listed in the [main page](/mysqljson/main)
+Review all the JSON MySQL use-cases listed in the [main page](/mysqljson/main/)

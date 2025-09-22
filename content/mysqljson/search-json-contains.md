@@ -194,4 +194,4 @@ We get the expected `0` since the `drinks` item is not present in the doc
 +--------+
 ```
 
-Review all the JSON MySQL use-cases listed in the [main page](/mysqljson/main)
+Review all the JSON MySQL use-cases listed in the [main page](/mysqljson/main/)

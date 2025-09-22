@@ -55,12 +55,12 @@ Therefore if you absolutely need either to keep the white spaces, the duplicated
 
 ### Indexing
 
-Since its optimized data structure, `JSONB` provides advanced methods for indexing the entire document or only some parts. Read more in the dedicated [PostgreSQL JSON indexing page](/postgresqljson/how-to-index-and-query-json-postgresql).
+Since its optimized data structure, `JSONB` provides advanced methods for indexing the entire document or only some parts. Read more in the dedicated [PostgreSQL JSON indexing page](/postgresqljson/how-to-index-and-query-json-postgresql/).
 
 ### Editing
 
 With `JSON` PostgreSQL is storing the JSON document as text, therefore any edits to the document mean a full replacement of the content.
-With `JSONB`, on the other hand, offers a way to just edit a particular entry in the tree, leaving the rest of the document unaltered. Read more in [How to edit a JSON document in PostgreSQL?](/postgresqljson/how-to-edit-json-postgresql).
+With `JSONB`, on the other hand, offers a way to just edit a particular entry in the tree, leaving the rest of the document unaltered. Read more in [How to edit a JSON document in PostgreSQL?](/postgresqljson/how-to-edit-json-postgresql/).
 
 
 ### Summary

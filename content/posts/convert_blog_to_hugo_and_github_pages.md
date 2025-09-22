@@ -21,7 +21,7 @@ tags:
 - exitwp
 ---
 
-I've had this small personal website for some time now, adding from time to time some stuff mainly related to Oracle Analytics, the [Italian Oracle User Group](www.itoug.it) and personal speaking experiences.
+I've had this small personal website for some time now, adding from time to time some stuff mainly related to Oracle Analytics, the [Italian Oracle User Group](http://www.itoug.it) and personal speaking experiences.
 
 I was running it on Wordpress.com which was providing a nice completely managed experience: I didn't have to care about hosting, versioning, SSL etc, all was managed by the platform.
 I just had to focus on content writing and on top of it I had, out of the box, nice dashboards showing visitors of the page and other blog stats.
