@@ -31,7 +31,7 @@ A quick overview of the methods is available in the video, scroll further for th
 
 {{< youtube PSC2xW7LEnk >}} 
 
-> **NOTE**: To review the differences between `JSON` and `JSONB` check out the [related article](/postgresqljson/what-are-the-differences-json-jsonb-postgresql).
+> **NOTE**: To review the differences between `JSON` and `JSONB` check out the [related article](/postgresqljson/what-are-the-differences-json-jsonb-postgresql/).
 
 > **NOTE**: more info is available in the [PostgreSQL JSON functions documentation page](https://www.postgresql.org/docs/current/functions-json.html)
 

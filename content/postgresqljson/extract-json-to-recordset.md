@@ -22,7 +22,7 @@ PostgreSQL® offers two types of data types to handle JSON data, `JSON` and `JSO
 * the `json_populate_recordset` (`jsonb_populate_recordset` for JSONB) function using an existing database type
 * the `json_to_recordset` (`jsonb_to_recordset` for JSONB) function defining the list of fields
 
-> **NOTE**: To review the differences between `JSON` and `JSONB` check out the [related article](/postgresqljson/what-are-the-differences-json-jsonb-postgresql).
+> **NOTE**: To review the differences between `JSON` and `JSONB` check out the [related article](/postgresqljson/what-are-the-differences-json-jsonb-postgresql/).
 
 > **NOTE**: more info is available in the [PostgreSQL JSON functions documentation page](https://www.postgresql.org/docs/current/functions-json.html)
 

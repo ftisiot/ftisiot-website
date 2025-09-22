@@ -91,7 +91,7 @@ However, no matter what you think about minimalist vs informative slide design, 
 As you saw above, I'm all in favour of the minimal approach, with the following tips:
 
 * **Links**: if is not strictly needed in a particular slide or the talk, I add all the links at the end in a section called references. This avoids people trying to write the URL while you talk about something else
-* **Dedicated Page**: within the links in the reference, there'll be one to a dedicated page for the talk (example [here](/talks/knapsack-problem-pg)). Having a dedicated page allows me to:
+* **Dedicated Page**: within the links in the reference, there'll be one to a dedicated page for the talk (example [here](/talks/knapsack-problem-pg/)). Having a dedicated page allows me to:
     * add more/less links
     * review links
     * add/update content when relevant

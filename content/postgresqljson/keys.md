@@ -23,7 +23,7 @@ PostgreSQL® offers two types of data types to handle JSON data, `JSON` and `JSO
 * `json_each_text` (`jsonb_each_text` for the JSONB type) to extract the key as text and the value as separate text object
 * `json_object_keys` (`jsonb_object_keys` for the JSONB type) to extract the keys
 
-> **NOTE**: To review the differences between `JSON` and `JSONB` check out the [related article](/postgresqljson/what-are-the-differences-json-jsonb-postgresql).
+> **NOTE**: To review the differences between `JSON` and `JSONB` check out the [related article](/postgresqljson/what-are-the-differences-json-jsonb-postgresql/).
 
 > **NOTE**: more info is available in the [PostgreSQL JSON functions documentation page](https://www.postgresql.org/docs/current/functions-json.html)
 

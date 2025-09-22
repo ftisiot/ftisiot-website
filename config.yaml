@@ -81,15 +81,15 @@ menu:
     weight: -10
   - name: suggestions
     title: suggestions
-    url: /suggestions-verona
+    url: /suggestions-verona/
     weight: -8
   - name: json-pg
     title: json-pg
-    url: /postgresqljson/main
+    url: /postgresqljson/main/
     weight: -6
   - name: json-mysql
     title: json-mysql
-    url: /mysqljson/main
+    url: /mysqljson/main/
     weight: -5
 
 markup:
