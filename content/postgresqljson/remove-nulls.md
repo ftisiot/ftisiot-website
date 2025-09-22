@@ -128,4 +128,4 @@ Result, the `images` field has been removed since it has a null value
 (1 row)
 ```
 
-Review all the JSON PostgreSQL use-cases listed in the [main page](/postgresqljson/main)
+Review all the JSON PostgreSQL use-cases listed in the [main page](/postgresqljson/main/)

@@ -146,4 +146,4 @@ The `json_set` has the following parameters:
 >  * `return_target`
 
 
-Review all the JSON PostgreSQL use-cases listed in the [main page](/postgresqljson/main)
+Review all the JSON PostgreSQL use-cases listed in the [main page](/postgresqljson/main/)

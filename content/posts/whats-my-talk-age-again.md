@@ -4,7 +4,7 @@ date: 2020-11-02 13:12:10+00:00
 draft: false
 title: What's My (Talk) Age Again?
 type: post
-url: /2020/11/02/whats-my-talk-age-again/
+url: /posts/whats-my-talk-age-again/
 image: "/images/2020/11/image.png?w=300"
 show_reading_time: true
 categories:

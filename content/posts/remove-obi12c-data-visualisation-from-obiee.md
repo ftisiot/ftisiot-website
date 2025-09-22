@@ -4,7 +4,7 @@ date: 2016-10-13 07:28:11+00:00
 draft: false
 title: Remove OBI12c Data Visualisation from OBIEE
 type: post
-url: /2016/10/13/remove-obi12c-data-visualisation-from-obiee/
+url: /posts/remove-obi12c-data-visualisation-from-obiee/
 categories:
 - Analytics
 - Tech

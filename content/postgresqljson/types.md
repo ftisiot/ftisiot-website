@@ -130,6 +130,6 @@ Results
  number  | string
 ```
 
-The `->` operator to extract a JSON field can be reviewed in the [dedicated document](/postgresqljson/how-to-extract-field-from-json-postgresql)
+The `->` operator to extract a JSON field can be reviewed in the [dedicated document](/postgresqljson/how-to-extract-field-from-json-postgresql/)
 
-Review all the JSON PostgreSQL use-cases listed in the [main page](/postgresqljson/main)
+Review all the JSON PostgreSQL use-cases listed in the [main page](/postgresqljson/main/)

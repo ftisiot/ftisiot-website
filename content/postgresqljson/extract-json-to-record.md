@@ -158,4 +158,4 @@ Result
  778 | {(935)503-3765x4154,(935)12345}
 ```
 
-Review all the JSON PostgreSQL use-cases listed in the [main page](/postgresqljson/main)
+Review all the JSON PostgreSQL use-cases listed in the [main page](/postgresqljson/main/)

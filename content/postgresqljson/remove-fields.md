@@ -156,4 +156,4 @@ Result
 
 The `'{pizzas,1,additionalToppings}'` is a JSON path identifying the `pizzas` field, the 2nd entry in the array (`1` since the index starts from `0`) and the nested `additionalToppings` field.
 
-Review all the JSON PostgreSQL use-cases listed in the [main page](/postgresqljson/main)
+Review all the JSON PostgreSQL use-cases listed in the [main page](/postgresqljson/main/)

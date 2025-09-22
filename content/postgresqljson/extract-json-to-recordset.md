@@ -159,4 +159,4 @@ Result
  Margherita | {🍌,🌶️,🍍}
 ```
 
-Review all the JSON PostgreSQL use-cases listed in the [main page](/postgresqljson/main)
+Review all the JSON PostgreSQL use-cases listed in the [main page](/postgresqljson/main/)

@@ -80,4 +80,4 @@ The following table summarizes the differences between `JSON` and `JSONB` data t
 
 
 
-Review all the JSON PostgreSQL use-cases listed in the [main page](/postgresqljson/main)
+Review all the JSON PostgreSQL use-cases listed in the [main page](/postgresqljson/main/)
