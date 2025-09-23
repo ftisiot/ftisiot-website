@@ -1,0 +1,63 @@
+{{/* OpenGraph Meta Tags */}}
+<meta property="og:url" content="{{ .Permalink }}">
+<meta property="og:site_name" content="{{ .Site.Title }}">
+<meta property="og:title" content="{{ if .Title }}{{ .Title }}{{ else }}{{ .Site.Title }}{{ end }}">
+<meta property="og:description" content="{{ if .Description }}{{ .Description }}{{ else if .Summary }}{{ .Summary }}{{ else }}{{ .Site.Params.meta_description }}{{ end }}">
+<meta property="og:locale" content="{{ .Site.LanguageCode | default "en_us" }}">
+<meta property="og:type" content="{{ if .IsPage }}article{{ else }}website{{ end }}">
+
+{{/* OpenGraph Image */}}
+{{ $ogImage := "" }}
+{{ if .Params.image }}
+  {{ $ogImage = .Params.image }}
+{{ else if .Params.featured_image }}
+  {{ $ogImage = .Params.featured_image }}
+{{ else if .Site.Params.og_image }}
+  {{ $ogImage = .Site.Params.og_image }}
+{{ else if .Site.Params.image }}
+  {{ $ogImage = .Site.Params.image }}
+{{ end }}
+
+{{ if $ogImage }}
+  {{ if hasPrefix $ogImage "http" }}
+    <meta property="og:image" content="{{ $ogImage }}">
+  {{ else }}
+    <meta property="og:image" content="{{ .Site.BaseURL }}{{ $ogImage }}">
+  {{ end }}
+  <meta property="og:image:alt" content="{{ if .Title }}{{ .Title }}{{ else }}{{ .Site.Title }}{{ end }}">
+{{ end }}
+
+{{/* Article specific meta tags */}}
+{{ if .IsPage }}
+  <meta property="article:section" content="{{ .Section }}">
+  {{ if .PublishDate }}
+    <meta property="article:published_time" content="{{ .PublishDate.Format "2006-01-02T15:04:05-07:00" }}">
+  {{ end }}
+  {{ if .Lastmod }}
+    <meta property="article:modified_time" content="{{ .Lastmod.Format "2006-01-02T15:04:05-07:00" }}">
+  {{ end }}
+  {{ if .Params.author }}
+    <meta property="article:author" content="{{ .Params.author }}">
+  {{ end }}
+  {{ range .Params.tags }}
+    <meta property="article:tag" content="{{ . }}">
+  {{ end }}
+{{ end }}
+
+{{/* Twitter Card Meta Tags */}}
+<meta name="twitter:card" content="{{ .Site.Params.twitter_card | default "summary_large_image" }}">
+<meta name="twitter:title" content="{{ if .Title }}{{ .Title }}{{ else }}{{ .Site.Title }}{{ end }}">
+<meta name="twitter:description" content="{{ if .Description }}{{ .Description }}{{ else if .Summary }}{{ .Summary }}{{ else }}{{ .Site.Params.meta_description }}{{ end }}">
+{{ if .Site.Params.twitter_creator }}
+  <meta name="twitter:creator" content="{{ .Site.Params.twitter_creator }}">
+{{ end }}
+{{ if .Site.Params.twitter_site }}
+  <meta name="twitter:site" content="{{ .Site.Params.twitter_site }}">
+{{ end }}
+{{ if $ogImage }}
+  {{ if hasPrefix $ogImage "http" }}
+    <meta name="twitter:image" content="{{ $ogImage }}">
+  {{ else }}
+    <meta name="twitter:image" content="{{ .Site.BaseURL }}{{ $ogImage }}">
+  {{ end }}
+{{ end }}

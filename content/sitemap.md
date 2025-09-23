@@ -52,7 +52,7 @@ sitemap:
 - [Aiven DB Optimizer](/posts/aiven-db-optimizer/) - Database optimization
 - [Apache Flink to Timestamp LTZ](/posts/apache-flink-to-timestamp-ltz/) - Timestamp conversion
 - [Convert Blog to Hugo and GitHub Pages](/2020/11/26/convert-blog-from-wordpress-to-hugo-and-github-pages/) - Blog migration
-- [Create JSON Connection in PG Admin 4](/posts/create_json_connection_pg_admin/) - Database connections
+- [Create JSON Connection in PG Admin 4](/posts/create_json_connection_pg_admin4/) - Database connections
 - [DBF to PostgreSQL with Python](/posts/dbf-to-postgresql-python/) - Data migration
 - [First Blog Post](/2016/09/28/first-blog-post/) - Welcome message
 - [From Data Stack to Data Stuck](/posts/from-data-stack-to-data-stuck/) - Platform evaluation risks
@@ -92,7 +92,3 @@ sitemap:
 - [Talks](/talks/) - Conference presentations and talks
 - [Slides](/slides/) - Presentation materials and resources
 
-## Quick Navigation
-- [All Posts](/posts/) - Complete blog archive
-- [All Categories](/categories/) - Browse by topic
-- [Search](/search/) - Find specific content
