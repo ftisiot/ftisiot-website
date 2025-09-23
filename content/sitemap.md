@@ -92,3 +92,8 @@ sitemap:
 - [Talks](/talks/) - Conference presentations and talks
 - [Slides](/slides/) - Presentation materials and resources
 
+### Overall pages
+- [Categories](/categories/) - Browse content by category
+- [Components](/components/) - Browse content by components
+- [Tags](/tag/) - Browse content by tag
+- [Search](/search/) - Search content
