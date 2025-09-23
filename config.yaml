@@ -48,7 +48,7 @@ params:
   twitter_site: "@FTisiot"
   
   # Additional SEO
-  description: "Francesco Tisiot's tech blog covering PostgreSQL, MySQL, Apache Kafka, data engineering, and more. Expert insights on db optimization, streaming, and modern data platforms."
+  description: "Francesco Tisiot's blog covering PostgreSQL, MySQL, Apache Kafka, data engineering, and more. Insights on db optimization, streaming, and modern data platforms"
   
   # Additional SEO
   enableSchema: true
