@@ -94,6 +94,10 @@ menu:
     title: json-mysql
     url: /mysqljson/main/
     weight: -5
+  - name: slides
+    title: slides
+    url: /slides/
+    weight: -4
 
 markup:
   asciidocExt:
