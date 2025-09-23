@@ -2,7 +2,7 @@
 title: 'How to get the JSON field types in PostgreSQL®?'
 date: "2023-01-06T16:59:12+01:00"
 url: "/postgresqljson/how-to-get-json-field-types-postgresql"
-description: ""
+description: "How to get JSON fields type in PostgreSQL"
 tldr: ""
 image: "/images/2023/pg-json-full.png"
 credit: "ftisiot"

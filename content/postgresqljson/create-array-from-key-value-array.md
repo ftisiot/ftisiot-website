@@ -2,7 +2,7 @@
 title: 'How to create a JSON object from keys and values arrays in PostgreSQL®?'
 date: "2023-01-09T17:25:47+01:00"
 url: "/postgresqljson/howto-create-json-from-keys-and-values-arrays-postgresql"
-description: ""
+description: "How to create JSON data from keys and values in an array in PostgreSQL"
 tldr: ""
 image: "/images/2023/pg-json-full.png"
 credit: "ftisiot"

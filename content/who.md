@@ -3,7 +3,7 @@ slug : "who"
 title: "Who is Francesco Tisiot?"
 categories: ["whoamI", "ftisiot", "FrancescoTisiot"]
 date: 2016-09-28T20:00:20Z
-description: ""
+description: "Who is Francesco Tisiot"
 draft: false
 featured_image: "/images/speaking-poug-upper.jpg"
 tag: ["whoamI", "ftisiot", "FrancescoTisiot"]

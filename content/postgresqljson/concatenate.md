@@ -2,7 +2,7 @@
 title: 'How to concatenate two JSON documents in PostgreSQL®?'
 date: "2023-01-10T08:47:04+01:00"
 url: "/postgresqljson/how-to-concatenate-two-json-docs-postgresql"
-description: ""
+description: "How to concatenate two JSON documents in PostgreSQL"
 tldr: ""
 image: "/images/2023/pg-json-full.png"
 credit: "ftisiot"

@@ -2,7 +2,7 @@
 title: 'How to convert a table row to JSON in PostgreSQL®?'
 date: "2023-01-09T16:16:10+01:00"
 url: "/postgresqljson/how-to-convert-table-row-json-postgresql"
-description: ""
+description: "How to convert table row from JSON data in PostgreSQL"
 tldr: ""
 image: "/images/2023/pg-json-full.png"
 credit: "ftisiot"

@@ -2,7 +2,7 @@
 title: 'How to check if JSON contains in PostgreSQL®?'
 date: "2023-01-06T16:39:26+01:00"
 url: "/postgresqljson/how-to-check-JSON-contains-postgresql"
-description: ""
+description: "How to check if JSON contains an element in PostgreSQL"
 tldr: ""
 image: "/images/2023/pg-json-full.png"
 credit: "ftisiot"

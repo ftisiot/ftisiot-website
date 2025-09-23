@@ -2,7 +2,7 @@
 title: 'How to load JSON data in PostgreSQL®?'
 date: "2023-03-01T07:59:12+01:00"
 url: "/postgresqljson/how-to-load-json-postgresql"
-description: ""
+description: "How to load JSON data in PostgreSQL"
 tldr: ""
 image: "/images/2023/pg-json-full.png"
 credit: "ftisiot"

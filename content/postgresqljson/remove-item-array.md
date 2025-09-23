@@ -2,7 +2,7 @@
 title: 'How to remove an item from a JSON array in PostgreSQL®?'
 date: "2023-01-10T08:53:59+01:00"
 url: "/postgresqljson/how-to-remove-items-from-json-array-postgresql"
-description: ""
+description: "How to remove items from a JSON array in PostgreSQL"
 image: "/images/2023/pg-json-full.png"
 credit: "ftisiot"
 featured_image: "/images/2023/pg-json.png"

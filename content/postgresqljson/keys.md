@@ -2,7 +2,7 @@
 title: 'How to parse JSON keys in PostgreSQL®'
 date: "2023-01-09T16:58:02+01:00"
 url: "/postgresqljson/how-to-parse-json-keys-postgresql"
-description: ""
+description: "How to parse keys in JSON data in PostgreSQL"
 tldr: ""
 image: "/images/2023/pg-json-full.png"
 credit: "ftisiot"

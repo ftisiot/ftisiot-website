@@ -2,7 +2,7 @@
 title: 'How to prettify the JSON output in PostgreSQL®'
 date: "2023-01-09T11:53:26+01:00"
 url: "/postgresqljson/how-to-prettify-json-output-in-postgresql"
-description: ""
+description: "How to prettify JSON output in PostgreSQL"
 tldr: ""
 image: "/images/2023/pg-json-full.png"
 credit: "ftisiot"

@@ -2,7 +2,7 @@
 title: 'How to index and query a JSON object in PostgreSQL®?'
 date: "2023-01-06T16:59:12+01:00"
 url: "/postgresqljson/how-to-index-and-query-json-postgresql"
-description: ""
+description: "How to index and query JSON data in PostgreSQL"
 tldr: ""
 image: "/images/2023/pg-json-full.png"
 credit: "ftisiot"

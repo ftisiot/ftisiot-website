@@ -2,7 +2,7 @@
 title: 'How to tabulate a JSON to a recordset in PostgreSQL®'
 date: "2023-01-12T15:06:50+01:00"
 url: "/postgresqljson/how-to-tabulate-json-document-to-a-recordset-postgresql"
-description: ""
+description: "How to tabulate a JSON document to a recordset in PostgreSQL"
 image: "/images/2023/pg-json-full.png"
 credit: "ftisiot"
 featured_image: "/images/2023/pg-json.png"

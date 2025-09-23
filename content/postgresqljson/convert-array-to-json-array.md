@@ -2,7 +2,7 @@
 title: 'How to convert an array to a JSON array in PostgreSQL'
 date: "2023-01-09T17:19:50+01:00"
 url: "/postgresqljson/howto-convert-array-to-json-array-postgresql"
-description: ""
+description: "How to convert and array to JSON data in PostgreSQL"
 tldr: ""
 image: "/images/2023/pg-json-full.png"
 credit: "ftisiot"

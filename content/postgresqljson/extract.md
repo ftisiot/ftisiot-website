@@ -2,7 +2,7 @@
 title: 'How to extract a field from a JSON object in PostgreSQL®?'
 date: "2023-01-06T16:59:12+01:00"
 url: "/postgresqljson/how-to-extract-field-from-json-postgresql"
-description: ""
+description: "How to extract fields from JSON data in PostgreSQL"
 tldr: ""
 image: "/images/2023/pg-json-full.png"
 credit: "ftisiot"
