@@ -51,6 +51,11 @@ params:
   meta_description: "PostgreSQL, Kafka, data, and open source"
   description: "PostgreSQL, Kafka, data, and open source"
   
+  body_classes: "bg-near-white"
+  post_content_classes: "sans-serif"
+  custom_css:
+    - fonts.css
+
   # Additional SEO
   enableSchema: true
   enableSearch: true
