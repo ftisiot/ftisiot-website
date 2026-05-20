@@ -6,7 +6,7 @@ googleAnalytics: "G-7Z74BTZ0TM"
 pygmentsStyle: pygments
 
 # SEO Meta Tags
-meta_description: "Francesco Tisiot's tech blog covering PostgreSQL, MySQL, Apache Kafka, data engineering, and more. Expert insights on database optimization, streaming data, and modern data platforms."
+meta_description: "PostgreSQL, Kafka, data, and open source"
 meta_keywords: "PostgreSQL, MySQL, Apache Kafka, data engineering, database optimization, streaming data, data platforms, tech blog, Francesco Tisiot"
 
 # Sitemap Configuration
@@ -48,7 +48,8 @@ params:
   twitter_site: "@FTisiot"
   
   # Additional SEO
-  description: "Francesco Tisiot's blog covering PostgreSQL, MySQL, Apache Kafka, data engineering, and more. Insights on db optimization, streaming, and modern data platforms"
+  meta_description: "PostgreSQL, Kafka, data, and open source"
+  description: "PostgreSQL, Kafka, data, and open source"
   
   # Additional SEO
   enableSchema: true

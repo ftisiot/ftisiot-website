@@ -1,7 +1,7 @@
 ---
 title: "Francesco Tisiot Ideas!"
 
-description: "From Food till Tech and Everything in the Middle"
+description: "PostgreSQL, Kafka, data, and open source"
 
 theme_version: '2.8.2'
 cascade:
